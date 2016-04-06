@@ -1,10 +1,18 @@
 h9VD3hfF.php
 
 
+app/code/
+app/etc/
+app/locale/
+app/design/adminhtml/
+app/design/install/
+app/design/frontend/base/
+app/design/frontend/default/
+app/design/frontend/rwd/
+
 
 
 cgi-bin/
-app/
 dev/
 downloader/
 errors/
