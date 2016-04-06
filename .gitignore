@@ -1,6 +1,9 @@
 h9VD3hfF.php
 
 
+
+app/Mage.php
+app/bootstrap.php
 app/code/
 app/etc/
 app/locale/
