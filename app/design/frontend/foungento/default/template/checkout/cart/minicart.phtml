@@ -10,13 +10,15 @@
 <?php
     $_cartQty = $this->getSummaryCount();
     if(empty($_cartQty)) {
-        $_cartQty = 0;
+        $_cartQty = '';
     }
 ?>
 
 <a data-reveal-id="firstModal" href="#header-cart" class="skip-link skip-cart <?php if($_cartQty <= 0): ?> no-count<?php endif; ?>">
-    <span class="count"><?php echo $_cartQty; ?> item(s)</span>
-    <span class="mysubtotal"></span>
+	<span class="count"><?php echo $this->__('Shopping Bag'); ?><span class="qty">&nbsp<?php echo $_cartQty; ?></span></span>
+	<!--<span class="count"><?php echo $_cartQty; ?></span>
+    <!--<span class="count"><?php echo $_cartQty; ?> Item(s)</span>
+    <span class="mysubtotal"></span>-->
 </a>
 
 <div id="firstModal" class="reveal-modal" data-reveal class="small medium large content f-dropdown" tabindex="-1">

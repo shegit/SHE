@@ -1,0 +1,28 @@
+<?php
+    $productId = $this->getProduct_id();
+    $product = Mage::getModel('catalog/product')->load($productId);  //load product  
+?>
+<div class="highlight text-center">
+<div class="highlight-image">
+    <a href="<?php echo $product->getProductUrl() ?>" >
+		<img src="<?php echo $this->helper('catalog/image')->init($product, 'small_image')->resize(200, 200); ?>" width="120" alt="<?php echo $this->htmlEscape($product->getName()) ?>" />
+    </a>
+</div>
+	<span><a href="<?php echo $product->getProductUrl() ?>" ><?php echo $this->htmlEscape($product->getName()) ?></a>,</span>
+	<span class="price">
+<?php
+$price = $product->getPrice();
+$webprice = $product->getwebprice();
+$specialprice = $product->getFinalPrice();
+if($specialprice==$price)
+{?>
+<span class="price">€<?php echo number_format($price,2);?></span>
+<?php } else { ?>
+<span class="price">€<s><?php echo number_format($price,2); ?></s></span>
+<div>
+<span><?php echo $this->__('Now just:'); ?></span>
+<span class="price special-price">€<?php echo number_format($specialprice,2); ?></span>
+</div>
+<?php } ?>
+	</span>
+</div>

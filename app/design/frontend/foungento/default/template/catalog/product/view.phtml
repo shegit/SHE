@@ -25,17 +25,23 @@
             <input type="hidden" name="product" value="<?php echo $_product->getId() ?>" />
             <input type="hidden" name="related_product" id="related-products-field" value="" />
         </div>
+		
+		<div class="product-name large-7 large-right hide-for-medium-up">
+                <h1><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
+				<?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('share-box-de')->toHtml(); ?>
+            </div>
         
-        <div class="product-img-box small-12 small-centered medium-5 medium-uncentered large-6 columns">
+        <div class="product-img-box small-12 small-centered medium-6 medium-uncentered large-5 columns">
             <?php echo $this->getChildHtml('media') ?>
         </div>
-        
-        <div class="product-shop small-12 medium-7 large-6 columns">
-            <div class="product-name">
-                <h1><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
-            </div>
-
-			<div class="row">
+		
+		
+		
+		<div class="product-shop small-12 medium-6 large-7 columns end">
+		
+			<h1><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
+			
+			<!--<div class="row friend-review">
             <?php if ($this->canEmailToFriend()): ?>
 				<div class="large-6 columns">
 					<p class="email-friend"><a href="<?php echo $this->helper('catalog/product')->getEmailToFriendUrl($_product) ?>"><?php echo $this->__('Email to a Friend') ?></a></p>
@@ -44,7 +50,7 @@
 				<div class="large-6 columns">
 					<?php echo $this->getReviewsSummaryHtml($_product, false, true)?>
 				</div>
-            </div>
+            </div>-->
 
             
             <?php echo $this->getChildHtml('alert_urls') ?>
@@ -86,7 +92,7 @@
 				<?php endif;?>
 
 				<?php if ($_product->getShortDescription()):?>
-					<div class="container2 large-6 columns">
+					<div class="container2 large-12 columns">
 						<h2><?php echo $this->__('Quick Overview') ?></h2>
 						<div class="std"><?php echo $_helper->productAttribute($_product, nl2br($_product->getShortDescription()), 'short_description') ?></div>
 					</div>
