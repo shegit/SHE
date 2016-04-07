@@ -2,11 +2,13 @@ h9VD3hfF.php
 
 
 
+app/.htaccess
 app/Mage.php
 app/bootstrap.php
 app/code/
 app/etc/
-app/locale/
+app/locale/de_DE/*.csv
+app/locale/en_US/*.csv
 app/design/adminhtml/
 app/design/install/
 app/design/frontend/base/
