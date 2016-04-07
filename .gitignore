@@ -1,7 +1,6 @@
 h9VD3hfF.php
 
 
-
 app/.htaccess
 app/Mage.php
 app/bootstrap.php
@@ -16,17 +15,23 @@ app/design/frontend/default/
 app/design/frontend/rwd/
 
 
+skin/adminhtml/
+skin/install/
+skin/frontend/base/
+skin/frontend/default/
+skin/frontend/rwd/
+skin/frontend/foungento/js/
 
-cgi-bin/
+
 dev/
 downloader/
+cgi-bin/
 errors/
 includes/
 js/
 lib/
 media/
 shell/
-skin/
 var/
 .htaccess
 .htaccess.sample
