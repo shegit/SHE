@@ -96,6 +96,13 @@
                 </block>
             </block>
         </reference>
+		
+		<reference name="right">
+			<block type="core/template" name="right.permanent.callout" template="callouts/right_col.phtml">
+				<!-- <action method="setImgSrc"><src>images/media/col_right_callout.jpg</src></action>
+				<action method="setImgAlt" translate="alt" module="catalog"><alt>Keep your eyes open for our special Back to School items and save A LOT!</alt></action> -->
+			</block>
+		</reference>
     </default>
     
     <catalog_category_layered>
@@ -139,7 +146,6 @@
             <action method="setTemplate"><template>page/2columns-left.phtml</template></action>
         </reference>
     </tag_product_list>
-    
 
 	<checkout_onepage_index>
 		<remove name="top.menu"/>
