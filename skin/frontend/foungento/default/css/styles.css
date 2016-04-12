@@ -1486,6 +1486,10 @@ background-color:#6b5792;
 color:#fff
 }
 
+#nav ul.dropdown li a span {
+color:#fff
+}
+
 #nav li.over a {
 background-color:#6b5792;
 color:#fff
