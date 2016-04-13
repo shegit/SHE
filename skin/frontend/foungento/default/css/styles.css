@@ -2840,18 +2840,6 @@ font-size:16px!important
 font-size:15.5px!important
 }
 
-#nav ul.dropdown li.level1.over a {
-background-color:#625086;
-}
-
-#nav ul.dropdown li.level2 a {
-background-color:#625086!important
-}
-
-#nav ul.dropdown li.level2.over a {
-background-color:#564675!important
-}
-
 .top-bar-section ul.links li a {
 padding:7px 0!important;
 line-height:18px!important;
@@ -3092,6 +3080,18 @@ background-color:#564675!important
 
 #nav ul.dropdown li.over {
 background-color:#564675!important;
+}
+
+#nav ul.dropdown li.level1.over a {
+background-color:#625086;
+}
+
+#nav ul.dropdown li.level2 a {
+background-color:#625086!important
+}
+
+#nav ul.dropdown li.level2.over a {
+background-color:#564675!important
 }
 
 #nav ul.dropdown li.level3 a:hover {
