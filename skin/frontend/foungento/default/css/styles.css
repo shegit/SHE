@@ -3141,7 +3141,15 @@ background-color:#564675!important
 }
 
 #nav ul.dropdown li.level1.over a {
-background-color:#564675!important
+background-color:#564675;
+}
+
+#nav ul.dropdown li.level2 a {
+background-color:#6b5792;
+}
+
+#nav ul.dropdown li.level2.over a {
+background-color:#564675;
 }
 
 #cat-page-desc-wrapper {
