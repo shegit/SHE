@@ -3145,11 +3145,11 @@ background-color:#564675;
 }
 
 #nav ul.dropdown li.level2 a {
-background-color:#6b5792;
+background-color:#6b5792!important
 }
 
 #nav ul.dropdown li.level2.over a {
-background-color:#564675;
+background-color:#564675!important
 }
 
 #cat-page-desc-wrapper {
