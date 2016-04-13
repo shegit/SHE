@@ -1490,6 +1490,10 @@ color:#fff
 color:#fff
 }
 
+#nav li.over {
+background-color:#6b5792!important
+}
+
 #nav li.over a {
 background-color:#6b5792;
 color:#fff
