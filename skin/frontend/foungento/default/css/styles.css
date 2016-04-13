@@ -3094,6 +3094,10 @@ background-color:#564675!important
 background-color:#564675!important;
 }
 
+#nav ul.dropdown li.level3 a:hover {
+	text-decoration:underline;
+}
+
 #cat-page-desc-wrapper {
 -webkit-column-count:2;
 -moz-column-count:2;
