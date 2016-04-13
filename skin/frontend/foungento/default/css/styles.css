@@ -1490,10 +1490,6 @@ color:#fff
 color:#fff
 }
 
-#nav ul.dropdown li.over {
-background-color:#564675;
-}
-
 #nav li.over a {
 background-color:#6b5792;
 color:#fff
@@ -3082,6 +3078,10 @@ background-color:#6b5792!important
 background-color:#564675!important
 }
 
+#nav ul.dropdown li.over {
+background-color:#564675!important;
+}
+
 #cat-page-desc-wrapper {
 -webkit-column-count:2;
 -moz-column-count:2;
@@ -3137,6 +3137,10 @@ background-color:#6b5792!important
 }
 
 #nav li a:hover {
+background-color:#564675!important
+}
+
+#nav ul.dropdown li.over {
 background-color:#564675!important
 }
 
