@@ -1481,12 +1481,12 @@ color:#564685;
 font-size:16.5px
 }
 
-#nav ul.dropdown {
+#nav ul.dropdown { /*12.04.16*/
 background-color:#6b5792;
 color:#fff
 }
 
-#nav ul.dropdown li a span {
+#nav ul.dropdown li a span { /*12.04.16*/
 color:#fff
 }
 
