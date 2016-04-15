@@ -22,6 +22,8 @@ skin/frontend/default/
 skin/frontend/rwd/
 skin/frontend/foungento/js/
 
+!skin/frontend/foungento/media/
+
 
 dev/
 downloader/
