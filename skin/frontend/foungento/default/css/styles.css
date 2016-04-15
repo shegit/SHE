@@ -1649,7 +1649,42 @@ border-radius:12px
 
 .content-wrapper {
 margin:0 auto;
-padding:30px 0 0
+padding:20px 0 0
+}
+
+.concept-wrapper {
+	padding:0 20px!important;
+}
+
+.concept-wrapper .context {
+	padding-bottom:15px;
+}
+
+.concept-wrapper .context h2 {
+	font-size:18px!important;
+}
+
+.concept-wrapper .context a:hover {
+	text-shadow: 1px 1px 1px #eee;
+	text-decoration:none;
+}
+
+.concept-wrapper .context h2.pink {
+	color:#ec12de;
+}
+
+.concept-wrapper .context h2.blue {
+	color:#0f94d6;
+}
+
+.concept-wrapper .context h2.green {
+	color:#44ac45;
+}
+
+.wheel-container .wheel {
+	width:300px;
+	height:304px;
+	margin:0 auto;
 }
 
 .center-wrapper {
@@ -3057,7 +3092,15 @@ background:url(../images/spritesheet.png) no-repeat;
 }
 
 @media only screen and (min-width: 40.063em) {
-	
+
+.concept-wrapper {
+	padding:0 35px!important;
+}
+
+.wheel-container {
+	float:right!important;
+}
+
 .catalog-product-view .product-view .product-name {
 	padding-left:10px;
 }
@@ -3140,6 +3183,11 @@ cursor:default
 }
 
 @media only screen and (min-width: 64.063em) {
+	
+.wheel-container {
+	float:left!important;
+}	
+
 .minicart-head-container span.qty {
 display:none!important
 }
