@@ -1470,7 +1470,7 @@ border-bottom:1px solid #828282
 .sidetext ul li {
 	font-size:0.82rem;
 	line-height:1.2!important;
-	padding:0 2px!important;
+	padding:2px 0!important;
 	min-height:1px;
 	min-width:1px;
 	-webkit-box-shadow: 0px 0px 40px 7px rgba(248,248,248,0.8);
