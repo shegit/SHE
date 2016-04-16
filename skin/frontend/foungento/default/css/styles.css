@@ -297,6 +297,16 @@ border:1px solid #ccc
 	display:none;
 }
 
+.catalog-product-view .product-essential {
+	background-color:#fff;
+	border:1px solid #eee;
+	padding:10px;
+	margin:10px;
+	-webkit-border-radius:12px;
+	-moz-border-radius:12px;
+	border-radius:12px;
+}
+
 .product-view {
 	/*background-color:#fdfdfd;*/
 	/*background-image: -ms-linear-gradient(top, #FFFFFF 0%, #f1fafd 100%);
