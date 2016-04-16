@@ -3100,9 +3100,9 @@ background:url(../images/spritesheet.png) no-repeat;
 	padding-left:10px;
 }
 
-.minicart-head-container span.qty {
+/*.minicart-head-container span.qty {
 display:none!important
-}
+}*/
 
 .footer-container {
 padding-top:30px
