@@ -1537,7 +1537,8 @@ span.address-text {
 #cat-page-desc-wrapper p {
 	color:#4f4365!important;
 	font-size:14px;
-	padding-bottom:5px
+	padding-bottom:5px;
+	margin:0;
 }
 
 #cat-page-desc-wrapper span {
