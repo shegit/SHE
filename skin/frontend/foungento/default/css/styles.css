@@ -2142,12 +2142,12 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	font-size:10px
 }
 
-.wrapper a,.wrapper p,.wrapper span {
+/*.wrapper a,.wrapper p,.wrapper span {
 	color:#1b4669;
 	font-size:14px;
 	margin:0;
 	padding:0
-}
+}*/
 
 .wapper p {
 	line-height:1.5
