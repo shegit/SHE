@@ -2175,12 +2175,12 @@ ul.share-buttons img {
 }
 
 .leftbox h2 {
-	font-size:18px!important
+	font-size:18px!important;
 }
 
 .highlight {
 	margin:0;
-	padding:0
+	padding:5px 0;
 }
 
 .highlight span {
