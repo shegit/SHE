@@ -2360,8 +2360,8 @@ ul.share-buttons img {
 }
 
 .bottom-wrapper ul li p {
-	/*padding:5px 0;*/
 	font-size:0.84rem;
+	color:#1b4669;
 }
 
 @media only screen and (max-width: 40em) /*Applies to SMALL ONLY*/ {
