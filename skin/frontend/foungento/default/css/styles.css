@@ -1867,7 +1867,8 @@ ul.share-buttons img {
 }
 
 .cathead a h2:hover {
-	color:#9e006f
+	color:#9e006f;
+	text-decoration:none;
 }
 
 .catlinks {
