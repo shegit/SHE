@@ -1489,6 +1489,7 @@ border-bottom:1px solid #828282
 
 .catlinks ul li a, .sidetext p, .sidetext span, .sidetext a {
 	color:#225885;
+	font-size:14px;
 }
 
 .help {
