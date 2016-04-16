@@ -1464,13 +1464,13 @@ border-bottom:1px solid #828282
 }
 
 .sidetext ul {
-	padding-bottom:3px!important;
+	padding-bottom:3px;
 }
 
 .sidetext ul li {
 	font-size:0.82rem;
-	line-height:1.2!important;
-	padding:2px 0!important;
+	line-height:1.2;
+	padding:2px 0;
 	min-height:1px;
 	min-width:1px;
 	-webkit-box-shadow: 0px 0px 40px 7px rgba(248,248,248,0.8);
@@ -1636,12 +1636,17 @@ border-bottom:1px solid #828282
 
 .aboutus .sidetext {
 	padding:10px 10px 0 0;
-	width:188px;
 }
 
 .aboutus .sidetext a {
 	color:#666;
 	font-size:0.8rem;
+}
+
+.aboutus .sidetext ul li {
+	min-height:initial;
+	line-height:1.2;
+	width:188px;
 }
 
 /* CMS-INDEX-INDEX --- RIGHT-WRAPPER */
