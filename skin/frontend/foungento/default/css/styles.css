@@ -1646,7 +1646,8 @@ border-bottom:1px solid #828282
 .aboutus .sidetext ul li {
 	min-height:initial;
 	line-height:1.2;
-	width:188px;
+	max-width:188px!important;
+	padding:2px 0;
 }
 
 /* CMS-INDEX-INDEX --- RIGHT-WRAPPER */
