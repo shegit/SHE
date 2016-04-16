@@ -1643,14 +1643,12 @@ border-bottom:1px solid #828282
 	font-size:0.8rem;
 }
 
-.aboutus .sidetext ul {
-	max-width:188px!important;
-}
-
 .aboutus .sidetext ul li {
 	min-height:initial;
 	line-height:1.2;
 	padding:2px 0;
+	min-height:1px;
+	min-width:1px;
 }
 
 /* CMS-INDEX-INDEX --- RIGHT-WRAPPER */
