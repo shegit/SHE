@@ -90,16 +90,19 @@ input:focus {
 .breadcrumbs>* {
 	text-transform:none!important;
 	color:#999!important;
+	text-decoration:none;
 }
 
 .breadcrumbs>* a {
 	text-transform:none!important;
-	color:#999!important
+	color:#999!important;
+	text-decoration:none;
 }
 
 .breadcrumbs {
 	margin:0 0 12px 0!important;
 	border-color:#eee!important;
+	text-decoration:none;
 }
 
 ul.breadcrumbs li a:hover {
