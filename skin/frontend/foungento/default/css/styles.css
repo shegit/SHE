@@ -103,7 +103,8 @@ input:focus {
 }
 
 ul.breadcrumbs li a:hover {
-	color:#c7008b!important
+	color:#c7008b!important;
+	text-decoration:none;
 }
 
 a.button {
