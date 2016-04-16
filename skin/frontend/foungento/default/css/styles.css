@@ -301,7 +301,7 @@ border:1px solid #ccc
 	background-color:#fff;
 	border:1px solid #eee;
 	padding:10px;
-	margin:5px!important;
+	margin:0!important;
 	-webkit-border-radius:12px;
 	-moz-border-radius:12px;
 	border-radius:12px;
