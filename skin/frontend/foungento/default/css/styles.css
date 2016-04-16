@@ -102,11 +102,6 @@ input:focus {
 	border-color:#eee!important;
 }
 
-ul.breadcrumbs li:hover a {
-	color:#c7008b!important;
-	text-decoration:none;
-}
-
 ul.breadcrumbs li a:hover {
 	color:#c7008b!important;
 	text-decoration:none;
