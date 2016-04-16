@@ -300,7 +300,6 @@ border:1px solid #ccc
 .catalog-product-view .product-essential {
 	background-color:#fff;
 	border:1px solid #eee;
-	padding:10px;
 	margin:0 0 0 7px!important;
 	-webkit-border-radius:12px;
 	-moz-border-radius:12px;
@@ -394,21 +393,7 @@ border-top-right-radius: 0;
 
 .catalog-product-view .product-view .product-shop {
 	padding:20px;
-	margin-bottom:12px;
-	margin-top:1px;
-	border:1px solid #eee;
-	/*background-color:#f0fafd;*/
-	background-image: -ms-linear-gradient(top, #fafdfe 0%, #E5F7FC 100%);
-    background-image: -moz-linear-gradient(top, #fafdfe 0%, #E5F7FC 100%);
-    background-image: -o-linear-gradient(top, #fafdfe 0%, #E5F7FC 100%);
-    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fafdfe), color-stop(1, #E5F7FC));
-    background-image: -webkit-linear-gradient(top, #fafdfe 0%, #E5F7FC 100%);
-    background-image: linear-gradient(to bottom, #fafdfe 0%, #E5F7FC 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(StartColorStr='#fafdfe', EndColorStr='#E5F7FC');
-    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#fafdfe', EndColorStr='#E5F7FC')";
-	-webkit-border-radius: 6px;
-	-moz-border-radius: 6px;
-	border-radius: 6px;
+	border-left:1px solid #eee;
 }
 
 /*.catalog-product-view .product-view .product-shop .row {
