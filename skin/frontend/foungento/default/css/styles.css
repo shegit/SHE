@@ -1876,7 +1876,7 @@ ul.share-buttons img {
 }
 
 .weight .catlinks ul li p a:hover {
-	text-decoration:none;
+	text-decoration:none!important;
 }
 
 .catlinks {
