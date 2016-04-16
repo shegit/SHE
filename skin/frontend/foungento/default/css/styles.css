@@ -1399,13 +1399,10 @@ border-bottom:1px solid #828282
 
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
 
-/*.std h1 {
-	padding:0 0 10px!important
-}
-
 .std p {
-	padding:0 0 10px!important
-}*/
+	padding:0 5px;
+	margin:0;
+}
 
 .content-wrapper {
 	margin:0 auto;
