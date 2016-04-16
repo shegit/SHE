@@ -1636,16 +1636,12 @@ border-bottom:1px solid #828282
 
 .aboutus .sidetext {
 	padding:10px 10px 0 0;
+	width:188px;
 }
 
 .aboutus .sidetext a {
 	color:#666;
 	font-size:0.8rem;
-}
-
-.aboutus .sidetext ul li {
-	min-height:initial;
-	line-height:1.2;
 }
 
 /* CMS-INDEX-INDEX --- RIGHT-WRAPPER */
