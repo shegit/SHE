@@ -1464,7 +1464,7 @@ border-bottom:1px solid #828282
 }
 
 .sidetext ul {
-	padding-bottom:3px;
+	padding-bottom:3px!important;
 }
 
 .sidetext ul li {
