@@ -1173,7 +1173,7 @@ p.copy-right {
 	border-bottom:1px solid #ddd;
 }
 
-.cms-page-view p {
+.cms-page-view p, .cms-page-view dt, .cms-page-view li {
 	font-size: 14px;
 	color:#333;
 	text-align:justify;
