@@ -1149,6 +1149,23 @@ p.copy-right {
 	line-height:17px;
 }
 
+/*------------------------- CMS PAGES -------------------------*/
+
+.cms-page-view .std {
+	padding:0 10px;
+}
+
+.cms-page-view p {
+	font-size: 14px;
+	padding:5px 0;
+}
+
+
+
+
+
+
+
 /*------------------------- CUSTOMER PAGES -------------------------*/
 
 .customer-account-index .main,
