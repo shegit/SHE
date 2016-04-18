@@ -1103,11 +1103,11 @@ span.address-text {
 }
 
 p.copy-right {
-	color:#8e8e8e;
-	font-size:14px;
-	line-height:14px;
-	letter-spacing:.015rem;
-	margin:0;
+	color:#8e8e8e!important;
+	font-size:14px!important;
+	line-height:14px!important;
+	letter-spacing:.015rem!important;
+	margin:0!important;
 }
 
 
