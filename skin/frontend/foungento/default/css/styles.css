@@ -35,7 +35,9 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 .wapper p {
-	line-height:1.5
+	line-height:1.5;
+	font-size: 14px;
+	color:#333;
 }
 
 .wrapper a:hover {
