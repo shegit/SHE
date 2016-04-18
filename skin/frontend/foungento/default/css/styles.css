@@ -1741,6 +1741,10 @@ border-bottom:1px solid #828282
 	font-size:14px;
 }
 
+.product-view .box-collateral h2 {
+	margin:0 0 10px 0;
+}
+
 .product-view .box-collateral ul li {
 	color:#1b4669;
 	font-size:14px;
