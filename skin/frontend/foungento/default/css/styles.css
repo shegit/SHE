@@ -1730,10 +1730,15 @@ border-bottom:1px solid #828282
 }
 
 .product-view .box-collateral {
-	padding:25px 35px;
+	padding:25px 30px;
 	-webkit-border-top-right-radius: 6px;
 	-moz-border-radius-topright: 6px;
 	border-top-right-radius: 6px;
+}
+
+.product-view .box-collateral p {
+	color:#333;
+	font-size:14px;
 }
 
 .product-view .box-collateral ul li {
