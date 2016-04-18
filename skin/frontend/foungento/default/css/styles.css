@@ -1164,6 +1164,7 @@ p.copy-right {
 
 .cms-page-view p {
 	font-size: 14px;
+	color:#333;
 }
 
 .cms-page-view .std::after {
@@ -1173,6 +1174,7 @@ p.copy-right {
     position: relative;
     text-align: center;
     width: 100%;
+	opacity:.9;
 }
 
 
