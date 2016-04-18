@@ -1612,6 +1612,7 @@ p.copy-right {
 .catalog-product-view .product-view .product-shop {
 	padding:20px;
 	border-left:1px solid #eee;
+	background:#eee;
 }
 
 .catalog-product-view .product-view .product-shop .add-to-box {
