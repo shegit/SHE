@@ -1166,7 +1166,15 @@ p.copy-right {
 	font-size: 14px;
 }
 
-
+.cms-page-view .std::after {
+	margin-right:10px;
+	width: 18px;
+    height: 18px;
+	content:"";
+	background: url(../images/spritesheet2.png) no-repeat;
+	background-position: -5px -5px;
+	display: inline-block;
+}
 
 
 
