@@ -1084,10 +1084,10 @@ span.address-text {
 }
 
 .footernote p {
-	font-size:12px;
-	color:#999;
-	letter-spacing:.015rem;
-	margin:0;
+	font-size:12px!important;
+	color:#999!important;
+	letter-spacing:.015rem!important;
+	margin:0!important;
 }
 
 
