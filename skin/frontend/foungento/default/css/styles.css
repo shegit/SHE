@@ -1167,7 +1167,7 @@ p.copy-right {
 }
 
 .cms-page-view .std::after {
-	margin-right:10px;
+	margin:0 auto;
 	width: 18px;
     height: 18px;
 	content:"";
