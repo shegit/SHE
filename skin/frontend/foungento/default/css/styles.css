@@ -1660,6 +1660,10 @@ p.copy-right {
 	max-height:300px;
 }
 
+.catalog-product-view .btn-cart {
+	margin:0;
+}
+
 .catalog-product-view .block-cart {
 border-bottom:1px solid #828282
 }
