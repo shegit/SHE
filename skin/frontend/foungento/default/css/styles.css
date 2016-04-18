@@ -1169,7 +1169,7 @@ p.copy-right {
 .cms-page-view .std::after {
 	content:url("../images/she_logo_100.png");
 	display: block;
-    margin: 42px auto 24px;
+    margin: 80px auto 30px;
     position: relative;
     text-align: center;
     width: 100%;
