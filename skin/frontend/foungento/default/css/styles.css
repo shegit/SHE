@@ -1157,6 +1157,10 @@ p.copy-right {
 	margin:0 auto;
 }
 
+.cms-page-view h1 {
+	margin:0 0 20px 0;
+}
+
 .cms-page-view p {
 	font-size: 14px;
 }
