@@ -1158,15 +1158,6 @@ p.copy-right {
 	margin:0 auto;
 }
 
-.cms-page-view h1 {
-	margin:5px 0 15px 0;
-}
-
-.cms-page-view p {
-	font-size: 14px;
-	color:#333;
-}
-
 .cms-page-view .std::after {
 	content:url("../images/she_logo_100.png");
 	display: block;
@@ -1176,6 +1167,18 @@ p.copy-right {
     width: 100%;
 	opacity:.9;
 }
+
+.cms-page-view h1 {
+	margin:5px 0 15px 0;
+	border-bottom:1px solid #ddd;
+}
+
+.cms-page-view p {
+	font-size: 14px;
+	color:#333;
+}
+
+
 
 
 
