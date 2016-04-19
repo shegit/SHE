@@ -92,11 +92,12 @@ input:focus {
 .breadcrumbs>* {
 	text-transform:none!important;
 	color:#999!important;
+	font-size:11px;
 }
 
 .breadcrumbs>* a {
 	text-transform:none!important;
-	color:#999!important
+	color:#999!important;
 }
 
 .breadcrumbs {
