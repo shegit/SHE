@@ -92,7 +92,6 @@ input:focus {
 .breadcrumbs>* {
 	text-transform:none!important;
 	color:#999!important;
-	font-size:11px;
 }
 
 .breadcrumbs>* a {
@@ -103,6 +102,7 @@ input:focus {
 .breadcrumbs {
 	margin:0 0 12px 0!important;
 	border-color:#eee!important;
+	font-size:11px!important;
 }
 
 ul.breadcrumbs li a:hover {
