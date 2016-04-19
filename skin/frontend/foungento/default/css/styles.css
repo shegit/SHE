@@ -2512,6 +2512,13 @@ ul.share-buttons img {
 		background-position: -5px -77px;
 	}
 	
+/* CMS-INDEX-INDEX --- CONCEPT-WRAPPER */
+
+	.concept-wrapper .context p {
+		color:#1b4669;
+		padding-bottom:8px;
+	}
+	
 /* CMS-INDEX-INDEX --- CENTER-WRAPPER */
 	
 	.center-wrapper {
