@@ -102,7 +102,10 @@ input:focus {
 .breadcrumbs {
 	margin:0 0 12px 0!important;
 	border-color:#eee!important;
-	font-size:11px!important;
+}
+
+ul.breadcrumbs li a, ul.breadcrumbs li strong {
+	font-size:11px;
 }
 
 ul.breadcrumbs li a:hover {
