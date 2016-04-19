@@ -1633,6 +1633,7 @@ p.copy-right {
 	padding:20px;
 	border-left:1px solid #eee;
 	background:#f6fcfe;
+	opacity:0.9;
 	-webkit-border-top-right-radius: 6px;
 	-webkit-border-bottom-right-radius: 6px;
 	-moz-border-radius-topright: 6px;
