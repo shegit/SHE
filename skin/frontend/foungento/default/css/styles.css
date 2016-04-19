@@ -1597,7 +1597,7 @@ p.copy-right {
 
 .catalog-product-view .product-essential {
 	background-color:#fff;
-	border:1px solid #ddd;
+	border:1px solid #eee;
 	margin:0 0 0 7px!important;
 	-webkit-border-radius:12px;
 	-moz-border-radius:12px;
@@ -1632,7 +1632,7 @@ p.copy-right {
 .catalog-product-view .product-view .product-shop {
 	padding:20px;
 	border-left:1px solid #eee;
-	background:#fcfcfc;
+	background:#f0f0f5;
 	-webkit-border-top-right-radius: 6px;
 	-webkit-border-bottom-right-radius: 6px;
 	-moz-border-radius-topright: 6px;
