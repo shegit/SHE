@@ -1604,6 +1604,16 @@ p.copy-right {
 	border-radius:12px;
 }
 
+.catalog-product-view .product-essential .stripe {
+	height:15px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f5cb26+0,f0668a+50,eb0de2+100 */
+	background: #f5cb26; /* Old browsers */
+	background: -moz-linear-gradient(left,  #f5cb26 0%, #f0668a 50%, #eb0de2 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  #f5cb26 0%,#f0668a 50%,#eb0de2 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  #f5cb26 0%,#f0668a 50%,#eb0de2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5cb26', endColorstr='#eb0de2',GradientType=1 ); /* IE6-9 */
+}
+
 .catalog-product-view .product-view .product-name {
 	padding:0 5px;
 	margin-bottom:2px;
