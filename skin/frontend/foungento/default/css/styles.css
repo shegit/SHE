@@ -645,7 +645,6 @@ font-size:32px
 .nav-container {
 	background:url(../images/spritesheet.png) no-repeat;
 	background-position: -5px -375px;
-	background-color:#f6fcfe!important;
 	max-height:106px;
 	border:1px solid #ddd;
 	border-bottom:0 solid #ddd;
@@ -1595,6 +1594,14 @@ p.copy-right {
 
 
 /*------------------------- CATALOG-PRODUCT-VIEW -------------------------*/
+
+.catalog-product-view .nav-container {
+	background-color:#f6fcfe;
+}
+
+.catalog-product-view .main-container {
+	background-color:#f6fcfe;
+}
 
 .catalog-product-view .product-essential {
 	background-color:#fff;
