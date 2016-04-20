@@ -1605,8 +1605,16 @@ p.copy-right {
 
 .catalog-product-view ul.breadcrumbs {
 	background-color:#fcfeff;
+	border-color:#cdeff9!important;
 }
 
+.breadcrumbs>* {
+	color:#cdeff9!important;
+}
+
+.breadcrumbs>* a {
+	color:#cdeff9!important;
+}
 
 .catalog-product-view .product-essential {
 	background-color:#fff;
