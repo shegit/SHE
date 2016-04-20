@@ -1805,6 +1805,10 @@ border-bottom:1px solid #828282
 	padding-bottom:7px;
 }
 
+.product-shop .container2 .std ul {
+	margin:10px 0 0 10px;
+}
+
 .product-shop .container2 .std p, .product-shop .container2 .std span, .product-shop .container2 .std a, .product-shop .container2 .std ul li {
 	line-height:19px!important;
 	font-size:14px!important;
