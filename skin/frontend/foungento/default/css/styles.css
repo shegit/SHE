@@ -1661,7 +1661,7 @@ p.copy-right {
 .catalog-product-view .product-view .product-shop .add-to-box input {
 	max-width:44px;
 	max-height:29px;
-	margin-bottom:7px!important;
+	margin:0 0 7px 0!important;
 }
 
 .catalog-product-view .product-view .price-box {
