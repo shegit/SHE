@@ -1783,6 +1783,11 @@ border-bottom:1px solid #828282
 	color:#44ac45!important
 }
 
+.product-shop .container2 {
+	padding-top:15px;
+	padding-bottom:10px;
+}
+
 .product-shop .container2 h2 {
 	padding-bottom:7px;
 }
