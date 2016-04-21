@@ -1486,6 +1486,10 @@ p.copy-right {
 	padding:10px 0;
 }
 
+.catalog-category-view .list-short-desc ul {
+	margin-left:0px;
+}
+
 .catalog-category-view .list-short-desc p {
 	margin:0;
 }
