@@ -2554,6 +2554,10 @@ ul.share-buttons img {
 		padding:15px 15px 0 15px!important;
 	}
 	
+	.catalog-category-view .main {
+		background:transparent;
+	}
+	
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
 	
 	.cms-index-index .col-main {
