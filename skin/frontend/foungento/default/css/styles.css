@@ -1588,7 +1588,7 @@ p.copy-right {
 .list-items ul.products-grid li.list-items h2.product-name a {
 	font-size:16px!important;
 	color:#4278bc;
-	line-height:1.1!important;
+	line-height:normal!important;
 }
 
 #cat-page-desc-wrapper h2 {
