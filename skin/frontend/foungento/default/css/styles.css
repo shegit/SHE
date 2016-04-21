@@ -3195,12 +3195,12 @@ text-decoration:none
 	}
 
 	.col-main-cat {
-	border-top:none!important;
+	/*border-top:none!important;
 	border-left:none!important;
 	-webkit-border-radius:6px;
 	-moz-border-radius:6px;
 	border-radius:6px;
-	background-color:#fdfdfd;
+	background-color:#fdfdfd;*/
 	padding-top:15px!important
 	}
 	}
