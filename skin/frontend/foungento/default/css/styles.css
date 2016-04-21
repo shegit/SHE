@@ -1586,7 +1586,7 @@ p.copy-right {
 }
 
 .list-items ul.products-grid li.list-items h2.product-name {
-	line-height:normal!important;
+	line-height:0.9;
 }
 
 .list-items ul.products-grid li.list-items h2.product-name a {
