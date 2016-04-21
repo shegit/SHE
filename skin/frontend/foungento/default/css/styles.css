@@ -1498,6 +1498,10 @@ p.copy-right {
 	margin:0;
 }
 
+.catalog-category-view .item-desc-box {
+	padding:0 10px;
+}
+
 .catalog-category-view .stripe {
 	height:8px;
 	-webkit-border-bottom-right-radius: 6px;
