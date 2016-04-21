@@ -3134,7 +3134,7 @@ text-decoration:none
 	}
 	
 	.top-bar.expanded .title-area {
-		background:transparent;
+		background:transparent!important;
 	}
 		
 	.catalog-product-view .product-view .product-shop {
