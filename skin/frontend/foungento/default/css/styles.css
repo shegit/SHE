@@ -1587,6 +1587,7 @@ p.copy-right {
 
 .list-items ul.products-grid li.list-items h2.product-name {
 	line-height:0.9;
+	padding:10px 0;
 }
 
 .list-items ul.products-grid li.list-items h2.product-name a {
@@ -2676,7 +2677,7 @@ ul.share-buttons img {
 /*######################### NOT YET ORGANISED #########################*/
 
 .price-box {
-	padding:10px 0!important
+	padding-bottom:10px!important
 }
 
 .price-box p {
