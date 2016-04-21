@@ -1482,6 +1482,10 @@ p.copy-right {
 	background-color:#fdfeff;
 }
 
+.catalog-category-view .list-items {
+	padding:0 10px;
+}
+
 .catalog-category-view .list-short-desc {
 	padding:10px 0;
 }
