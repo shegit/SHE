@@ -1589,6 +1589,10 @@ p.copy-right {
 	color:#4278bc;
 }
 
+#cat-page-desc-wrapper h2 {
+	padding-bottom:5px;
+}
+
 #cat-page-desc-wrapper p {
 	color:#444!important;
 	font-size:14px;
