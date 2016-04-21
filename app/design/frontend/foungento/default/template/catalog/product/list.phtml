@@ -80,6 +80,7 @@
 				<ul class="products-grid small-block-grid-2 medium-block-grid-3 large-block-grid-3">
 				<?php endif */ ?>
 					<li class="list-items item small-text-center medium-text-left large-text-left">
+					<div class="list-item-wrapper">
 						<a href="<?php echo $_product->getProductUrl() ?>" title="<?php echo $this->stripTags($this->getImageLabel($_product, 'small_image'), null, true) ?>" class="product-image">
 						<div class="list-image-wrapper">
 						<div class="list-image">
@@ -114,6 +115,7 @@
 							</ul>
 						</div>
 						<div class="stripe"></div>
+						</div>
 					</li>
 				<?php /*if ($i%$_columnCount==0 || $i==$_collectionSize): ?>
 				</ul>
