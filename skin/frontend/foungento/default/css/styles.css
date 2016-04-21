@@ -3210,7 +3210,7 @@ text-decoration:none
 		padding-left:10px;
 	}
 
-	#cat-page-desc-wrapper {
+	/*#cat-page-desc-wrapper {
 	-webkit-column-count:2;
 	-moz-column-count:2;
 	column-count:2;
@@ -3223,7 +3223,7 @@ text-decoration:none
 	#cat-page-desc-wrapper h2 {
 	-webkit-column-span:all;
 	column-span:all
-	}
+	}*/
 
 	.foungento-header {
 	display:none
