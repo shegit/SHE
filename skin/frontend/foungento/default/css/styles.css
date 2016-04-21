@@ -1609,8 +1609,8 @@ p.copy-right {
 .list-items ul.products-grid li.list-items {
 	color:#4f4365;
 	font-size:14px;
-	padding-left:20px;
-	padding-right:20px;
+	padding-left:10px;
+	padding-right:10px;
 }
 
 .list-items ul.products-grid li.list-items .list-item-wrapper {
@@ -1618,6 +1618,7 @@ p.copy-right {
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	border-radius:6px;
+	padding:10px;
 }
 
 .list-items ul.products-grid li.list-items h2.product-name {
