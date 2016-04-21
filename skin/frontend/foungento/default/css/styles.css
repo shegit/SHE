@@ -2558,6 +2558,10 @@ ul.share-buttons img {
 		background:transparent;
 	}
 	
+	.catalog-category-view .nav-container {
+		background:transparent;
+	}
+	
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
 	
 	.cms-index-index .col-main {
