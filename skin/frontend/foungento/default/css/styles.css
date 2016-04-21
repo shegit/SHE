@@ -1590,7 +1590,7 @@ p.copy-right {
 .list-items .list-image-wrapper {
 	background:#fff;
 	padding:20px 5px;
-	border:1px solid #eee;
+	border-bottom:1px solid #eee;
 	/*max-width:245px;
 	max-height:245px;*/
 	width:100%;
