@@ -1526,12 +1526,12 @@ p.copy-right {
 }
 
 .col-main-cat {
-	border-top:1px solid #ddd;
-	border-left:1px solid #ddd;
+	border-top:1px solid #eee;
+	border-left:1px solid #eee;
 	-webkit-border-top-left-radius:6px;
 	-moz-border-radius-topleft:6px;
 	border-top-left-radius:6px;
-	background-color:#fdfdfd;
+	background-color:#fdfeff;
 	padding-top:18px
 }
 
