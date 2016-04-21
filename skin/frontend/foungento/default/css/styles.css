@@ -2546,6 +2546,10 @@ ul.share-buttons img {
 		border:none!important
 	}
 	
+	.col-main-cat .category-title {
+		padding:0 15px;
+	}
+	
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
 	
 	.cms-index-index .col-main {
