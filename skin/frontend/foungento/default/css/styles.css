@@ -1550,7 +1550,7 @@ p.copy-right {
 }
 
 .col-main-cat .category-title {
-	margin-bottom:10px
+	margin:0 20px 10px 20px;
 }
 
 .col-main-cat .category-title h1 {
