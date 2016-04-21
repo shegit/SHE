@@ -1536,12 +1536,13 @@ p.copy-right {
 .col-main-cat {
 	/*border-top:1px solid #eee;
 	border-left:1px solid #eee;*/
-	border:1px solid #eee;
+	/*border:1px solid #eee;
 	-webkit-border-radius:6px;
 	-moz-border-radius:6px;
-	border-radius:6px;
+	border-radius:6px;*/
 	/*background-color:#fdfeff;*/
-	padding-top:18px
+	padding-top:12px;
+	margin-bottom:12px;
 }
 
 .col-main-cat ul.share-buttons {
