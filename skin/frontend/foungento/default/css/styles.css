@@ -1482,6 +1482,10 @@ p.copy-right {
 	background-color:#fdfeff;
 }
 
+.catalog-category-view .list-short-desc p {
+	margin:0;
+}
+
 .list-short-desc p, .list-short-desc span, .list-short-desc a, .list-short-desc ul li {
 	line-height:19px!important;
 	font-size:13px!important;
