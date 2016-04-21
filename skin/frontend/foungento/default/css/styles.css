@@ -1550,7 +1550,8 @@ p.copy-right {
 }
 
 .col-main-cat .category-title {
-	padding:0 20px 10px 20px;
+	margin-bottom:10px;
+	padding:0 20px 0 20px;
 }
 
 .col-main-cat .category-title h1 {
