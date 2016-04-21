@@ -1607,14 +1607,17 @@ p.copy-right {
 }
 
 .list-items ul.products-grid li.list-items {
-	border:1px solid #eee;
-	-moz-border-radius:6px;
-	-webkit-border-radius:6px;
-	border-radius:6px;
 	color:#4f4365;
 	font-size:14px;
 	padding-left:20px;
 	padding-right:20px;
+}
+
+.list-items ul.products-grid li.list-items .list-item-wrapper {
+	border:1px solid #eee;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
 }
 
 .list-items ul.products-grid li.list-items h2.product-name {
