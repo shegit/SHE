@@ -1585,10 +1585,13 @@ p.copy-right {
 	padding-right:20px;
 }
 
+.list-items ul.products-grid li.list-items h2.product-name {
+	line-height:normal!important;
+}
+
 .list-items ul.products-grid li.list-items h2.product-name a {
 	font-size:16px!important;
 	color:#4278bc;
-	line-height:normal!important;
 }
 
 #cat-page-desc-wrapper h2 {
