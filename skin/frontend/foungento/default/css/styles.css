@@ -906,7 +906,8 @@ font-size:32px
 	}
 
 	#nav li.divider {
-		border-top-color:#ddd!important
+		border-top-color:#ddd!important;
+		margin:8px 0;
 	}
 
 	#nav li a {
