@@ -2550,6 +2550,10 @@ ul.share-buttons img {
 		padding:0 15px;
 	}
 	
+	.bottom-wrapper ul li {
+		padding:15px 10px 0 10px;
+	}
+	
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
 	
 	.cms-index-index .col-main {
