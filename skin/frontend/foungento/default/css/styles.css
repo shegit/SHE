@@ -1502,7 +1502,7 @@ p.copy-right {
 	padding:0 10px;
 }
 
-.catalog-category-view .stripe {
+.catalog-category-view ul li:odd .stripe {
 	height:8px;
 	-webkit-border-bottom-right-radius: 6px;
 	-webkit-border-bottom-left-radius: 6px;
