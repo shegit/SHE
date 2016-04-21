@@ -1546,7 +1546,8 @@ p.copy-right {
 }
 
 .col-main-cat ul.share-buttons {
-	right:0!important
+	right:0!important;
+	margin-right:10px;
 }
 
 .col-main-cat .category-title {
