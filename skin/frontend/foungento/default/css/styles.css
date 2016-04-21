@@ -1551,7 +1551,7 @@ p.copy-right {
 
 .col-main-cat .category-title {
 	margin-bottom:10px;
-	padding:0 20px 0 20px;
+	padding:0 25px;
 }
 
 .col-main-cat .category-title h1 {
@@ -3272,10 +3272,6 @@ text-decoration:none
 	#cat-page-desc-wrapper h2 {
 	-webkit-column-span:all;
 	column-span:all
-	}
-
-	.foungento-header {
-	display:none
 	}
 	}
 
