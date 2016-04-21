@@ -1611,7 +1611,6 @@ p.copy-right {
 	font-size:14px;
 	padding-left:10px;
 	padding-right:10px;
-	background:#f5fcff;
 }
 
 .list-items ul.products-grid li.list-items .list-item-wrapper {
@@ -1620,6 +1619,7 @@ p.copy-right {
 	-webkit-border-radius:6px;
 	border-radius:6px;
 	padding:10px 10px 0px 10px;
+	background:#f5fcff;
 }
 
 .list-items ul.products-grid li.list-items h2.product-name {
