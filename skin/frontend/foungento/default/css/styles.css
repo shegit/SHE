@@ -1961,6 +1961,10 @@ p.copy-right {
 	display:none;
 }
 
+#sidebar-wrapper .block-cart .block-content p.empty {
+	display:inline;
+}
+
 #sidebar-wrapper .block-cart .block-content .summary p {
 	display:inline;
 }
