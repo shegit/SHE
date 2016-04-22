@@ -1939,6 +1939,18 @@ p.copy-right {
 	padding-bottom:10px;
 }
 
+#sidebar-wrapper .block-cart .block-content p {
+	display:none;
+}
+
+#sidebar-wrapper .block-cart .block-content ol {
+	display:none;
+}
+
+#sidebar-wrapper .block-cart .block-content .summary p {
+	display:inline;
+}
+
 #sidebar-wrapper .block-viewed {
 	padding-bottom:5px;
 	min-height:116px;
