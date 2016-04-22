@@ -1900,6 +1900,9 @@ p.copy-right {
 	padding:0 15px;
 	margin:0;
 	background:#4f4365;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
 }
 
 #sidebar-wrapper .block-title {
@@ -1909,10 +1912,13 @@ p.copy-right {
 
 #sidebar-wrapper .block-cart {
 	border-bottom:1px solid #828282;
-	-moz-border-radius:6px;
-	-webkit-border-radius:6px;
-	border-radius:6px;
 	background:#756693;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
 }
 
 #sidebar-wrapper .block-cart .block-title {
