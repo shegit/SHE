@@ -1955,6 +1955,10 @@ p.copy-right {
 	display:inline;
 }
 
+#sidebar-wrapper .block-cart .block-content .actions {
+	padding-top:20px;
+}
+
 #sidebar-wrapper .block-viewed {
 	padding-bottom:5px;
 }
