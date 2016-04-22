@@ -1890,6 +1890,12 @@ p.copy-right {
 
 #sidebar-wrapper .block {
 	padding:0 15px;
+	background:#4f4365;
+}
+
+#sidebar-wrapper .block-cart {
+	border-bottom:1px solid #828282;
+	background:#756693;
 }
 
 /*#sidebar-wrapper {
