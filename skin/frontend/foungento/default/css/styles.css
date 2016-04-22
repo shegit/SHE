@@ -1969,6 +1969,9 @@ border-bottom:1px solid #828282
 
 #sidebar-wrapper .block-list p {
 	margin:0;
+}
+
+#sidebar-wrapper .block-list {
 	padding-bottom:20px;
 }
 
