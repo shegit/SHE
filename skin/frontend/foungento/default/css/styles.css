@@ -1934,6 +1934,10 @@ p.copy-right {
 	padding-bottom:20px;
 }
 
+#sidebar-wrapper .block-viewed {
+	padding-bottom:5px;
+}
+
 #sidebar-wrapper .block-reorder {
 	margin-top:-5px;
 }
