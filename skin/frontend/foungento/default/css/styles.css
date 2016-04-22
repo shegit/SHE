@@ -1963,6 +1963,10 @@ border-bottom:1px solid #828282
 	border:1px solid #828282;
 }
 
+#sidebar-wrapper p {
+	font-size:14px;
+}
+
 #sidebar-wrapper p, #sidebar-wrapper  a, #sidebar-wrapper  span {
 	color:#fff;
 }
