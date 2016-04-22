@@ -1935,12 +1935,12 @@ p.copy-right {
 }
 
 #sidebar-wrapper .block-cart .block-content {
-	padding-bottom:10px;
+	padding-bottom:16px;
 }
 
 #sidebar-wrapper .block-viewed {
 	padding-bottom:5px;
-	min-height:115px;
+	min-height:110px;
 }
 
 #sidebar-wrapper .block-reorder {
