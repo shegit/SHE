@@ -1946,6 +1946,7 @@ p.copy-right {
 
 #sidebar-wrapper .block-reorder {
 	margin-top:-5px;
+	min-height:116px;
 }
 
 /*#sidebar-wrapper {
