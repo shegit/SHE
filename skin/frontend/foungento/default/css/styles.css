@@ -1881,15 +1881,20 @@ p.copy-right {
 	border:1px solid #ccc;
 	color:#fff;
 	font-size:14px;
+	padding:0;
+	margin:0;
 }
 
 #sidebar-wrapper a, #sidebar-wrapper p, #sidebar-wrapper span {
 	color:#fff;
 	font-size:14px;
+	padding:0;
+	margin:0;
 }
 
 #sidebar-wrapper .block {
 	padding:0 15px;
+	margin:0;
 	background:#4f4365;
 }
 
