@@ -891,6 +891,10 @@ font-size:32px
 	nav.expanded {
 		padding-bottom:3px!important
 	}
+	
+	.navigation .links {
+		display:inline;
+	}
 
 	#nav li a,#nav li,#nav ul,#nav span {
 		background-color:transparent!important;
