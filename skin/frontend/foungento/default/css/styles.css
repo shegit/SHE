@@ -1883,6 +1883,7 @@ p.copy-right {
 	font-size:14px;
 	padding:0;
 	margin:0;
+	font-weight:normal;
 }
 
 #sidebar-wrapper a, #sidebar-wrapper p, #sidebar-wrapper span {
@@ -1890,6 +1891,7 @@ p.copy-right {
 	font-size:14px;
 	padding:0;
 	margin:0;
+	font-weight:normal;
 }
 
 #sidebar-wrapper .block {
@@ -1901,11 +1903,6 @@ p.copy-right {
 #sidebar-wrapper .block-title {
 	text-align:right;
 	padding-top:8px;
-	font-weight:normal;
-}
-
-#sidebar-wrapper .block-title span {
-	font-weight:normal;
 }
 
 #sidebar-wrapper .block-cart {
