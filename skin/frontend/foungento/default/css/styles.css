@@ -1953,9 +1953,12 @@ p.copy-right {
 	padding-bottom:10px;
 }
 
+#sidebar-wrapper .block-cart .block-content a, #sidebar-wrapper .block-cart .block-content p, #sidebar-wrapper .block-cart .block-content span {
+	color:#fff;
+}
+
 #sidebar-wrapper .block-cart .block-content p {
 	display:none;
-	color:#fff;
 }
 
 #sidebar-wrapper .block-cart .block-content ol {
