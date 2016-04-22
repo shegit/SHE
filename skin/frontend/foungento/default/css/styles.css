@@ -571,8 +571,9 @@ font-size:32px
 	}
 	
 	.minicart-head-container span.qty {
-		color:#eee!important;
-		font-size:14px!important
+		color:#ec12de!important;
+		font-size:14px!important;
+		padding-left:2px;
 	}
 }
 
