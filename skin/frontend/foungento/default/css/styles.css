@@ -1910,7 +1910,7 @@ p.copy-right {
 
 #sidebar-wrapper .block-title {
 	text-align:right;
-	padding-top:10px;
+	padding-top:15px;
 }
 
 #sidebar-wrapper .block-cart {
@@ -1932,6 +1932,7 @@ p.copy-right {
 
 #sidebar-wrapper .block-cart .block-title {
 	padding-bottom:20px;
+	padding-top:8px;
 }
 
 #sidebar-wrapper .block-cart .block-content {
