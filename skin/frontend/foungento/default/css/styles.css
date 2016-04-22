@@ -1904,6 +1904,10 @@ p.copy-right {
 	font-weight:normal;
 }
 
+#sidebar-wrapper .block-title span {
+	font-weight:normal;
+}
+
 #sidebar-wrapper .block-cart {
 	border-bottom:1px solid #828282;
 	background:#756693;
