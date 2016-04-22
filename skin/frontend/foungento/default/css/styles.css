@@ -1883,6 +1883,10 @@ p.copy-right {
 	color:#fff;
 }
 
+#sidebar-wrapper a, #sidebar-wrapper p, #sidebar-wrapper span {
+	color:#fff;
+}
+
 /*#sidebar-wrapper {
 	min-height:200px;
 	border-radius:6px;
