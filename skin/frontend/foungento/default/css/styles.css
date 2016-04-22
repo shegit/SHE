@@ -1917,7 +1917,8 @@ p.copy-right {
 }
 
 #sidebar-wrapper .block-title span {
-	color:#999;
+	color:#bbb;
+	font-size:12px;
 }
 
 #sidebar-wrapper .block-cart {
@@ -1945,6 +1946,7 @@ p.copy-right {
 
 #sidebar-wrapper .block-cart .block-title span {
 	color:#fff;
+	font-size:14px;
 }
 
 #sidebar-wrapper .block-cart .block-content {
