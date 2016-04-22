@@ -1914,6 +1914,7 @@ p.copy-right {
 	padding-top:15px;
 	margin-bottom:20px;
 	border-bottom:1px solid #555;
+	color:#999;
 }
 
 #sidebar-wrapper .block-cart {
@@ -1937,6 +1938,7 @@ p.copy-right {
 #sidebar-wrapper .block-cart .block-title {
 	padding-top:8px;
 	border-bottom:none;
+	color:#fff;
 }
 
 #sidebar-wrapper .block-cart .block-content {
