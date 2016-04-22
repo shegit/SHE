@@ -1985,6 +1985,14 @@ p.copy-right {
 	margin-top:-5px;
 }
 
+#sidebar-wrapper .block-reorder .block-subtitle {
+	padding-bottom:10px;
+}
+
+#sidebar-wrapper .block-reorder .block-content button {
+	margin-right:5px;
+}
+
 /*#sidebar-wrapper {
 	min-height:200px;
 	border-radius:6px;
