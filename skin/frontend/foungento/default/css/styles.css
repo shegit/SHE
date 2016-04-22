@@ -1876,6 +1876,8 @@ p.copy-right {
 
 #sidebar-wrapper {
 	min-height:200px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
 	border-radius:6px;
 	background-color:#756693;
 	border:1px solid #ccc;
@@ -1907,6 +1909,9 @@ p.copy-right {
 
 #sidebar-wrapper .block-cart {
 	border-bottom:1px solid #828282;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
 	background:#756693;
 }
 
