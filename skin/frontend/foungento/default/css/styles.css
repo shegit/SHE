@@ -1927,8 +1927,8 @@ border-bottom:1px solid #828282
 	min-height:200px;
 	border-radius:6px;
 	padding:4px 0 0;
-	background-color:#fff;
-	border:1px solid #eee
+	background-color:#ddd;
+	border:1px solid #ccc;
 }
 
 #sidebar-wrapper span.price {
