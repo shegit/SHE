@@ -1936,6 +1936,7 @@ p.copy-right {
 
 #sidebar-wrapper .block-viewed {
 	padding-bottom:5px;
+	min-height:120px;
 }
 
 #sidebar-wrapper .block-reorder {
