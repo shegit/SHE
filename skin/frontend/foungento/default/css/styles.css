@@ -1911,6 +1911,7 @@ p.copy-right {
 #sidebar-wrapper .block-title {
 	text-align:right;
 	padding-top:15px;
+	padding-bottom:20px;
 }
 
 #sidebar-wrapper .block-cart {
@@ -1931,7 +1932,6 @@ p.copy-right {
 }
 
 #sidebar-wrapper .block-cart .block-title {
-	padding-bottom:20px;
 	padding-top:8px;
 }
 
