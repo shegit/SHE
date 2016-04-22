@@ -1901,6 +1901,7 @@ p.copy-right {
 #sidebar-wrapper .block-title {
 	text-align:right;
 	padding-top:8px;
+	font-weight:normal;
 }
 
 #sidebar-wrapper .block-cart {
