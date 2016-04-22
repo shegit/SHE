@@ -1881,10 +1881,12 @@ p.copy-right {
 	border:1px solid #ccc;
 	padding:0 15px;
 	color:#fff;
+	font-size:14px;
 }
 
 #sidebar-wrapper a, #sidebar-wrapper p, #sidebar-wrapper span {
 	color:#fff;
+	font-size:14px;
 }
 
 /*#sidebar-wrapper {
