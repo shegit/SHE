@@ -1808,17 +1808,17 @@ border-bottom:1px solid #828282
 	text-align:right;
 }
 
-.catalog-product-view .block-viewed .block-title span, .catalog-product-view .block-reorder .block-title span {
+#sidebar-wrapper .block-viewed .block-title span, #sidebar-wrapper .block-reorder .block-title span {
 	color:#ddd!important;
 	font-size:13px!important;
 
 }
 
-.catalog-product-view .block-viewed a {
+#sidebar-wrapper .block-viewed a {
 	color:#fafafa!important
 }
 
-.catalog-product-view .block-reorder {
+#sidebar-wrapper .block-reorder {
 	margin-top:-5px!important;
 	border-bottom-right-radius:6px;
 	border-bottom-left-radius:6px;
@@ -1826,7 +1826,7 @@ border-bottom:1px solid #828282
 	background-color:#4f4365
 }
 
-.catalog-product-view .sidebar p.product-name a {
+#sidebar-wrapper .sidebar p.product-name a {
 	color:#fbfbfb!important;
 	font-size:15px!important;
 }
