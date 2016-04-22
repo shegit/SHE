@@ -1934,9 +1934,13 @@ p.copy-right {
 	padding-bottom:20px;
 }
 
+#sidebar-wrapper .block-cart .block-content {
+	padding-bottom:10px;
+}
+
 #sidebar-wrapper .block-viewed {
 	padding-bottom:5px;
-	min-height:120px;
+	min-height:115px;
 }
 
 #sidebar-wrapper .block-reorder {
