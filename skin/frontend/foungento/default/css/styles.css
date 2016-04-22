@@ -1898,6 +1898,11 @@ p.copy-right {
 	background:#4f4365;
 }
 
+#sidebar-wrapper .block-title {
+	text-align:right;
+	padding-top:8px;
+}
+
 #sidebar-wrapper .block-cart {
 	border-bottom:1px solid #828282;
 	background:#756693;
@@ -2454,7 +2459,7 @@ ul.share-buttons img {
 	padding:4px 6px 0 0;
 }
 
-.block-title {
+/*.block-title {
 	font-size:16px;
 	margin:0;
 	padding:8px 6px 0 0;
@@ -2465,7 +2470,7 @@ ul.share-buttons img {
 	font-size:16px;
 	font-weight:400;
 	color:#564675
-}
+}*/
 
 .newsletter label {
 	margin:8px 0 0;
