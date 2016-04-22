@@ -1874,6 +1874,13 @@ p.copy-right {
 	padding-right:5px;
 }
 
+#sidebar-wrapper {
+	min-height:200px;
+	border-radius:6px;
+	background-color:#756693;
+	border:1px solid #ccc
+}
+
 /*#sidebar-wrapper {
 	min-height:200px;
 	border-radius:6px;
