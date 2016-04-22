@@ -1922,6 +1922,12 @@ p.copy-right {
 	-moz-border-radius-topright: 6px;
 	border-top-left-radius: 6px;
 	border-top-right-radius: 6px;
+	-webkit-border-bottom-right-radius: 0px;
+	-webkit-border-bottom-left-radius: 0px;
+	-moz-border-radius-bottomright: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
 }
 
 #sidebar-wrapper .block-cart .block-title {
