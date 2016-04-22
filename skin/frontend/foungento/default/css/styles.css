@@ -1722,7 +1722,7 @@ p.copy-right {
 
 .catalog-product-view .product-view .product-shop {
 	padding:20px;
-	border-left:1px solid #cdeff9;
+	border-left:1px solid #ddd;
 	background:#f5fcff;
 	-webkit-border-top-right-radius: 6px;
 	-webkit-border-bottom-right-radius: 6px;
@@ -1823,7 +1823,7 @@ p.copy-right {
 }
 
 .product-view h1 {
-	border-bottom:1px solid #cdeff9;
+	border-bottom:1px solid #ddd;
 	color:#da1084!important
 }
 
