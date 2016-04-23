@@ -1715,6 +1715,7 @@ p.copy-right {
 #stiky-left .block-layered-nav {
 	border-bottom:1px solid #828282;
 	background:#756693;
+	padding-bottom:20px;
 	min-height:0;
 	-webkit-border-top-left-radius: 6px;
 	-webkit-border-top-right-radius: 6px;
