@@ -3252,18 +3252,11 @@ text-decoration:none
 		
 	.catalog-product-view .product-view .product-shop {
 		padding-top:5px;
-		/*background:#fdfdfd;
-		border-top:1px solid #ddd;
-		border-bottom:1px solid #ddd;
-		border-left:none;
-		border-right:none;
-		-webkit-border-radius:0;
-		-moz-border-radius:0;
-		border-radius:0;*/
 	}
 		
 	.catalog-product-view .product-view .product-img-box {
 		padding-top:0;
+		border-bottom:1px solid #eee;
 	}
 
 	.product-shop h1 {
