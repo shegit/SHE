@@ -1679,7 +1679,7 @@ p.copy-right {
 	font-weight:normal;
 }
 
-#stiky-left a, #stiky-left p, #stiky-left span {
+#stiky-left a, #stiky-left p, #stiky-left span, #stiky-left ol, #stiky-left ol li {
 	color:#eee;
 	font-size:14px;
 	padding:0;
