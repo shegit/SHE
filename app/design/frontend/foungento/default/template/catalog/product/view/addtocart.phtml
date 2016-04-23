@@ -21,7 +21,7 @@
 				<input type="text" name="qty" id="qty" maxlength="12" value="<?php echo $this->getProductDefaultQty() * 1 ?>" title="<?php echo $this->__('Qty') ?>" class="input-text qty" />
 				<?php endif; ?>
 			</div>
-			<div class="small-4 medium-8 large-8 columns">
+			<div class="small-8 medium-8 large-8 columns">
 				<button type="button" title="<?php echo $buttonTitle ?>" id="product-addtocart-button" class="button btn-cart radius tiny" onclick="productAddToCartForm.submit(this)"><span><span><?php echo $buttonTitle ?></span></span></button>
 				<?php echo $this->getChildHtml('', true, true) ?>
 			</div>
