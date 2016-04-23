@@ -3249,6 +3249,11 @@ text-decoration:none
 	.top-bar.expanded .title-area {
 		background:transparent!important;
 	}
+	
+	.catalog-product-view .product-view .product-name {
+		padding:2px 10px;
+		margin:0;
+	}
 		
 	.catalog-product-view .product-view .product-shop {
 		padding-top:5px;
