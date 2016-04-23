@@ -3254,6 +3254,10 @@ text-decoration:none
 		padding:7px 15px 0 15px;
 		margin:0;
 	}
+	
+	.catalog-product-view .product-view .product-name h1 {
+		border-bottom:1px solid #eee;
+	}
 		
 	.catalog-product-view .product-view .product-shop {
 		padding-top:5px;
