@@ -1715,7 +1715,8 @@ p.copy-right {
 
 .catalog-product-view ul.breadcrumbs {
 	background-color:transparent;
-	margin:0 12px;
+	margin-left:12px!important;
+	margin-right:12px!important;
 	border-left:none;
 	border-right:none;
 	-moz-border-radius:0;
