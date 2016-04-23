@@ -2591,6 +2591,10 @@ ul.share-buttons img {
 		padding:15px 15px 0 15px!important;
 	}
 	
+	.catalog-product-view .product-view .product-shop, .catalog-product-view .product-essential {
+		border-radius:0;
+	}
+	
 	.catalog-category-view .main {
 		background:transparent;
 	}
