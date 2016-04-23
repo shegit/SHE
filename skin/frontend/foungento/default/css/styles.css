@@ -2617,6 +2617,10 @@ ul.share-buttons img {
 		padding:15px 15px 0 15px!important;
 	}
 	
+	.catalog-product-view .product-view .box-collateral {
+		padding:25px 10px;
+	}
+	
 	.catalog-product-view .product-view .product-shop {
 		border-radius:0;
 	}
