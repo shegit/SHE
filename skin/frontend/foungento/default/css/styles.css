@@ -1787,6 +1787,10 @@ p.copy-right {
 	display:inline!important;
 }
 
+.catalog-product-view .product-view .product-shop .container2 .std {
+	border:1px solid #ddd;
+}
+
 .catalog-product-view .product-view .product-image {
 	margin:0 auto!important;
 	background-color:#fff;
