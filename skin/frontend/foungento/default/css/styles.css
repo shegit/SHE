@@ -1412,84 +1412,6 @@ p.copy-right {
 	color:#fafafa!important
 }
 
-/*#stiky-left {
-	min-height:150px;
-	-webkit-border-radius:6px;
-	-moz-border-radius:6px;
-	border-radius:6px;
-	padding:0px 0 0;
-	background-color:#756693;
-	border:1px solid #ccc
-}
-
-#stiky-left .block-content {
-	padding:0 15px
-}
-
-#stiky-left .block-content dl {
-	padding:5px 0 0
-}
-
-#stiky-left .block-content dt {
-	margin-bottom:4px
-}
-
-#stiky-left .block-subscribe {
-	padding:20px 10px 3px!important;
-	border-top:1px solid #828282;
-	border-bottom-right-radius:6px;
-	border-bottom-left-radius:6px;
-	background-color:#4f4365
-}
-
-#stiky-left .block-subscribe span {
-	font-size:14px
-}
-
-#stiky-left .block-title span {
-    color: #fff;
-    font-size: 14px;
-    padding-right: 10px;
-}
-
-#stiky-left .block-subtitle {
-	margin-bottom:10px;
-}
-
-#stiky-left .product-details {
-	color:#fff;
-	padding-top:5px;
-}
-
-#stiky-left .product-details a {
-    color: #ddd!important;
-    font-size: 12px;
-}
-
-#stiky-left .product-details .product-name a {
-	color:#fff!important;
-	font-size:14px;
-}
-
-#stiky-left .block-title
-{
-	border-bottom:1px solid #999;
-	margin:0 10px;
-}
-
-#stiky-left .block-content
-{
-	padding-top:10px!important;
-}
-
-#stiky-left .block-content p,
-#stiky-left .block-content a,
-#stiky-left .block-content span
-{
-	color:#fff;
-	font-weight:normal;
-}*/
-
 
 
 
@@ -1568,37 +1490,7 @@ p.copy-right {
 	padding-right:5px;
 }
 
-/*.col-left {
-	padding:0 12px 24px!important
-}
-
-.col-left .block-subscribe .block-title {
-	display:none
-}
-
-.col-left .block-layered-nav .block-title {
-	border:none!important;
-}
-
-.col-left .block-layered-nav .block-title span {
-	font-size:12px!important;
-	color:#ddd!important;
-	padding-right:10px
-}
-
-.col-left .block-layered-nav p.block-subtitle {
-	font-size:12px!important;
-	color:#ddd!important
-}*/
-
 .col-main-cat {
-	/*border-top:1px solid #eee;
-	border-left:1px solid #eee;*/
-	/*border:1px solid #eee;
-	-webkit-border-radius:6px;
-	-moz-border-radius:6px;
-	border-radius:6px;*/
-	/*background-color:#fdfeff;*/
 	padding-top:12px;
 	margin-bottom:12px;
 }
@@ -1621,8 +1513,6 @@ p.copy-right {
 	background:#fff;
 	padding:20px 5px;
 	border-bottom:1px solid #eee;
-	/*max-width:245px;
-	max-height:245px;*/
 	width:100%;
 	margin:0 auto;
 }
@@ -1673,6 +1563,107 @@ p.copy-right {
 #cat-page-desc-wrapper span {
 	color:#4278bc!important
 }
+
+/*#stiky-left {
+	min-height:150px;
+	-webkit-border-radius:6px;
+	-moz-border-radius:6px;
+	border-radius:6px;
+	padding:0px 0 0;
+	background-color:#756693;
+	border:1px solid #ccc
+}
+
+#stiky-left .block-content {
+	padding:0 15px
+}
+
+#stiky-left .block-content dl {
+	padding:5px 0 0
+}
+
+#stiky-left .block-content dt {
+	margin-bottom:4px
+}
+
+#stiky-left .block-subscribe {
+	padding:20px 10px 3px!important;
+	border-top:1px solid #828282;
+	border-bottom-right-radius:6px;
+	border-bottom-left-radius:6px;
+	background-color:#4f4365
+}
+
+#stiky-left .block-subscribe span {
+	font-size:14px
+}
+
+#stiky-left .block-title span {
+    color: #fff;
+    font-size: 14px;
+    padding-right: 10px;
+}
+
+#stiky-left .block-subtitle {
+	margin-bottom:10px;
+}
+
+#stiky-left .product-details {
+	color:#fff;
+	padding-top:5px;
+}
+
+#stiky-left .product-details a {
+    color: #ddd!important;
+    font-size: 12px;
+}
+
+#stiky-left .product-details .product-name a {
+	color:#fff!important;
+	font-size:14px;
+}
+
+#stiky-left .block-title
+{
+	border-bottom:1px solid #999;
+	margin:0 10px;
+}
+
+#stiky-left .block-content
+{
+	padding-top:10px!important;
+}
+
+#stiky-left .block-content p,
+#stiky-left .block-content a,
+#stiky-left .block-content span
+{
+	color:#fff;
+	font-weight:normal;
+}*/
+
+/*.col-left {
+	padding:0 12px 24px!important
+}
+
+.col-left .block-subscribe .block-title {
+	display:none
+}
+
+.col-left .block-layered-nav .block-title {
+	border:none!important;
+}
+
+.col-left .block-layered-nav .block-title span {
+	font-size:12px!important;
+	color:#ddd!important;
+	padding-right:10px
+}
+
+.col-left .block-layered-nav p.block-subtitle {
+	font-size:12px!important;
+	color:#ddd!important
+}*/
 
 
 
