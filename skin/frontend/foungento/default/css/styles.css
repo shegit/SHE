@@ -1679,7 +1679,7 @@ p.copy-right {
 	font-weight:normal;
 }
 
-#stiky-left a, #stiky-left p, #stiky-left span, #stiky-left ol, #stiky-left ol li, #stiky-left dl, #stiky-left dt, #stiky-left dd {
+#stiky-left a, #stiky-left p, #stiky-left span, #stiky-left ol, #stiky-left ol li, #stiky-left dl, #stiky-left dd {
 	color:#eee;
 	font-size:14px;
 	padding:0;
@@ -1736,7 +1736,11 @@ p.copy-right {
 }
 
 #stiky-left .block-layered-nav .block-title span {
-	color:#eee;
+	color:#ddd;
+}
+
+#stiky-left dt {
+	
 }
 
 
