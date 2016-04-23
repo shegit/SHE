@@ -1793,6 +1793,7 @@ p.copy-right {
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	border-radius:6px;
+	padding:10px;
 }
 
 .catalog-product-view .product-view .product-image {
