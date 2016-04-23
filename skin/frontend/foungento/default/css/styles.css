@@ -1790,6 +1790,9 @@ p.copy-right {
 .catalog-product-view .product-view .product-shop .container2 .std {
 	border:1px solid #ddd;
 	background:#fdfeff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
 }
 
 .catalog-product-view .product-view .product-image {
