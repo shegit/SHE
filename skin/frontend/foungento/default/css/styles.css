@@ -1751,6 +1751,11 @@ p.copy-right {
 	padding-left:10px;
 }
 
+#stiky-left ol li {
+	color:#ddd;
+	font-size:12px;
+}
+
 #stiky-left dt {
 	color:#fdfdfd;
 	font-size:16px;
