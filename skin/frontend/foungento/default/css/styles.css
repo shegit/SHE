@@ -118,7 +118,7 @@ input:focus {
 
 .breadcrumbs {
 	border-color:#eee!important;
-	background-color:transparent;
+	background-color:transparent!important;
 	margin-left:12px!important;
 	margin-right:12px!important;
 	border-left:none;
