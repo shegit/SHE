@@ -1462,6 +1462,11 @@ p.copy-right {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5cb26', endColorstr='#eb0de2',GradientType=1 ); /* IE6-9 */
 }
 
+.catalog-category-view .cpdw {
+	height:15px;
+	margin:0 20px 30px 20px;
+}
+
 .list-short-desc p, .list-short-desc span, .list-short-desc a, .list-short-desc ul li {
 	line-height:19px!important;
 	font-size:13px!important;
