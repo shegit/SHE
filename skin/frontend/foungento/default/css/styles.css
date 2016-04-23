@@ -1537,6 +1537,12 @@ p.copy-right {
 	border:1px solid #eee;
 	padding:0;
 	background:#f5fcff;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
 }
 
 .list-items ul.products-grid li.list-items h2.product-name {
