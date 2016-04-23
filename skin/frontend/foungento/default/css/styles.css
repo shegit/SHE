@@ -125,6 +125,8 @@ input:focus {
 	-moz-border-radius:0!important;
 	-webkit-border-radius:0!important;
 	border-radius:0!important;
+	border-left:none!important;
+	border-right:none!important;
 }
 
 ul.breadcrumbs li a, ul.breadcrumbs li strong {
