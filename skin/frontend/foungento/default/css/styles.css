@@ -1740,6 +1740,11 @@ p.copy-right {
 	color:#ddd;
 }
 
+#stiky-left ol {
+	border-left:1px solid #999;
+	margin-left:10px;
+}
+
 #stiky-left dt {
 	color:#fdfdfd;
 	font-size:16px;
