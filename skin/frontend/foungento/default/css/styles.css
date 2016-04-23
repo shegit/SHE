@@ -432,6 +432,10 @@ ul.item-options,.product-details > ul {
 
 @media only screen and (min-width: 64.063em) /*Applies to LARGE ONLY*/ {
 	
+	.wrapper {
+		min-width:1064px!important;
+	}
+	
 	.large-left {
 		float:left
 	}
