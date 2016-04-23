@@ -1731,6 +1731,10 @@ p.copy-right {
 	border-bottom-left-radius: 0px;
 }
 
+#stiky-left .block-layered-nav a {
+	color:#fff;
+}
+
 #stiky-left .block-layered-nav .block-title {
 	padding-top:10px;
 	margin-bottom:15px;
