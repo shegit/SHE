@@ -1757,7 +1757,7 @@ p.copy-right {
 .catalog-product-view .product-view .product-shop .add-to-box {
 	padding:5px 0 0 0;
 	display:inline-block;
-	min-width:0;
+	min-width:212px;
 }
 
 .catalog-product-view .product-view .product-shop .add-to-box input {

@@ -14,14 +14,14 @@
 <?php $buttonTitle = $this->__('Add to Cart'); ?>
 <?php if($_product->isSaleable()): ?>
     <div class="add-to-cart row">
-		<div class="right small-12 columns">
-			<div class="medium-4 large-4 columns">
+		<div class="right small-12 medium-12 large-12 columns">
+			<div class="small-4 medium-4 large-4 columns">
 				<?php if(!$_product->isGrouped()): ?>
 				<label for="qty"><?php echo $this->__('Qty:') ?></label>
 				<input type="text" name="qty" id="qty" maxlength="12" value="<?php echo $this->getProductDefaultQty() * 1 ?>" title="<?php echo $this->__('Qty') ?>" class="input-text qty" />
 				<?php endif; ?>
 			</div>
-			<div class="medium-8 large-8 columns">
+			<div class="small-4 medium-8 large-8 columns">
 				<button type="button" title="<?php echo $buttonTitle ?>" id="product-addtocart-button" class="button btn-cart radius tiny" onclick="productAddToCartForm.submit(this)"><span><span><?php echo $buttonTitle ?></span></span></button>
 				<?php echo $this->getChildHtml('', true, true) ?>
 			</div>
