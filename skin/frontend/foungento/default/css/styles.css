@@ -1689,13 +1689,12 @@ p.copy-right {
 }
 
 .catalog-product-view #sidebar-wrapper {
-	margin-left:6px;
 }
 
 .catalog-product-view .product-essential {
 	background-color:#fff;
 	border:1px solid #cdeff9;
-	margin:0 0 0 7px!important;
+	margin:0 7px!important;
 	-webkit-border-radius:12px;
 	-moz-border-radius:12px;
 	border-radius:12px;
