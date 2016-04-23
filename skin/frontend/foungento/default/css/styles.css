@@ -1740,7 +1740,8 @@ p.copy-right {
 }
 
 #stiky-left dt {
-	color:#fdfdfd
+	color:#fdfdfd;
+	font-size:16px;
 }
 
 
