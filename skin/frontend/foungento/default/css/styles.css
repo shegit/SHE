@@ -1243,6 +1243,10 @@ p.copy-right {
 
 /*------------------------- CUSTOMER-ACCOUNT-LOGIN -------------------------*/
 
+.customer-account-login .page-title h1 {
+	text-align:center;
+}
+
 /*.registered-users .content {
 	max-width:350px!important;
 	margin:0 auto!important
