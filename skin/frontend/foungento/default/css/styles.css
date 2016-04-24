@@ -1284,6 +1284,7 @@ p.copy-right {
 }
 
 .customer-account-login .registered-users .login-wrapper {
+	max-width:380px;
 	padding-top:12px;
 	background:#f5fcff;
 	border:1px solid #eee;
