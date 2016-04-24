@@ -1279,6 +1279,11 @@ p.copy-right {
 .customer-account-login .registered-users ul {
 	margin:0 0 15px 0;
 	padding:15px 15px 0 15px;
+	background-color:cdeff9;
+	border:1px solid #eee;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
 }
 
 .customer-account-login .registered-users .buttons-set a {
