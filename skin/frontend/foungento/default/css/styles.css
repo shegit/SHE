@@ -1244,7 +1244,8 @@ p.copy-right {
 /*------------------------- CUSTOMER-ACCOUNT-LOGIN -------------------------*/
 
 .customer-account-login .page-title {
-	padding:0 12px;
+	margin:0 20px;
+	padding:0 20px;
 }
 
 .customer-account-login .page-title h1 {
