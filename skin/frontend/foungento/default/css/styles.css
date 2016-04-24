@@ -679,6 +679,7 @@ font-size:32px
 .nav-container {
 	background:url(../images/spritesheet.png) no-repeat;
 	background-position: -5px -375px;
+	background-color:#fdfeff;
 	max-height:106px;
 	border:1px solid #ddd;
 	border-bottom:0 solid #ddd;
@@ -1177,7 +1178,8 @@ p.copy-right {
 	border-top:0 solid #ddd;
 	-webkit-border-radius:0 0 6px 6px;
 	-moz-border-radius:0 0 6px 6px;
-	border-radius:0 0 6px 6px
+	border-radius:0 0 6px 6px;
+	background-color:#fdfeff;
 }
 
 .col-main .category-title {
@@ -2084,6 +2086,14 @@ p.copy-right {
 
 
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
+
+.cms-index-index .nav-container {
+	background-color:#fff;
+}
+
+.cms-index-index .main {
+	background-color:#fff;
+}
 
 .cms-index-index .std p {
 	padding:0 0 8px 0;
