@@ -922,6 +922,10 @@ font-size:32px
 		display:inline;
 	}
 	
+	.top-bar-section ul li {
+		background:transparent;
+	}
+	
 	.links li a, .links li, .links ul, .links span {
 		background-color:transparent!important;
 	}
