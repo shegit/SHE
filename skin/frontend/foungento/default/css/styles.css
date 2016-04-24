@@ -464,6 +464,61 @@ ul.item-options,.product-details > ul {
 
 /*######################### TOP-LINKS-CONTAINER #########################*/
 
+/*.registered-users .content {
+	max-width:350px!important;
+	margin:0 auto!important
+}
+
+.registered-users .content ul {
+	padding-top:10px
+}
+
+.registered-users .content p.required {
+	display:none!important
+}
+
+.registered-users .content a.link-tip {
+	display:none!important
+}
+
+.new-users .content {
+	max-width:350px!important;
+	margin:0 auto!important
+}
+
+.registered-users .buttons-set {
+	max-width:350px!important;
+	margin:0 auto;
+	margin-top:-10px;
+	padding-bottom:15px
+}
+
+.registered-users .buttons-set a.f-left {
+	padding-left:5px
+}
+
+.new-users .buttons-set {
+	max-width:350px!important;
+	margin:0 auto!important;
+	padding-top:15px
+}
+
+.account-login .page-title {
+	padding:5px 5px 0px 5px;
+	margin-bottom:50px;
+	text-align:center;
+}
+
+ul.form-list li label {
+	color:#564675!important
+}*/
+
+
+
+
+
+/*######################### TOP-LINKS-CONTAINER #########################*/
+
 nav.top-bar {
 	background-color:transparent
 }
@@ -2883,55 +2938,6 @@ padding-top:5px!important
 .product-details ul li p a {
 font-size:16px!important;
 color:#225885!important
-}
-
-.registered-users .content {
-max-width:350px!important;
-margin:0 auto!important
-}
-
-.registered-users .content ul {
-padding-top:10px
-}
-
-.registered-users .content p.required {
-display:none!important
-}
-
-.registered-users .content a.link-tip {
-display:none!important
-}
-
-.new-users .content {
-max-width:350px!important;
-margin:0 auto!important
-}
-
-.registered-users .buttons-set {
-max-width:350px!important;
-margin:0 auto;
-margin-top:-10px;
-padding-bottom:15px
-}
-
-.registered-users .buttons-set a.f-left {
-padding-left:5px
-}
-
-.new-users .buttons-set {
-max-width:350px!important;
-margin:0 auto!important;
-padding-top:15px
-}
-
-.account-login .page-title {
-padding:5px 5px 0px 5px;
-margin-bottom:50px;
-text-align:center;
-}
-
-ul.form-list li label {
-color:#564675!important
 }
 
 .customer-account-create .col-main {
