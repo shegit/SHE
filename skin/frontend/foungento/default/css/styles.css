@@ -1300,12 +1300,8 @@ p.copy-right {
 }
 
 .customer-account-login .registered-users ul {
-	margin:0 0 20px 0;
-	padding:20px 15px 0 15px;
-	/*border:1px solid #cdeff9;
-	-moz-border-radius:6px;
-	-webkit-border-radius:6px;
-	border-radius:6px;*/
+	margin:0 0 50px 0;
+	padding:10px 15px 0 15px;
 }
 
 .customer-account-login .registered-users .buttons-set a {
