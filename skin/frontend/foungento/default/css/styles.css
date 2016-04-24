@@ -1262,7 +1262,11 @@ p.copy-right {
 	border-left:1px solid #ddd;
 }
 
-.customer-account-login .registered-users ul li .link-tip {
+.customer-account-login .registered-users .link-tip {
+	display:none;
+}
+
+.customer-account-login .registered-users .required {
 	display:none;
 }
 
