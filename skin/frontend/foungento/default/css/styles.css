@@ -1250,8 +1250,7 @@ p.copy-right {
 /*------------------------- CUSTOMER-ACCOUNT-LOGIN -------------------------*/
 
 .customer-account-login .account-login {
-	min-height:500px;
-	padding-bottom:20px;
+	padding-bottom:40px;
 }
 
 .customer-account-login .page-title {
