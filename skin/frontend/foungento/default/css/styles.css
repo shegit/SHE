@@ -1253,6 +1253,10 @@ p.copy-right {
 	border-bottom:1px solid #ddd;
 }
 
+.customer-account-login .new-users, .customer-account-login .registered-users {
+	padding:20px;
+}
+
 /*.registered-users .content {
 	max-width:350px!important;
 	margin:0 auto!important
