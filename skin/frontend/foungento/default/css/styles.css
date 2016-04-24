@@ -2648,6 +2648,7 @@ ul.share-buttons img {
 	
 	.catalog-product-view .product-view .product-shop {
 		border-radius:0;
+		border-left:none;
 	}
 	
 	.catalog-product-view .product-essential {
