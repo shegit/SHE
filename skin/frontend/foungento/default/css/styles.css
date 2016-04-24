@@ -1626,7 +1626,7 @@ ul.form-list li label {
 	padding:0 10px;
 }
 
-.catalog-category-view .stripe {
+.list-items .products-grid .stripe {
 	height:8px;
 	-webkit-border-bottom-right-radius: 6px;
 	-webkit-border-bottom-left-radius: 6px;
