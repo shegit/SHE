@@ -1250,6 +1250,7 @@ p.copy-right {
 .customer-account-login .page-title h1 {
 	text-align:center;
 	margin:0 20px;
+	border-bottom:1px solid #ddd;
 }
 
 /*.registered-users .content {
