@@ -1856,6 +1856,10 @@ p.copy-right {
 	font-size:20px;
 }
 
+.product-view .box-collateral ul {
+	list-style-type: circle!important;
+}
+
 .product-view .box-collateral ul li {
 	color:#444;
 	font-size:14px;
