@@ -1261,6 +1261,7 @@ p.copy-right {
 .customer-account-login .content, .customer-account-login .buttons-set {
 	max-width:320px;
 	margin:0 auto;
+	font-size:14px;
 }
 
 .customer-account-login .registered-users {
