@@ -1721,17 +1721,6 @@ p.copy-right {
 	background-color:#fdfeff;
 }
 
-.catalog-product-view ul.breadcrumbs {
-	background-color:transparent;
-	margin-left:12px!important;
-	margin-right:12px!important;
-	border-left:none;
-	border-right:none;
-	-moz-border-radius:0;
-	-webkit-border-radius:0;
-	border-radius:0;
-}
-
 .catalog-product-view .product-essential {
 	background-color:#fff;
 	border:1px solid #eee;
@@ -1870,6 +1859,10 @@ p.copy-right {
 .product-view .box-collateral ul li {
 	color:#444;
 	font-size:14px;
+}
+
+.product-view .box-collateral ul li span {
+	padding-bottom:10px;
 }
 
 .product-view .box-additional {
