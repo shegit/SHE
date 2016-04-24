@@ -27,8 +27,8 @@
 					<button type="button" title="<?php echo $this->__('Create an Account') ?>" class="radius tiny button" onclick="window.location='<?php echo Mage::helper('persistent')->getCreateAccountUrl($this->getCreateAccountUrl()) ?>';"><span><span><?php echo $this->__('Create an Account') ?></span></span></button>
 				</div>
 			</div>
-			<div class="registered-users-wrapper">
 			<div class="col-2 registered-users small-12 medium-6 large-6 columns">
+				<div class="login-wrapper">
 				<div class="content">
 					<h2><?php echo $this->__('Registered Customers') ?></h2>
 					<p><?php echo $this->__('If you have an account with us, please log in.') ?></p>
@@ -57,7 +57,7 @@
 					<a href="<?php echo $this->getForgotPasswordUrl() ?>" class="f-left"><?php echo $this->__('Forgot Your Password?') ?></a>
 				</div>
 				<div class="stripe"></div>
-			</div>
+				</div>
 			</div>
 		</div>
 		
