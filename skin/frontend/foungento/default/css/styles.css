@@ -2980,6 +2980,10 @@ ul.share-buttons img {
 	.wheel-container {
 		float:right!important;
 	}
+	
+	.customer-account-login .page-title h1 {
+		border-bottom:none;
+	}
 }
 
 @media only screen and (min-width: 64.063em) /*Applies to LARGE ONLY*/ {
