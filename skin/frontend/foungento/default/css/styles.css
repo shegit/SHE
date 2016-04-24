@@ -1303,6 +1303,22 @@ p.copy-right {
 	display:none;
 }
 
+.catalog-category-view .stripe {
+	height:8px;
+	-webkit-border-bottom-right-radius: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-moz-border-radius-bottomright: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f5cb26+0,f0668a+50,eb0de2+100 */
+	background: #f5cb26; /* Old browsers */
+	background: -moz-linear-gradient(left,  #f5cb26 0%, #f0668a 50%, #eb0de2 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  #f5cb26 0%,#f0668a 50%,#eb0de2 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  #f5cb26 0%,#f0668a 50%,#eb0de2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5cb26', endColorstr='#eb0de2',GradientType=1 ); /* IE6-9 */
+}
+
 /*.registered-users .content {
 	max-width:350px!important;
 	margin:0 auto!important
