@@ -1448,14 +1448,6 @@ p.copy-right {
 
 /*------------------------- CATALOG-CATEGORY-VIEW -------------------------*/
 
-.catalog-category-view .nav-container {
-	background-color:#fdfeff;
-}
-
-.catalog-category-view .main {
-	background-color:#fdfeff;
-}
-
 .catalog-category-view .list-items {
 	padding:0 10px;
 }
@@ -1722,14 +1714,6 @@ p.copy-right {
 
 
 /*------------------------- CATALOG-PRODUCT-VIEW -------------------------*/
-
-.catalog-product-view .nav-container {
-	background-color:#fdfeff;
-}
-
-.catalog-product-view .main {
-	background-color:#fdfeff;
-}
 
 .catalog-product-view .product-essential {
 	background-color:#fff;
@@ -2944,10 +2928,6 @@ padding-top:15px
 padding:5px 5px 0px 5px;
 margin-bottom:50px;
 text-align:center;
-}
-
-.account-login {
-background-color:#fdfdfd
 }
 
 ul.form-list li label {
