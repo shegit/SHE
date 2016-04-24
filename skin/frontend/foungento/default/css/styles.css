@@ -1718,10 +1718,6 @@ ul.form-list li label {
 	width:auto;
 }
 
-.list-items ul.products-grid {
-	max-width:888.5px!important;
-}
-
 .list-items ul.products-grid li.list-items {
 	color:#4f4365;
 	font-size:14px;
