@@ -1256,7 +1256,7 @@ p.copy-right {
 .customer-account-login .page-title h1 {
 	text-align:center;
 	margin:0 20px;
-	border-bottom:1px solid #cdeff9;
+	border-bottom:1px solid #ddd;
 }
 
 .customer-account-login p, .customer-account-login a, .customer-account-login span {
@@ -1279,7 +1279,7 @@ p.copy-right {
 }
 
 .customer-account-login .registered-users {
-	border-left:1px solid #ddd;
+	border-left:1px solid #cdeff9;
 }
 
 .customer-account-login .registered-users ul {
