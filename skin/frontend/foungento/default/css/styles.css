@@ -2791,6 +2791,10 @@ ul.share-buttons img {
 	.bottom-wrapper ul li {
 		padding:15px 15px 0 15px!important;
 	}
+	
+	.customer-account-login .new-users, .customer-account-login .registered-users {
+		padding:0px 12px;
+	}
 		
 	.catalog-product-view .product-view .box-collateral {
 		padding:25px 15px;
