@@ -1256,6 +1256,7 @@ p.copy-right {
 .customer-account-login .new-users, .customer-account-login .registered-users {
 	padding:10px 40px;
 	margin:30px 0;
+	min-width:344px;
 }
 
 .customer-account-login .registered-users {
