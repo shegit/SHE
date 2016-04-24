@@ -1284,18 +1284,21 @@ p.copy-right {
 }
 
 .customer-account-login .registered-users .login-wrapper {
-	padding-top:10px;
+	padding-top:12px;
 	background:#f5fcff;
 	border:1px solid #eee;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
 }
 
 .customer-account-login .registered-users ul {
 	margin:0 0 20px 0;
 	padding:20px 15px 0 15px;
-	border:1px solid #cdeff9;
+	/*border:1px solid #cdeff9;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
-	border-radius:6px;
+	border-radius:6px;*/
 }
 
 .customer-account-login .registered-users .buttons-set a {
