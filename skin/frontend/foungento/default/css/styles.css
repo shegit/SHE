@@ -1217,14 +1217,14 @@ p.copy-right {
 
 
 
-/*------------------------- CATALOGSEARCH-RESULTS-INDEX -------------------------*/
+/*------------------------- CATALOGSEARCH-RESULT-INDEX -------------------------*/
 
-.catalogsearch-results-index .page-title {
+.catalogsearch-result-index .page-title {
 	margin-bottom:10px;
 	padding:0 25px;
 }
 
-.catalogsearch-results-index .page-title h1 {
+.catalogsearch-result-index .page-title h1 {
 	border-bottom:1px solid #ddd;
 }
 
