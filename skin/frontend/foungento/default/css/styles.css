@@ -1276,6 +1276,11 @@ p.copy-right {
 	border-left:1px solid #ddd;
 }
 
+.customer-account-login .registered-users ul {
+	margin:0;
+	padding:15px 15px 0 15px;
+}
+
 .customer-account-login .registered-users .buttons-set a {
 	padding-left:5px;
 }
