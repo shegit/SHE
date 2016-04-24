@@ -922,11 +922,15 @@ font-size:32px
 		display:inline;
 	}
 	
+	.links li a, .links li, .links ul, .links span {
+		background-color:transparent!important;
+	}
+	
 	#nav {
 		margin-bottom:5px;
 	}
 
-	#nav li a,#nav li,#nav ul,#nav span, .links li a, .links li, .links ul, .links span {
+	#nav li a,#nav li,#nav ul,#nav span {
 		background-color:transparent!important;
 		color:#6b5792!important
 	}
