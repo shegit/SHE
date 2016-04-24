@@ -1249,6 +1249,10 @@ p.copy-right {
 
 /*------------------------- CUSTOMER-ACCOUNT-LOGIN -------------------------*/
 
+.customer-account-login .account-login-row {
+	min-height:600px;
+}
+
 .customer-account-login .page-title {
 	padding:20px;
 }
