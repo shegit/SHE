@@ -1859,10 +1859,7 @@ p.copy-right {
 .product-view .box-collateral ul li {
 	color:#444;
 	font-size:14px;
-}
-
-.product-view .box-collateral ul li span {
-	margin-bottom:10px;
+	padding-bottom:10px;
 }
 
 .product-view .box-additional {
