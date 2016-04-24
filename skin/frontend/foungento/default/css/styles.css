@@ -1283,6 +1283,12 @@ p.copy-right {
 	border-left:1px solid #cdeff9;
 }
 
+.customer-account-login .registered-users .login-wrapper {
+	padding-top:10px;
+	background:#f5fcff;
+	border:1px solid #eee;
+}
+
 .customer-account-login .registered-users ul {
 	margin:0 0 20px 0;
 	padding:20px 15px 0 15px;
