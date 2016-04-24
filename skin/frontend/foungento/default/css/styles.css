@@ -1213,6 +1213,26 @@ p.copy-right {
 	line-height:17px;
 }
 
+
+
+
+
+/*------------------------- CATALOGSEARCH-RESULTS-INDEX -------------------------*/
+
+.catalogsearch-results-index .page-title {
+	margin-bottom:10px;
+	padding:0 25px;
+}
+
+.catalogsearch-results-index .page-title h1 {
+	border-bottom:1px solid #ddd;
+}
+
+
+
+
+
+
 /*------------------------- CMS PAGES -------------------------*/
 
 .cms-page-view .std {
@@ -1337,64 +1357,6 @@ p.copy-right {
 	background: linear-gradient(to right,  #f5cb26 0%,#f0668a 50%,#eb0de2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5cb26', endColorstr='#eb0de2',GradientType=1 ); /* IE6-9 */
 }
-
-/*.registered-users .content {
-	max-width:350px!important;
-	margin:0 auto!important
-}
-
-.registered-users .content ul {
-	padding-top:10px
-}
-
-.registered-users .content p.required {
-	display:none!important
-}
-
-.registered-users .content a.link-tip {
-	display:none!important
-}
-
-.new-users .content {
-	max-width:350px!important;
-	margin:0 auto!important
-}
-
-.registered-users .buttons-set {
-	max-width:350px!important;
-	margin:0 auto;
-	margin-top:-10px;
-	padding-bottom:15px
-}
-
-.registered-users .buttons-set a.f-left {
-	padding-left:5px
-}
-
-.new-users .buttons-set {
-	max-width:350px!important;
-	margin:0 auto!important;
-	padding-top:15px
-}
-
-.account-login .page-title {
-	padding:5px 5px 0px 5px;
-	margin-bottom:50px;
-	text-align:center;
-}
-
-ul.form-list li label {
-	color:#564675!important
-}
-
-.col-1,.col-2 {
-	padding:20px 20px 10px 20px!important;
-	margin-bottom:30px!important;
-}
-
-.col-2 {
-	border-left:1px solid #ddd;
-}*/
 
 
 
