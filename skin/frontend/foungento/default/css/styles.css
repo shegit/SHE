@@ -923,7 +923,7 @@ font-size:32px
 	}
 	
 	.top-bar-section ul li {
-		background-color:transparent;
+		background-color:transparent!important;
 	}
 	
 	.links li a, .links li, .links ul, .links span {
