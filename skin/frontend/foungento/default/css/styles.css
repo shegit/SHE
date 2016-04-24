@@ -1312,7 +1312,7 @@ p.copy-right {
 	display:none;
 }
 
-.customer-account-login .registered-users .required {
+.customer-account-login .registered-users p.required {
 	display:none;
 }
 
