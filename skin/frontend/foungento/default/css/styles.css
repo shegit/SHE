@@ -1253,8 +1253,12 @@ p.copy-right {
 	border-bottom:1px solid #ddd;
 }
 
+.customer-account-login .new-users {
+	border-right:1px solid #ddd;
+}
+
 .customer-account-login .new-users, .customer-account-login .registered-users {
-	padding:20px;
+	padding:40px;
 }
 
 /*.registered-users .content {
