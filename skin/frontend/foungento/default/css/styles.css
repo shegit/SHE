@@ -5,7 +5,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 .wrapper {
-	min-width:300px!important;
+	min-width:322px!important;
 }
 
 .wrapper h1,.wrapper h2,.wrapper h3,.wrapper h4,.wrapper h5,.wrapper h6 {
@@ -2027,7 +2027,7 @@ ul.form-list li label {
 
 .product-view h1 {
 	border-bottom:1px solid #ddd;
-	color:#aa4ba1!important
+	color:#da1084!important
 }
 
 .product-shop .container2 {
