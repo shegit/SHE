@@ -1828,6 +1828,14 @@ p.copy-right {
 	color:#eee!important;
 }
 
+#stiky-left .block-cart .block-content p, #stiky-left .block-cart .block-content ol {
+	display:none;
+}
+
+#stiky-left .block-cart .block-content p.empty, #stiky-left .block-cart .block-content .summary p {
+	display:inline;
+}
+
 
 
 
