@@ -1361,7 +1361,17 @@ p.copy-right {
 
 /*------------------------- CUSTOMER PAGES -------------------------*/
 
-.customer-account-index .main {
+.customer-account-index .main,
+.customer-account-edit .main,
+.customer-address-index .main,
+.sales-order-history .main,
+.sales-billing-agreement-index .main,
+.sales-recurring-profile-index .main,
+.review-customer-index .main,
+.tag-customer-index .main,
+.oauth-customer-token-index .main,
+.newsletter-manage-index .main,
+.downloadable-customer-products .main {
 	padding-top:12px;
 }
 
