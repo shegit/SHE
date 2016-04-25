@@ -1854,13 +1854,17 @@ p.copy-right {
 }
 
 #stiky-left .block-cart .block-title {
-	border-bottom:1px solid #999;
+	border-bottom:1px solid #888;
 	padding-top:30px;
 }
 
-#stiky-left .block-account .block-title span, #stiky-left .block-cart .block-title span {
+#stiky-left .block-account .block-title span {
 	color:#fff;
 	font-size:14px;
+}
+
+#stiky-left .block-cart .block-content .actions {
+	padding-top:15px;
 }
 
 #stiky-left .block-reorder {
