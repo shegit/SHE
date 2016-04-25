@@ -1849,8 +1849,11 @@ p.copy-right {
 }
 
 #stiky-left .block-account .block-title, #stiky-left .block-cart .block-title {
-	padding-top:10px;
 	border-bottom:none;
+}
+
+#stiky-left .block-account .block-title {
+	padding-top:10px;
 }
 
 #stiky-left .block-account .block-title span, #stiky-left .block-cart .block-title span {
