@@ -1848,16 +1848,26 @@ p.copy-right {
 	border-bottom-left-radius: 6px;
 }
 
+#stiky-left .block-account .block-title, #stiky-left .block-cart .block-title {
+	padding-top:10px;
+	border-bottom:none;
+}
+
+#stiky-left .block-account .block-title span, #stiky-left .block-cart .block-title span {
+	color:#fff;
+	font-size:14px;
+}
+
+#stiky-left .block-reorder {
+	border-top:1px solid #828282;
+}
+
 #stiky-left .block-reorder .block-content button {
 	margin-right:5px;
 }
 
 #stiky-left .block-reorder .block-subtitle {
 	padding-bottom:10px;
-}
-
-#stiky-left .block-reorder {
-	border-top:1px solid #828282;
 }
 
 #stiky-left .block-reorder ol {
