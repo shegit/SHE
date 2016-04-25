@@ -1848,12 +1848,13 @@ p.copy-right {
 	border-bottom-left-radius: 6px;
 }
 
-#stiky-left .block-account .block-title, #stiky-left .block-cart .block-title {
+#stiky-left .block-account .block-title {
 	border-bottom:none;
+	padding-top:10px;
 }
 
-#stiky-left .block-account .block-title {
-	padding-top:10px;
+#stiky-left .block-cart .block-title {
+	border-bottom:none;
 }
 
 #stiky-left .block-account .block-title span, #stiky-left .block-cart .block-title span {
