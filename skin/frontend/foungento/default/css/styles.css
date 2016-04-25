@@ -1876,6 +1876,10 @@ p.copy-right {
 	font-size:14px;
 }
 
+#stiky-left .block-account ul li {
+	line-height:20px;
+}
+
 #stiky-left .block-cart .block-title span {
 	color:#eee;
 }
