@@ -1360,6 +1360,11 @@ p.copy-right {
 
 
 /*------------------------- CUSTOMER PAGES -------------------------*/
+
+.customer-account-index .main {
+	margin-top:12px;
+}
+
 /*
 .customer-account-index .main,
 .customer-account-edit .main,
