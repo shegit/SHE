@@ -1854,7 +1854,7 @@ p.copy-right {
 }
 
 #stiky-left .block-cart .block-title {
-	border-bottom:none;
+	border-bottom:1px solid #ddd;
 	padding-top:30px;
 }
 
