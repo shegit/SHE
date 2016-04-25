@@ -1848,6 +1848,19 @@ p.copy-right {
 	border-bottom-left-radius: 6px;
 }
 
+#stiky-left .block-reorder .block-content button {
+	margin-right:5px;
+}
+
+#stiky-left .block-reorder .block-subtitle {
+	padding-bottom:10px;
+}
+
+#stiky-left .block-reorder ol {
+	margin-left:1.4rem;
+	margin-bottom:1.25rem;
+}
+
 
 
 
