@@ -1856,6 +1856,10 @@ p.copy-right {
 	padding-bottom:10px;
 }
 
+#stiky-left .block-reorder {
+	border-top:1px solid #828282;
+}
+
 #stiky-left .block-reorder ol {
 	margin-left:1.4rem;
 	margin-bottom:1.25rem;
