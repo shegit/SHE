@@ -1857,6 +1857,10 @@ p.copy-right {
 	color:#fff;
 }
 
+#stiky-left .block-cart .block-account a, #stiky-left .block-account .block-content p, #stiky-left .block-account .block-content span {
+	color:#fff;
+}
+
 #stiky-left .block-cart .block-title {
 	border-bottom:1px solid #888;
 	padding-top:30px;
