@@ -1013,7 +1013,9 @@ font-size:32px
 	}
 	
 	#nav ul.dropdown li.first.over {
-		
+		-webkit-border-top-right-radius: 6px;
+		-moz-border-radius-topright: 6px;
+		border-top-right-radius: 6px;
 	}
 	
 	#nav ul.dropdown li.last.over {
@@ -1026,7 +1028,9 @@ font-size:32px
 	}
 	
 	#nav ul.dropdown li.first.has-dropdown.over {
-		
+		-webkit-border-top-right-radius: 0;
+		-moz-border-radius-topright: 0;
+		border-top-right-radius: 0;
 	}
 	
 	#nav ul.dropdown li.last.has-dropdown.over {
