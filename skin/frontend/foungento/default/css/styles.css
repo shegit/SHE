@@ -1061,10 +1061,22 @@ font-size:32px
 		border-radius:0;
 	}
 	
+	#nav ul.dropdown.level1 li.first a {
+		-webkit-border-top-right-radius: 3px;
+		-moz-border-radius-topright: 3px;
+		border-top-right-radius: 3px;
+	}
+	
 	#nav ul.dropdown.level2 li a {
 		-webkit-border-radius:0;
 		-moz-border-radius:0;
 		border-radius:0;
+	}
+	
+	#nav ul.dropdown.level2 li.first a {
+		-webkit-border-top-right-radius: 3px;
+		-moz-border-radius-topright: 3px;
+		border-top-right-radius: 3px;
 	}
 }
 
