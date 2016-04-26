@@ -334,7 +334,11 @@ table {
 	font-weight:700!important
 }
 
-.error-msg span, .success-msg span, .note-msg span, .notice-msg span {
+.error-msg ul li, .success-msg ul li .note-msg ul li, .notice-msg ul li {
+	margin:3px 0 0 0!important;
+}
+
+.error-msg ul li span, .success-msg ul li span, .note-msg ul li span, .notice-msg ul li span {
 	font-size:12px!important;
 }
 
