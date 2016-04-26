@@ -1055,6 +1055,12 @@ font-size:32px
 		border-bottom-right-radius: 0;
 	}
 	
+	#nav ul.dropdown.level1 li a {
+		-webkit-border-radius:0;
+		-moz-border-radius:0;
+		border-radius:0;
+	}
+	
 	#nav ul.dropdown.level2 li a {
 		-webkit-border-radius:0;
 		-moz-border-radius:0;
