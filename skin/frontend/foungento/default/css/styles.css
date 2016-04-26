@@ -721,6 +721,65 @@ font-size:32px
 	content:normal!important
 }
 
+#nav {
+	margin:0 0 10px
+}
+
+#nav li {
+	background-color:transparent
+}
+
+#nav li a {
+	background-color:transparent;
+	text-transform:none
+}
+
+#nav li a:hover {
+	text-decoration:none
+}
+
+#nav li a span {
+	color:#564685;
+	font-size:16.5px
+}
+
+#nav ul.dropdown {
+	background-color:#6b5792;
+	color:#fff;
+	-webkit-border-radius:0 3px 0 3px;
+	-moz-border-radius:0 3px 0 3px;
+	border-radius:0 3px 0 3px;
+}
+
+#nav ul.dropdown li a span {
+	color:#fff
+}
+
+#nav li.over a {
+	background-color:#6b5792;
+	color:#fff
+}
+
+#nav li.over a span {
+	color:#fff
+}
+
+#nav li.has-dropdown a {
+	padding-right:.7708333333rem!important
+}
+
+#nav ul.dropdown li {
+	line-height:31px
+}
+
+#nav ul.dropdown li a {
+	line-height:31px
+}
+
+#nav ul.dropdown li span {
+	font-size:14px
+}
+
 .top-bar-section ul li.level-top a {
 	-webkit-border-radius:3px;
 	-moz-border-radius:3px;
@@ -731,21 +790,6 @@ font-size:32px
 	-webkit-border-radius:3px 3px 0 0;
 	-moz-border-radius:3px 3px 0 0;
 	border-radius:3px 3px 0 0
-}
-
-#nav li.level-top ul.level0 li.level1 ul.level1 li.level2.first {
-	-webkit-border-top-right-radius: 6px!important;
-	-moz-border-radius-topright: 6px!important;
-	border-top-right-radius: 6px!important;
-}
-
-#nav li.level-top ul.level0 li.level1.last {
-	-webkit-border-radius: 6px!;
-	-webkit-border-top-left-radius: 0!important;
-	-moz-border-radius: 6px;
-	-moz-border-radius-topleft: 0!important;
-	border-radius: 6px;
-	border-top-left-radius: 0!important;
 }
 
 /*.top-bar-section ul li.level1 a {
@@ -834,62 +878,6 @@ font-size:32px
 
 .navigation .links {
 	display:none
-}
-
-#nav {
-	margin:0 0 10px
-}
-
-#nav li {
-	background-color:transparent
-}
-
-#nav li a {
-	background-color:transparent;
-	text-transform:none
-}
-
-#nav li a:hover {
-	text-decoration:none
-}
-
-#nav li a span {
-	color:#564685;
-	font-size:16.5px
-}
-
-#nav ul.dropdown { /*12.04.16*/
-	background-color:#6b5792;
-	color:#fff
-}
-
-#nav ul.dropdown li a span { /*12.04.16*/
-	color:#fff
-}
-
-#nav li.over a {
-	background-color:#6b5792;
-	color:#fff
-}
-
-#nav li.over a span {
-	color:#fff
-}
-
-#nav li.has-dropdown a {
-	padding-right:.7708333333rem!important
-}
-
-#nav ul.dropdown li {
-	line-height:31px
-}
-
-#nav ul.dropdown li a {
-	line-height:31px
-}
-
-#nav ul.dropdown li span {
-	font-size:14px
 }
 
 .form-search {
