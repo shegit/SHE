@@ -3068,6 +3068,10 @@ ul.share-buttons img {
 	.customer-account-login .page-title h1 {
 		border-bottom:1px solid #f5f5ff;
 	}
+	
+	.checkout-cart-index .cart-empty {
+		min-height:300px;
+	}
 }
 
 @media only screen and (min-width: 64.063em) /*Applies to LARGE ONLY*/ {
