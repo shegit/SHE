@@ -307,7 +307,7 @@ table {
 ul.messages, ul.messages ul {
 	list-style:none!important;
 	margin:0!important;
-	padding:0!important
+	padding:0 0 0 5px!important
 }
 
 ul.messages {
@@ -329,6 +329,7 @@ ul.messages li.error-msg, ul.messages li.success-msg, ul.messages li.note-msg,.n
 
 ul.messages li.error-msg ul li, ul.messages li.success-msg ul li, ul.messages li.note-msg ul li, ul.messages li.notice-msg ul li {
 	margin:0!important;
+	padding:0 0 3px 0!important;
 }
 
 ul.messages li.error-msg ul li span, ul.messages li.success-msg ul li span, ul.messages li.note-msg ul li span, ul.messages li.notice-msg ul li span {
