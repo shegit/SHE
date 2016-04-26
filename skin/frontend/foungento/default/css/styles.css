@@ -2344,7 +2344,6 @@ p.copy-right {
 .sidehead {
 	text-align:right;
 	margin:0;
-	letter-spacing:.04rem;
 	padding:1px 13px 3px 0;
 	background-color:rgba(240, 240, 240, 0.55);
 	-webkit-border-radius:12px 12px 0 0;
