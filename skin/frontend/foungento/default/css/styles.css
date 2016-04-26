@@ -1055,17 +1055,11 @@ font-size:32px
 		border-bottom-right-radius: 0;
 	}
 	
-	/*#nav ul.dropdown.level1 li {
+	#nav ul.dropdown.level2 li a {
 		-webkit-border-radius:0;
 		-moz-border-radius:0;
 		border-radius:0;
 	}
-	
-	#nav ul.dropdown.level2 li {
-		-webkit-border-radius:0;
-		-moz-border-radius:0;
-		border-radius:0;
-	}*/
 }
 
 @media only screen and (min-width: 64.063em) /*Applies to LARGE ONLY*/ {
