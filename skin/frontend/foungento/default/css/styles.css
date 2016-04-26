@@ -1213,6 +1213,17 @@ p.copy-right {
 	line-height:17px;
 }
 
+/*------------------------- CHECKOUT-CART-INDEX -------------------------*/
+
+.checkout-cart-index .page-title {
+	padding:20px;
+}
+
+.checkout-cart-index .page-title h1 {
+	text-align: center;
+    margin: 0 20px;
+    border-bottom: 1px solid #ddd;
+}
 
 
 
