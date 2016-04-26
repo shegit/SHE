@@ -792,13 +792,13 @@ font-size:32px
 	border-radius:3px 3px 0 0
 }
 
-#nav ul.dropdown li.first {
+#nav ul.dropdown li.first a {
 	-webkit-border-top-right-radius: 6px;
 	-moz-border-radius-topright: 6px;
 	border-top-right-radius: 6px;
 }
 
-#nav ul.dropdown li.last {
+#nav ul.dropdown li.last a {
 	-webkit-border-bottom-right-radius: 6px;
 	-moz-border-radius-bottomright: 6px;
 	border-bottom-right-radius: 6px;
