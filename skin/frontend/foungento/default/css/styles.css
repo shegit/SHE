@@ -721,7 +721,7 @@ font-size:32px
 	content:normal!important
 }
 
-/*.top-bar-section ul li.level-top a {
+.top-bar-section ul li.level-top a {
 	-webkit-border-radius:3px 3px 3px 3px;
 	-moz-border-radius:3px;
 	border-radius:3px 3px 3px 3px
@@ -733,7 +733,7 @@ font-size:32px
 	border-radius:3px 3px 0 0
 }
 
-.top-bar-section ul li.level1 a {
+/*.top-bar-section ul li.level1 a {
 	-webkit-border-radius:0!important;
 	-moz-border-radius:0!important;
 	border-radius:0!important
