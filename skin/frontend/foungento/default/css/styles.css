@@ -1038,9 +1038,9 @@ font-size:32px
 		-webkit-border-bottom-right-radius: 3px;
 		-moz-border-radius-bottomright: 3px;
 		border-bottom-right-radius: 3px;
-		-webkit-border-bottom-left-radius: 3px!important;
-		-moz-border-radius-bottomleft: 3px!important;
-		border-bottom-left-radius: 3px!important;
+		-webkit-border-bottom-left-radius: 3px;
+		-moz-border-radius-bottomleft: 3px;
+		border-bottom-left-radius: 3px;
 	}
 	
 	#nav ul.dropdown li.first.has-dropdown.over {
