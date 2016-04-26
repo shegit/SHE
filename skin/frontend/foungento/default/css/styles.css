@@ -1226,8 +1226,12 @@ p.copy-right {
 }
 
 .checkout-cart-index .cart-empty {
-	margin:0 auto;
 	text-align:center;
+}
+
+.checkout-cart-index .cart-empty p {
+	padding:0;
+	margin:0;
 }
 
 
