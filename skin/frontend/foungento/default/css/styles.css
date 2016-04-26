@@ -1067,6 +1067,15 @@ font-size:32px
 		border-top-right-radius: 3px;
 	}
 	
+	#nav ul.dropdown.level1 li.last a {
+		-webkit-border-bottom-right-radius: 3px;
+		-moz-border-radius-bottomright: 3px;
+		border-bottom-right-radius: 3px;
+		-webkit-border-bottom-left-radius: 3px;
+		-moz-border-radius-bottomleft: 3px;
+		border-bottom-left-radius: 3px;
+	}
+	
 	#nav ul.dropdown.level2 li a {
 		-webkit-border-radius:0;
 		-moz-border-radius:0;
@@ -1077,6 +1086,15 @@ font-size:32px
 		-webkit-border-top-right-radius: 3px;
 		-moz-border-radius-topright: 3px;
 		border-top-right-radius: 3px;
+	}
+	
+	#nav ul.dropdown.level2 li.last a {
+		-webkit-border-bottom-right-radius: 3px;
+		-moz-border-radius-bottomright: 3px;
+		border-bottom-right-radius: 3px;
+		-webkit-border-bottom-left-radius: 3px;
+		-moz-border-radius-bottomleft: 3px;
+		border-bottom-left-radius: 3px;
 	}
 }
 
