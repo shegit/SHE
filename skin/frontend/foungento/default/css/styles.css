@@ -334,6 +334,10 @@ table {
 	font-weight:700!important
 }
 
+.error-msg span, .success-msg span, .note-msg span, .notice-msg span {
+	font-size:12px!important;
+}
+
 .error-msg {
 	border-color:#f16048;
 	background-color:#faebe7;
