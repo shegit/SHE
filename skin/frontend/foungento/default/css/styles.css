@@ -768,6 +768,18 @@ font-size:32px
 	padding-right:.7708333333rem!important
 }
 
+#nav li.level-top a {
+	-webkit-border-radius:3px;
+	-moz-border-radius:3px;
+	border-radius:3px;
+}
+
+#nav li.level-top.parent a {
+	-webkit-border-radius:3px 3px 0 0;
+	-moz-border-radius:3px 3px 0 0;
+	border-radius:3px 3px 0 0
+}
+
 #nav ul.dropdown li {
 	line-height:31px
 }
@@ -790,17 +802,8 @@ font-size:32px
 	
 }
 
-.top-bar-section ul li.level-top a {
-	-webkit-border-radius:3px;
-	-moz-border-radius:3px;
-	border-radius:3px;
-}
 
-.top-bar-section ul li.level-top.parent a {
-	-webkit-border-radius:3px 3px 0 0;
-	-moz-border-radius:3px 3px 0 0;
-	border-radius:3px 3px 0 0
-}
+
 
 /*.top-bar-section ul li.level1 a {
 	-webkit-border-radius:0!important;
