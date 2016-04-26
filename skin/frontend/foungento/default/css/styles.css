@@ -1225,6 +1225,11 @@ p.copy-right {
     border-bottom: 1px solid #ddd;
 }
 
+.checkout-cart-index .cart-empty {
+	margin:0 auto;
+	text-align:center;
+}
+
 
 
 
