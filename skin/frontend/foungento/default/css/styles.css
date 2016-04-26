@@ -746,9 +746,9 @@ font-size:32px
 #nav ul.dropdown {
 	background-color:#6b5792;
 	color:#fff;
-	-webkit-border-radius:0 3px 0 3px;
-	-moz-border-radius:0 3px 0 3px;
-	border-radius:0 3px 0 3px;
+	-webkit-border-radius:0 3px 3px 3px;
+	-moz-border-radius:0 3px 3px 3px;
+	border-radius:0 3px 3px 3px;
 }
 
 #nav ul.dropdown li a span {
@@ -778,6 +778,16 @@ font-size:32px
 
 #nav ul.dropdown li span {
 	font-size:14px
+}
+
+#nav ul.dropdown li.first {
+	-webkit-border-top-right-radius: 6px;
+	-moz-border-radius-topright: 6px;
+	border-top-right-radius: 6px;
+}
+
+#nav ul.dropdown li.last {
+	
 }
 
 .top-bar-section ul li.level-top a {
