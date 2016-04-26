@@ -313,7 +313,6 @@ ul.messages, ul.messages ul {
 ul.messages {
 	width:100%;
 	overflow:hidden;
-	margin-bottom:12px;
 }
 
 ul.messages li.error-msg, ul.messages li.success-msg, ul.messages li.note-msg,.notice-msg {
@@ -323,6 +322,7 @@ ul.messages li.error-msg, ul.messages li.success-msg, ul.messages li.note-msg,.n
 	background-repeat:no-repeat!important;
 	min-height:24px!important;
 	padding:8px 8px 8px 32px !important;
+	margin-bottom:12px!important;
 	font-size:11px!important;
 	font-weight:700!important
 }
