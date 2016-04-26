@@ -1227,7 +1227,7 @@ p.copy-right {
 
 .checkout-cart-index .cart-empty {
 	text-align:center;
-	padding-bottom:50px;
+	padding:20px 0 50px 0;
 }
 
 .checkout-cart-index .cart-empty p {
