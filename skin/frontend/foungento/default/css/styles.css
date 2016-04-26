@@ -1083,9 +1083,9 @@ font-size:32px
 	}
 	
 	#nav ul.dropdown.level2 li.first a {
-		-webkit-border-top-right-radius: 3px;
-		-moz-border-radius-topright: 3px;
-		border-top-right-radius: 3px;
+		-webkit-border-top-right-radius: 3px!important;
+		-moz-border-radius-topright: 3px!important;
+		border-top-right-radius: 3px!important;
 	}
 	
 	#nav ul.dropdown.level2 li.last a {
