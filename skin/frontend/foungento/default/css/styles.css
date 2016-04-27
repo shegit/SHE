@@ -1223,6 +1223,10 @@ p.copy-right {
 	margin:0 auto;
 }
 
+.checkout-cart-index .cart-table-wrapper {
+	padding-bottom:25px;
+}
+
 #shopping-cart-table {
 	margin:0;
 }
