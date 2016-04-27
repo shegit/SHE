@@ -1223,6 +1223,14 @@ p.copy-right {
 	margin:0 auto;
 }
 
+.checkout-cart-index .cart span, .checkout-cart-index .cart a {
+	color:#444;
+}
+
+.checkout-cart-index .cart th span {
+	color:#756693;
+}
+
 .checkout-cart-index .page-title {
 	padding:20px;
 }
