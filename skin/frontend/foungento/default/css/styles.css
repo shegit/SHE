@@ -548,7 +548,7 @@ nav.top-bar {
 .minicart-wrapper .mini-products-list {
 	padding-top:20px;
 	border:1px solid #eee;
-	background-color:#e1d1a1;
+	background-color:#eadaaa;
 }
 
 .minicart-wrapper .cart-subtotal .subtotal {
@@ -574,7 +574,7 @@ font-size:32px
 }
 
 #firstModal {
-	background-color:#ecdaa9;
+	background-color:#e1d1a1;
 }
 
 @media only screen and (max-width: 40em) /*Applies to SMALL ONLY*/ {
