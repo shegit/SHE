@@ -3229,7 +3229,7 @@ display:none!important
 }
 
 .product-details ul li p {
-/*margin-bottom:6px!important;*/
+margin-bottom:0px!important;
 padding-top:5px!important
 }
 
