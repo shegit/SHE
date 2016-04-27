@@ -1236,6 +1236,7 @@ p.copy-right {
 .checkout-cart-index .cart-empty p {
 	padding:0;
 	margin:0;
+	color:#444;
 }
 
 .checkout-cart-index .cart-empty a {
