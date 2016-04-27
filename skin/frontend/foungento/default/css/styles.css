@@ -1249,6 +1249,10 @@ p.copy-right {
 	height:93px;
 }
 
+#shopping-cart-table tr.first.last {
+	height:auto;
+}
+
 #shopping-cart-table td {
 	vertical-align:middle;
 }
