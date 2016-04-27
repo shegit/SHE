@@ -1227,7 +1227,7 @@ p.copy-right {
 	color:#444;
 }
 
-.checkout-cart-index .cart th span {
+.checkout-cart-index .cart th span, .checkout-cart-index .cart th {
 	color:#756693;
 }
 
