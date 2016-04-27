@@ -504,7 +504,7 @@ nav.top-bar {
 	background-color:#fef8df;
 }
 
-#firstModal .product-details ul li, #firstModal .product-details ul li span {
+#firstModal .product-details ul li, #firstModal .product-details ul li span.price {
 	font-size:14px;
 	color:#666;
 }
