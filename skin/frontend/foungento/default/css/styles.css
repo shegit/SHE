@@ -1218,6 +1218,11 @@ p.copy-right {
 
 /*------------------------- CHECKOUT-CART-INDEX -------------------------*/
 
+.checkout-cart-index .cart {
+	max-width:500px;
+	margin:0 auto;
+}
+
 .checkout-cart-index .page-title {
 	padding:20px;
 }
