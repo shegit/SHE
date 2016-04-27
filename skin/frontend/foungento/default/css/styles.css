@@ -566,7 +566,8 @@ nav.top-bar {
 }
 
 .minicart-wrapper p.block-subtitle {
-	font-size:16px;
+	font-size:18px;
+	color:#564675!important;
 }
 
 .minicart-wrapper p.empty {
@@ -3210,13 +3211,13 @@ display:none!important
 display:none!important
 }
 
-.product-details ul span.price {
+/*.product-details ul span.price {
 color:#225885!important
 }
 
 .product-details ul li {
 color:#225885!important
-}
+}*/
 
 .product-details ul li:last-child {
 display:none!important
