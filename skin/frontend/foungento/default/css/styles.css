@@ -1236,7 +1236,8 @@ p.copy-right {
 }
 
 #shopping-cart-table input {
-	
+	max-width: 44px;
+    max-height: 29px;
 }
 
 .checkout-cart-index .page-title {
