@@ -1245,6 +1245,10 @@ p.copy-right {
 	color:#756693;
 }
 
+#shopping-cart-table tr {
+	height:93px;
+}
+
 #shopping-cart-table td {
 	vertical-align:middle;
 }
