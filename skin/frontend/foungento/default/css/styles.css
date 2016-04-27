@@ -1231,6 +1231,10 @@ p.copy-right {
 	color:#756693;
 }
 
+.checkout-cart-index .cart a:hover {
+	color:#225885;
+}
+
 .checkout-cart-index .page-title {
 	padding:20px;
 }
