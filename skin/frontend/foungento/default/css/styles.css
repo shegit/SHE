@@ -1223,16 +1223,20 @@ p.copy-right {
 	margin:0 auto;
 }
 
-.checkout-cart-index .cart span, .checkout-cart-index .cart a {
+#shopping-cart-table span, #shopping-cart-table .cart a {
 	color:#444;
 }
 
-.checkout-cart-index .cart th span, .checkout-cart-index .cart th {
+#shopping-cart-table th span, #shopping-cart-table th {
 	color:#756693;
 }
 
-.checkout-cart-index .cart a:hover {
+#shopping-cart-table a:hover {
 	color:#225885;
+}
+
+#shopping-cart-table input {
+	
 }
 
 .checkout-cart-index .page-title {
