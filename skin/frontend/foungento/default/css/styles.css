@@ -1236,6 +1236,10 @@ p.copy-right {
 	vertical-align:middle;
 }
 
+#shopping-cart-table td ul {
+	margin:0;
+}
+
 #shopping-cart-table a:hover {
 	color:#225885;
 }
@@ -1245,6 +1249,7 @@ p.copy-right {
     max-height: 29px;
 	margin-left:auto;
 	margin-right:0;
+	vertical-align:middle;
 }
 
 .checkout-cart-index .page-title {
