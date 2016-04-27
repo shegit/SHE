@@ -1228,6 +1228,10 @@ p.copy-right {
 	padding-bottom:35px;
 }
 
+.checkout-cart-index .table-wrapper {
+	margin-bottom:0!important;
+}
+
 #shopping-cart-table {
 	margin:0;
 }
