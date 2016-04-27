@@ -1248,7 +1248,7 @@ p.copy-right {
 	margin:0;
 }
 
-#shopping-cart-table td ul li::last {
+#shopping-cart-table td ul:last-child {
 	display:none;
 }
 
