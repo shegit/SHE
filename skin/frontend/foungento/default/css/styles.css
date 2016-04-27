@@ -500,6 +500,10 @@ nav.top-bar {
 	background-color:transparent!important
 }
 
+#firstModal {
+	background-color:#fcf6c0;
+}
+
 .minicart-container {
 	max-width:152px;
 	margin:0;
@@ -571,10 +575,6 @@ nav.top-bar {
 
 .minicart-wrapper .cart-subtotal .subtotal,.minicart-wrapper .cart-subtotal .subtotal span.price {
 font-size:32px
-}
-
-#firstModal {
-	background-color:#fcf6c0;
 }
 
 @media only screen and (max-width: 40em) /*Applies to SMALL ONLY*/ {
