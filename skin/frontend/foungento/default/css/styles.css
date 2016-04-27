@@ -502,6 +502,10 @@ nav.top-bar {
 
 #firstModal {
 	background-color:#FDEBD0;
+	border:1px solid #ccc;
+	-moz-border-radius:6px 6px 16px 16px;
+	-webkit-border-radius:6px 6px 16px 16px;
+	border-radius:6px 6px 16px 16px;
 }
 
 #firstModal .product-details ul li, #firstModal .product-details ul span.price {
@@ -558,6 +562,9 @@ nav.top-bar {
 	padding-top:20px;
 	border:1px solid #dfcf9f;
 	background-color:#fff;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
 }
 
 .minicart-wrapper .cart-subtotal .subtotal {
