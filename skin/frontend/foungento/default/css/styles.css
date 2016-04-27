@@ -1221,6 +1221,7 @@ p.copy-right {
 .checkout-cart-index .cart {
 	max-width:1000px;
 	margin:0 auto;
+	padding-bottom:30px;
 }
 
 .checkout-cart-index .cart-table-wrapper {
