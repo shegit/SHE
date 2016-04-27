@@ -562,9 +562,9 @@ nav.top-bar {
 	padding-top:20px;
 	border:1px solid #dfcf9f;
 	background-color:#fff;
-	-moz-border-radius:3px;
-	-webkit-border-radius:3px;
-	border-radius:3px;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
 }
 
 .minicart-wrapper .cart-subtotal .subtotal {
