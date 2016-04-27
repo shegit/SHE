@@ -504,6 +504,11 @@ nav.top-bar {
 	background-color:#fef8df;
 }
 
+#firstModal .product-details ul li, #firstModal .product-details ul li span {
+	font-size:14px;
+	color:#666;
+}
+
 .minicart-container {
 	max-width:152px;
 	margin:0;
