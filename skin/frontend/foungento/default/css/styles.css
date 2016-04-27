@@ -1223,6 +1223,10 @@ p.copy-right {
 	margin:0 auto;
 }
 
+#shopping-cart-table {
+	margin:0;
+}
+
 #shopping-cart-table span, #shopping-cart-table a {
 	color:#444;
 	font-size:14px;
@@ -1242,6 +1246,10 @@ p.copy-right {
 
 #shopping-cart-table td ul {
 	margin:0;
+}
+
+#shopping-cart-table td ul li:last {
+	display:none;
 }
 
 #shopping-cart-table a:hover {
