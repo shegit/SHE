@@ -1249,6 +1249,10 @@ p.copy-right {
 	vertical-align:middle;
 }
 
+#shopping-cart-table tr.first td {
+	padding:9px 10px!important;
+}
+
 #shopping-cart-table td h2 {
 	text-align:right;
 }
