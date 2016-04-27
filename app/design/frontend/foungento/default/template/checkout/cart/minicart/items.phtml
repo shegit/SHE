@@ -70,7 +70,7 @@ if(empty($_cartQty)) {
 
     <?php if($countItems): ?>
         <div>
-            <ul id="cart-sidebar" class="mini-products-list small-block-grid-1 medium-block-grid-2 large-block-grid-4">
+            <ul id="cart-sidebar" class="mini-products-list small-block-grid-2 medium-block-grid-2 large-block-grid-4">
                 <?php foreach($_items as $_item): ?>
                     <?php echo $this->getItemHtml($_item) ?>
                 <?php endforeach; ?>
