@@ -1236,6 +1236,10 @@ p.copy-right {
 	vertical-align:middle;
 }
 
+#shopping-cart-table td h2 {
+	text-align:right;
+}
+
 #shopping-cart-table td ul {
 	margin:0;
 }
