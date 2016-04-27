@@ -1232,6 +1232,10 @@ p.copy-right {
 	color:#756693;
 }
 
+#shopping-cart-table td {
+	vertical-align:middle;
+}
+
 #shopping-cart-table a:hover {
 	color:#225885;
 }
