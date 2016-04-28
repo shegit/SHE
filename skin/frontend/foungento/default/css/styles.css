@@ -1505,6 +1505,10 @@ p.copy-right {
 	padding-top:12px;
 }
 
+.col-main .my-account {
+	margin:0 20px;
+}
+
 /*
 .customer-account-index .main,
 .customer-account-edit .main,
