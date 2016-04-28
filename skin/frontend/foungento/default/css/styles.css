@@ -1518,8 +1518,12 @@ p.copy-right {
 	border-bottom: 1px solid #ddd;
 }
 
-.customer-account-index .my-account p.hello {
+.customer-account-index p.hello {
 	margin-bottom:10px;
+}
+
+.customer-account-index .col2-set.row .col-2 {
+	display:none;
 }
 
 /*
