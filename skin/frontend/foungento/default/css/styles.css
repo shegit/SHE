@@ -1511,11 +1511,11 @@ p.copy-right {
 }
 
 .col-main .my-account .page-title {
-	margin:0 20px;
+	margin-bottom:10px;
 }
 
 .col-main .my-account .page-title h1 {
-	margin:0 20px;
+	border-bottom: 1px solid #ddd;
 }
 
 /*
