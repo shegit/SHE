@@ -1518,6 +1518,11 @@ p.copy-right {
 	border-bottom: 1px solid #ddd;
 }
 
+.customer-account-index .my-account p.hello {
+	margin-bottom:10px;
+	margin-top:10px;
+}
+
 /*
 .customer-account-index .main,
 .customer-account-edit .main,
