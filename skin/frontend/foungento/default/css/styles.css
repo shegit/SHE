@@ -578,7 +578,7 @@ nav.top-bar {
 }
 
 .minicart-wrapper p.empty {
-	color:#225885!important
+	color:#444;
 }
 
 .minicart-wrapper .cart-subtotal .subtotal,.minicart-wrapper .cart-subtotal .subtotal span.price {
