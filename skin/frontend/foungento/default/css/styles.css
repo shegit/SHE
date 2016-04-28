@@ -1518,6 +1518,10 @@ p.copy-right {
 	border-bottom: 1px solid #ddd;
 }
 
+td.a-center span.nobr a.link-reorder {
+	display:none;
+}
+
 .customer-account-index p.hello {
 	margin-bottom:10px;
 }
