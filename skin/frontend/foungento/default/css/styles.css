@@ -1522,6 +1522,19 @@ td.a-center span.nobr a.link-reorder {
 	display:none;
 }
 
+table.responsive span, table.responsive a {
+    color: #444;
+    font-size: 14px;
+}
+
+table.responsive th span, table.responsive th {
+	color: #756693;
+}
+
+table.responsive a:hover {
+	color:#225885;
+}
+
 .customer-account-index p.hello {
 	margin-bottom:10px;
 }
