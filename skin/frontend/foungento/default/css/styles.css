@@ -83,6 +83,10 @@ input:focus {
 	background-color:#fefefe!important
 }
 
+.no-display {
+	display:none!important;
+}
+
 .logo {
 	margin:0
 }
