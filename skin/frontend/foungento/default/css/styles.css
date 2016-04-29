@@ -1518,8 +1518,9 @@ p.copy-right {
 	border-bottom: 1px solid #ddd;
 }
 
-.col-main .my-account .field, .col-main .my-account .input-box, .col-main .my-account input {
+.col-main .my-account .field-set, .col-main .my-account .buttons-set {
 	max-width:400px;
+	margin:0 auto;
 }
 
 td.a-center span.nobr a.link-reorder {
