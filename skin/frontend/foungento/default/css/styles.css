@@ -1255,6 +1255,10 @@ p.copy-right {
 
 /*------------------------- HCD-INDEX-INDEX -------------------------*/
 
+.hcd-index-index .main-container {
+	max-width:1200px;
+}
+
 .hcd-index-index .block {
 	padding:20px 0 35px 0;
 	width:100%;
