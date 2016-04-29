@@ -1237,6 +1237,10 @@ p.copy-right {
 	display:none;
 }
 
+.checkout-onepage-index .checkout-wrapper {
+	padding-top:20px;
+}
+
 .checkout-onepage-index #sidebar-wrapper .block-progress {
 	background-color:transparent;
 }
@@ -1270,9 +1274,6 @@ p.copy-right {
 	border-bottom:1px solid #ddd;
 	text-align:center;
 	margin-bottom:20px;
-}
-
-.hcd-index-index .block .block-hcd-payment {
 }
 
 #hcdForm {
