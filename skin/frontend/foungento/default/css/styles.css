@@ -1518,6 +1518,7 @@ p.copy-right {
 .col-main .my-account .addresses-primary ol li {
 	float:left;
 	padding:10px;
+	width:50%;
 }
 
 .col-main .my-account .page-title h1 {
