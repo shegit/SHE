@@ -1237,6 +1237,10 @@ p.copy-right {
 	display:none;
 }
 
+.checkout-onepage-index #sidebar-wrapper .block-progress {
+	background-color:transparent;
+}
+
 
 
 
