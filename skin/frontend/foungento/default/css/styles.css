@@ -1518,7 +1518,7 @@ p.copy-right {
 	border-bottom: 1px solid #ddd;
 }
 
-.col-main .my-account input {
+.col-main .my-account .field, .col-main .my-account .input-box, .col-main .my-account input {
 	max-width:400px;
 }
 
