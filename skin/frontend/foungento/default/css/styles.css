@@ -1525,6 +1525,7 @@ p.copy-right {
 .col-main .my-account address {
 	font-size:14px;
 	color:#444;
+	padding:10px 5px;
 }
 
 .col-main .my-account .addresses-list {
@@ -1533,7 +1534,6 @@ p.copy-right {
 
 .col-main .my-account .addresses-list .item a {
 	color:#777;
-	margin-top:10px;
 }
 
 .col-main .my-account .addresses-primary ol li, .col-main .my-account .addresses-additional ol li {
