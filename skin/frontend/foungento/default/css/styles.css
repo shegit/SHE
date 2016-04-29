@@ -1241,6 +1241,14 @@ p.copy-right {
 	background-color:transparent;
 }
 
+.checkout-onepage-index #sidebar-wrapper .block-progress .block-title {
+	border-bottom: 1px solid #828282;
+}
+
+.checkout-onepage-index #sidebar-wrapper .block-progress .block-title span {
+	color:#eee;
+}
+
 
 
 
