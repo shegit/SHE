@@ -1526,6 +1526,10 @@ p.copy-right {
 	color:#225885!important;
 }
 
+.col-main .my-account a.button:hover {
+	color:#fff!important;
+}
+
 .col-main .my-account address {
 	font-size:14px;
 	color:#444;
