@@ -1518,6 +1518,10 @@ p.copy-right {
 	border-bottom: 1px solid #ddd;
 }
 
+.col-main .my-account input {
+	max-width:400px;
+}
+
 td.a-center span.nobr a.link-reorder {
 	display:none;
 }
