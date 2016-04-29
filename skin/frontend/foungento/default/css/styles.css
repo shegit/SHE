@@ -1518,7 +1518,7 @@ p.copy-right {
 	border-bottom: 1px solid #ddd;
 }
 
-.col-main .my-account .field-set, .col-main .my-account .buttons-set {
+.col-main .my-account .fieldset, .col-main .my-account .buttons-set {
 	max-width:400px;
 	margin:0 auto;
 }
