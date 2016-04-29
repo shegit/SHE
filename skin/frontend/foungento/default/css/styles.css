@@ -1515,17 +1515,11 @@ p.copy-right {
 	padding-bottom:20px;
 }
 
-.col-main .my-account .addresses-primary ol li {
+.col-main .my-account .addresses-primary ol li, .col-main .my-account .addresses-additional ol li {
 	float:left;
 	padding:10px;
 	width:50%;
 	min-height:240px;
-}
-
-.col-main .my-account .addresses-additional ol li {
-	float:left;
-	padding:10px;
-	width:50%;
 }
 
 .col-main .my-account .page-title h1 {
