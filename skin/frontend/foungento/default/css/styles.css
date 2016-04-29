@@ -3082,6 +3082,10 @@ ul.share-buttons img {
 		padding:0px 12px;
 		margin:10px 0;
 	}
+	
+	.col-main .my-account .addresses-primary ol, .col-main .my-account .addresses-additional ol {
+		margin:0 0 20px 0;
+	}
 		
 	.catalog-product-view .product-view .box-collateral {
 		padding:25px 15px;
