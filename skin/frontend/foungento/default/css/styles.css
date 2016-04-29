@@ -1540,6 +1540,14 @@ p.copy-right {
 	display:none;
 }
 
+.col-main .my-account .box-info .box-head {
+	padding-bottom:10px;
+}
+
+.col-main .my-account .box-info .col2-set .button{
+	padding-top:10px;
+}
+
 .col-main .my-account .limiter {
 	margin-bottom:16px;
 }
