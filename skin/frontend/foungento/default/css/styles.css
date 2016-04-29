@@ -1531,7 +1531,7 @@ p.copy-right {
 	padding-top:20px;
 }
 
-.col-main .my-account .fieldset label {
+.col-main .my-account .fieldset label, .col-main .my-account .fieldset h2 {
 	padding-bottom:5px;
 }
 
