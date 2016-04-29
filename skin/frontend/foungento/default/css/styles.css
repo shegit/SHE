@@ -2036,7 +2036,7 @@ table.responsive th span, table.responsive th {
 }
 
 #stiky-left .block-cart .block-content p.empty {
-	padding-bottom:15px;
+	margin-bottom:15px;
 }
 
 #stiky-left .block-cart .block-content .actions {
