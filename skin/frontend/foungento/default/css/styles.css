@@ -1257,6 +1257,7 @@ p.copy-right {
 
 .hcd-index-index .block {
 	padding:20px 0;
+	width:100%;
 }
 
 .hcd-index-index .block .block-title {
@@ -1266,9 +1267,13 @@ p.copy-right {
 	margin-bottom:20px;
 }
 
-.hcd-index-index .hcdcc_payment_frame {
+#hcdform {
 	margin:0 auto;
-	width:300px;
+	width:250px;
+}
+
+.hcd-index-index .hcdcc_payment_frame {
+	width:250px;
 }
 
 
