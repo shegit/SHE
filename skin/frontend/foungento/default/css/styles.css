@@ -1516,6 +1516,7 @@ p.copy-right {
 }
 
 .col-main .my-account ol li {
+	max-width:300px;
 	display:inline;
 }
 
