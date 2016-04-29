@@ -1592,6 +1592,10 @@ table.responsive span, table.responsive a {
     font-size: 14px;
 }
 
+table th span, table th {
+	color: #756693;
+}
+
 table.responsive th span, table.responsive th {
 	color: #756693!important;
 }
