@@ -1532,8 +1532,8 @@ p.copy-right {
 }
 
 .col-main .my-account .addresses-list .item a {
-	color:#999;
-	padding-top:10px;
+	color:#777;
+	margin-top:10px;
 }
 
 .col-main .my-account .addresses-primary ol li, .col-main .my-account .addresses-additional ol li {
