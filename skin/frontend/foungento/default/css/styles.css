@@ -1527,6 +1527,10 @@ p.copy-right {
 	margin:0 auto;
 }
 
+.col-main .my-account .buttons-set p.back-link, .col-main .my-account .buttons-set p.back-link a {
+	color:#444:
+}
+
 .col-main .my-account .buttons-set p.required {
 	display:none;
 }
@@ -3051,11 +3055,6 @@ ul.share-buttons img {
 		padding:0px 12px;
 		margin:10px 0;
 	}
-	
-	.col-main .my-account .buttons-set p.back-link, .col-main .my-account .buttons-set p.back-link a {
-		display:none;
-		color:#444:
-	}
 		
 	.catalog-product-view .product-view .box-collateral {
 		padding:25px 15px;
@@ -3243,6 +3242,10 @@ ul.share-buttons img {
 	
 	.checkout-cart-index .cart-empty {
 		min-height:305px;
+	}
+	
+	.col-main .my-account .buttons-set p.back-link, .col-main .my-account .buttons-set p.back-link a {
+		display:none;
 	}
 }
 
