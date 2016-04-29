@@ -1540,6 +1540,10 @@ p.copy-right {
 	color:#777;
 }
 
+.col-main .my-account .addresses-list .item a:hover {
+	color:#225885:
+}
+
 .col-main .my-account .addresses-primary ol li, .col-main .my-account .addresses-additional ol li {
 	float:left;
 	padding:10px;
