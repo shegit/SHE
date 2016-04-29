@@ -2035,8 +2035,8 @@ table.responsive th span, table.responsive th {
 	color:#eee;
 }
 
-#stiky-left .block-cart .block-content p.empty {
-	margin-bottom:15px;
+#stiky-left .block-cart .block-content {
+	min-height:60px;
 }
 
 #stiky-left .block-cart .block-content .actions {
