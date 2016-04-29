@@ -1515,8 +1515,9 @@ p.copy-right {
 	padding-bottom:20px;
 }
 
-.col-main .my-account ol li {
+.col-main .my-account .addresses-list ol li {
 	float:left;
+	padding:10px;
 }
 
 .col-main .my-account .page-title h1 {
