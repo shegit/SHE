@@ -1522,6 +1522,10 @@ p.copy-right {
 	font-size:14px;
 }
 
+.col-main .my-account a:hover {
+	color:#225885;
+}
+
 .col-main .my-account address {
 	font-size:14px;
 	color:#444;
@@ -1590,10 +1594,6 @@ table.responsive span, table.responsive a {
 
 table.responsive th span, table.responsive th {
 	color: #756693;
-}
-
-table.responsive a:hover {
-	color:#225885;
 }
 
 .customer-account-index p.hello {
