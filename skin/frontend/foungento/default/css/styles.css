@@ -1527,6 +1527,18 @@ p.copy-right {
 	margin:0 auto;
 }
 
+.col-main .my-account .fieldset {
+	padding-top:20px;
+}
+
+.col-main .my-account .fieldset label {
+	padding-bottom:5px;
+}
+
+.col-main .my-account .fieldset .checkbox {
+	margin-bottom:0;
+}
+
 .col-main .my-account .buttons-set p.back-link, .col-main .my-account .buttons-set p.back-link a {
 	color:#444;
 }
