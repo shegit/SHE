@@ -1523,6 +1523,10 @@ p.copy-right {
 	margin:0 auto;
 }
 
+.col-main .my-account .buttons-set p.required {
+	display:none;
+}
+
 td.a-center span.nobr a.link-reorder {
 	display:none;
 }
@@ -3042,6 +3046,11 @@ ul.share-buttons img {
 	.customer-account-login .new-users, .customer-account-login .registered-users {
 		padding:0px 12px;
 		margin:10px 0;
+	}
+	
+	.col-main .my-account .buttons-set p.back-link, .col-main .my-account .buttons-set p.back-link a {
+		display:none;
+		color:#444:
 	}
 		
 	.catalog-product-view .product-view .box-collateral {
