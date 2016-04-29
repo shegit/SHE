@@ -1287,7 +1287,7 @@ p.copy-right {
 	border-radius:6px;
 }
 
-.hcd-index-index .hcdcc_payment_frame {
+.hcd-index-index .hcdcc_payment_frame, .hcd-index-index .hcddc_payment_frame {
 	width:250px;
 }
 
