@@ -1253,6 +1253,16 @@ p.copy-right {
 
 
 
+/*------------------------- HCD-INDEX-INDEX -------------------------*/
+
+.hcd-index-index .block {
+	margin:0 auto;
+	padding:20px 0;
+}
+
+
+
+
 /*------------------------- CHECKOUT-CART-INDEX -------------------------*/
 
 .checkout-cart-index .cart {
