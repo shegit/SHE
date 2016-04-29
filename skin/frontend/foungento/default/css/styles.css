@@ -1228,6 +1228,19 @@ p.copy-right {
 	line-height:17px;
 }
 
+
+
+
+/*------------------------- CHECKOUT-ONEPAGE-INDEX -------------------------*/
+
+.checkout-onepage-index .minicart-head-container {
+	display:none;
+}
+
+
+
+
+
 /*------------------------- CHECKOUT-CART-INDEX -------------------------*/
 
 .checkout-cart-index .cart {
@@ -1632,204 +1645,6 @@ table.responsive th span, table.responsive th {
 	display:none;
 }
 
-/*
-.customer-account-index .main,
-.customer-account-edit .main,
-.customer-address-index .main,
-.sales-order-history .main,
-.sales-billing-agreement-index .main,
-.sales-recurring-profile-index .main,
-.review-customer-index .main,
-.tag-customer-index .main,
-.oauth-customer-token-index .main,
-.newsletter-manage-index .main,
-.downloadable-customer-products .main
-{
-	padding-top:20px;
-}
-
-.customer-account-index .box-head h2,
-.customer-account-edit .box-head h2,
-.customer-address-index .box-head h2,
-.sales-order-history .box-head h2,
-.sales-billing-agreement-index .box-head h2,
-.sales-recurring-profile-index .box-head h2,
-.review-customer-index .box-head h2,
-.tag-customer-index .box-head h2,
-.oauth-customer-token-index .box-head h2,
-.newsletter-manage-index .box-head h2,
-.downloadable-customer-products .box-head h2
-{
-	border-bottom:1px solid #ddd;
-	padding-top:20px;
-	padding-bottom:20px;
-}
-
-.customer-account-index a.button,
-.customer-account-edit a.button,
-.customer-address-index a.button,
-.sales-order-history a.button,
-.sales-billing-agreement-index a.button,
-.sales-recurring-profile-index a.button,
-.review-customer-index a.button,
-.tag-customer-index a.button,
-.oauth-customer-token-index a.button,
-.newsletter-manage-index a.button,
-.downloadable-customer-products a.button
-{
-	margin:5px 0;
-}
-
-.customer-account-index table,
-.customer-account-edit table,
-.customer-address-index table,
-.sales-order-history table,
-.sales-billing-agreement-index table,
-.sales-recurring-profile-index table,
-.review-customer-index table,
-.tag-customer-index table,
-.oauth-customer-token-index table,
-.newsletter-manage-index table,
-.downloadable-customer-products table
-{
-	margin-top:10px;
-}
-
-.customer-account-index .my-account,
-.customer-account-edit .my-account,
-.customer-address-index .my-account,
-.sales-order-history .my-account,
-.sales-billing-agreement-index .my-account,
-.sales-recurring-profile-index .my-account,
-.review-customer-index .my-account,
-.tag-customer-index .my-account,
-.oauth-customer-token-index .my-account,
-.newsletter-manage-index .my-account,
-.downloadable-customer-products .my-account
-{
-	border-top: 1px solid #ddd;
-    border-left: 1px solid #ddd;
-	border-bottom: 1px solid #ddd;
-    -webkit-border-top-left-radius: 6px;
-    -moz-border-radius-topleft: 6px;
-    border-top-left-radius: 6px;
-    background-color: #fdfdfd;
-    padding-top: 18px;
-	padding-bottom: 10px;
-	padding-left:15px;
-}
-
-.customer-account-index .page-title h1,
-.customer-account-edit .page-title h1,
-.customer-address-index .page-title h1,
-.sales-order-history .page-title h1,
-.sales-billing-agreement-index .page-title h1,
-.sales-recurring-profile-index .page-title h1,
-.review-customer-index .page-title h1,
-.tag-customer-index .page-title h1,
-.oauth-customer-token-index .page-title h1,
-.newsletter-manage-index .page-title h1,
-.downloadable-customer-products .page-title h1
-{
-    border-bottom: 1px solid #ddd;
-	margin-bottom:10px;
-}
-
-.customer-account-index .my-account form,
-.customer-account-edit .my-account form,
-.customer-address-index .my-account form,
-.sales-order-history .my-account form,
-.sales-billing-agreement-index .my-account form,
-.sales-recurring-profile-index .my-account form,
-.review-customer-index .my-account form,
-.tag-customer-index .my-account form,
-.oauth-customer-token-index .my-account form,
-.newsletter-manage-index .my-account form,
-.downloadable-customer-products .my-account form
-{
-	max-width:400px;
-}
-
-.customer-account-index .my-account,
-.customer-account-index .my-account p,
-.customer-account-index .my-account span,
-
-.customer-account-edit .my-account,
-.customer-account-edit .my-account p,
-.customer-account-edit .my-account span,
-
-.customer-address-index .my-account,
-.customer-address-index .my-account p,
-.customer-address-index .my-account span,
-
-.sales-order-history .my-account,
-.sales-order-history .my-account p,
-.sales-order-history .my-account span,
-
-.sales-billing-agreement-index .my-account,
-.sales-billing-agreement-index .my-account p,
-.sales-billing-agreement-index .my-account span,
-
-.sales-recurring-profile-index .my-account,
-.sales-recurring-profile-index .my-account p,
-.sales-recurring-profile-index .my-account span,
-
-.review-customer-index .my-account,
-.review-customer-index .my-account p,
-.review-customer-index .my-account span,
-
-.tag-customer-index .my-account,
-.tag-customer-index .my-account p,
-.tag-customer-index .my-account span,
-
-.oauth-customer-token-index .my-account,
-.oauth-customer-token-index .my-account p,
-.oauth-customer-token-index .my-account span,
-
-.newsletter-manage-index .my-account,
-.newsletter-manage-index .my-account p,
-.newsletter-manage-index .my-account span,
-
-.downloadable-customer-products .my-account,
-.downloadable-customer-products .my-account p,
-.downloadable-customer-products .my-account span
-{
-	color:#1b4669
-}
-
-.customer-address-index ol li {
-	padding-top:15px;
-}
-
-.my-account address {
-	font-size:14px!important;
-}
-
-.customer-address-index ol li a {
-	color:#666;
-	font-style: italic;
-}
-
-.sales-order-history .pager {
-	display:none;
-}
-
-.block-account .block-content ul li a {
-	color:#eee;
-}
-
-.block-account .block-content ul li.current {
-	color:#fff;
-}
-
-.customer-account-index .welcome-msg, .customer-account-index .box-account {
-	padding-left:5px;
-}
-
-.form-subscribe-header label {
-	color:#fafafa!important
-}
-*/
 
 
 
