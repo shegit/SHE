@@ -1266,8 +1266,9 @@ p.copy-right {
 	margin-bottom:20px;
 }
 
-#paymentframe {
+.hcd-index-index .hcdcc_payment_frame {
 	margin:0 auto;
+	width:300px;
 }
 
 
