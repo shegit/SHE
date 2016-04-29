@@ -1592,7 +1592,7 @@ table.responsive span, table.responsive a {
     font-size: 14px;
 }
 
-table th span, table th {
+.pinned table th {
 	color: #756693;
 }
 
