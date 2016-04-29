@@ -3086,6 +3086,7 @@ ul.share-buttons img {
 	.col-main .my-account .addresses-primary ol, .col-main .my-account .addresses-additional ol {
 		margin:0 0 20px 0;
 		padding:10px 0;
+		min-height:0;
 	}
 	
 	.col-main .my-account .addresses-primary ol li, .col-main .my-account .addresses-additional ol li {
