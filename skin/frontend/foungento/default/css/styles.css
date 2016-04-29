@@ -1515,12 +1515,9 @@ p.copy-right {
 	padding-bottom:20px;
 }
 
-.col-main .my-account .page-title {
-	margin-bottom:20px;
-}
-
 .col-main .my-account .page-title h1 {
 	border-bottom: 1px solid #ddd;
+	margin-bottom:20px;
 }
 
 .col-main .my-account .fieldset, .col-main .my-account .buttons-set {
