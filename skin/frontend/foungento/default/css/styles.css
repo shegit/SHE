@@ -1532,16 +1532,24 @@ p.copy-right {
 	padding:10px 5px;
 }
 
+.col-main .my-account .seperator {
+	display:none;
+}
+
+.col-main .my-account .limiter {
+	margin-bottom:16px;
+}
+
+.col-main .my-account .limiter select {
+	margin-bottom:0;
+}
+
 .col-main .my-account .addresses-list {
 	padding-top:20px;
 }
 
 .col-main .my-account .addresses-list .item a {
 	color:#777;
-}
-
-.col-main .my-account .addresses-list .item a:hover {
-	color:#225885:
 }
 
 .col-main .my-account .addresses-primary ol li, .col-main .my-account .addresses-additional ol li {
