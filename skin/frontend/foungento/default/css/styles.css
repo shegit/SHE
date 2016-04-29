@@ -1268,16 +1268,17 @@ p.copy-right {
 }
 
 .hcd-index-index .block .block-hcd-payment {
+}
+
+#hcdForm {
+	margin:0 auto;
+	width:300px;
+	padding:25px;
 	background-color:#f5fcff;
 	border:1px solid #eee;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	border-radius:6px;
-}
-
-#hcdForm {
-	margin:0 auto;
-	width:250px;
 }
 
 .hcd-index-index .hcdcc_payment_frame {
