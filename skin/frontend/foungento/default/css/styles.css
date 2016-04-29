@@ -2035,6 +2035,10 @@ table.responsive th span, table.responsive th {
 	color:#eee;
 }
 
+#stiky-left .block-cart .block-content p.empty {
+	padding-bottom:15px;
+}
+
 #stiky-left .block-cart .block-content .actions {
 	padding-top:15px;
 }
