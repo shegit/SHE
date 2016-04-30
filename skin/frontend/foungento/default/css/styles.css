@@ -1333,9 +1333,13 @@ p.copy-right {
     font-size: 12px;
 }
 
+.checkout-onepage-index #checkout-step-login h4 {
+	padding-bottom:10px;
+}
+
 .checkout-onepage-index #checkout-step-login .register-now p {
 	font-size:12px;
-	margin-bottom:8px;
+	margin-bottom:5px;
 }
 
 .checkout-onepage-index #checkout-step-login .register-now ul li {
