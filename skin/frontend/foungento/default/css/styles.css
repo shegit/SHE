@@ -1329,6 +1329,17 @@ p.copy-right {
     font-size: 12px;
 }
 
+.checkout-onepage-index #checkout-step-login .col-2 ul li {
+	font-size:14px;
+	color:#444;
+}
+
+.checkout-onepage-index #checkout-step-login .col-2 ul li:before {
+    content: "✔"!important;
+    color: #59bd47!important;
+    padding-right: 5px;
+}
+
 
 
 
