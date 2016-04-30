@@ -1233,6 +1233,11 @@ p.copy-right {
 
 /*------------------------- CHECKOUT-ONEPAGE-INDEX -------------------------*/
 
+.checkout-onepage-index a, .checkout-onepage-index p, .checkout-onepage-index span {
+	font-size:14px;
+	color:#444;
+}
+
 .checkout-onepage-index .main {
 	border-top:1px solid #ddd;
 	-moz-border-radius:6px;
