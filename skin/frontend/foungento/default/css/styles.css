@@ -1288,7 +1288,9 @@ p.copy-right {
 }
 
 .checkout-onepage-index #checkout-step-login .col-1, .checkout-onepage-index #checkout-step-login .col-2 {
-	margin:0 auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:40px;
 	max-width:300px;
 }
 
@@ -1298,7 +1300,6 @@ p.copy-right {
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     border-radius: 6px;
-	margin-top:40px;
 	padding-top:15px;
 }
 
