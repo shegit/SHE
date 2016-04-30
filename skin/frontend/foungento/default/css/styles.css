@@ -1312,6 +1312,15 @@ p.copy-right {
 	padding:0;
 }
 
+.checkout-onepage-index #checkout-step-login a.link-tip {
+	display:none;
+}
+
+.checkout-onepage-index #checkout-step-login .buttons-set a {
+    padding-left: 5px;
+    font-size: 12px;
+}
+
 
 
 
