@@ -3216,6 +3216,16 @@ ul.share-buttons img {
 		background:transparent;
 	}
 	
+	.checkout-onepage-index .page-title {
+		padding:20px;
+	}
+
+	.checkout-onepage-index .page-title h1 {
+		text-align: center;
+		margin: 0 20px;
+		border-bottom: 1px solid #f5f5ff;
+	}
+	
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
 	
 	.cms-index-index .col-main {
