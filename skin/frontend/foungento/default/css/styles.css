@@ -1300,13 +1300,12 @@ p.copy-right {
 }
 
 .checkout-onepage-index fieldset fieldset {
-    border: 1px solid #eee;
-	-moz-border-radius:6px;
-	-webkit-border-radius:6px;
-	border-radius:6px;
-	background-color:#f5f5f5;
+	background-color:#756693;
     padding: 20px 20px 0 20px;
-    margin: 18px 0;
+}
+
+.checkout-onepage-index fieldset fieldset label {
+	color:#fff;
 }
 
 .checkout-onepage-index #sidebar-wrapper {
