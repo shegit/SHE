@@ -1283,6 +1283,11 @@ p.copy-right {
 	display:none;
 }
 
+.checkout-onepage-index #checkout-step-login .col-1, .checkout-onepage-index #checkout-step-login .col-2 {
+	margin:0 auto;
+	max-width:300px;
+}
+
 .checkout-onepage-index #checkout-step-login .col-1 {
 	background: #f5fcff;
     border: 1px solid #eee;
@@ -1290,6 +1295,7 @@ p.copy-right {
     -webkit-border-radius: 6px;
     border-radius: 6px;
 	margin-top:40px;
+	padding-top:15px;
 }
 
 .checkout-onepage-index #checkout-step-login fieldset {
