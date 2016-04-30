@@ -1330,9 +1330,12 @@ p.copy-right {
 .checkout-onepage-index #checkout-step-login .col-1 .content {
 	background: #f5fcff;
     border: 1px solid #eee;
-    -moz-border-radius: 6px;
-    -webkit-border-radius: 6px;
-    border-radius: 6px;
+    -webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
 }
 
 .checkout-onepage-index #checkout-step-login ul {
