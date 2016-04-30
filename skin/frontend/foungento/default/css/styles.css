@@ -1277,6 +1277,10 @@ p.copy-right {
 	max-width:700px;
 }
 
+.checkout-onepage-index .step-title {
+	border-bottom:none;
+}
+
 .checkout-onepage-index #sidebar-wrapper {
 	margin-top:20px;
 }
