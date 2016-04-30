@@ -1316,6 +1316,10 @@ p.copy-right {
 	display:none;
 }
 
+.checkout-onepage-index #checkout-step-login p.required {
+    display: none;
+}
+
 .checkout-onepage-index #checkout-step-login .buttons-set a {
     padding-left: 5px;
     font-size: 12px;
