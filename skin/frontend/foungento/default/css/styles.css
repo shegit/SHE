@@ -1299,6 +1299,10 @@ p.copy-right {
     margin: 18px 0;
 }
 
+.checkout-onepage-index fieldset input {
+	max-width:300px;
+}
+
 .checkout-onepage-index fieldset fieldset {
 	background-color:#756693;
     padding: 20px 20px 0 20px;
