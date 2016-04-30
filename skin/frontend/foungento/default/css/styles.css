@@ -1257,6 +1257,10 @@ p.copy-right {
 	color:#eee;
 }
 
+.checkout-onepage-index #checkout-step-login h3 {
+	display:none;
+}
+
 
 
 
