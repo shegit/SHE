@@ -1305,14 +1305,14 @@ p.copy-right {
 
 .checkout-onepage-index fieldset fieldset {
 	max-width:340px;
-	background-color:#756693;
+	background-color:#f5f5f5;
 	margin-left:auto;
 	margin-right:auto;
     padding: 20px 20px 0 20px;
 }
 
 .checkout-onepage-index fieldset fieldset label {
-	color:#fff;
+	/*color:#fff;*/
 }
 
 .checkout-onepage-index #sidebar-wrapper {
