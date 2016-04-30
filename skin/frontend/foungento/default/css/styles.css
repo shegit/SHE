@@ -1299,6 +1299,16 @@ p.copy-right {
     margin: 18px 0;
 }
 
+.checkout-onepage-index fieldset fieldset {
+    border: 1px solid #eee;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	background-color:#fdfeff;
+    padding: 30px 20px 20px 20px;
+    margin: 18px 0;
+}
+
 .checkout-onepage-index #sidebar-wrapper {
 	margin-top:20px;
 }
