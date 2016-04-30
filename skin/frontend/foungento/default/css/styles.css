@@ -1310,7 +1310,7 @@ p.copy-right {
 	max-width:300px;
 }
 
-.checkout-onepage-index fieldset fieldset,
+.checkout-onepage-index #billing-new-address-form,
 .checkout-onepage-index #shipping-new-address-form {
 	border: 1px solid #eee;
 	-moz-border-radius:6px;
