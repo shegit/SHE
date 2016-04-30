@@ -1306,6 +1306,10 @@ p.copy-right {
     border-radius: 6px;
 }
 
+.checkout-onepage-index #checkout-step-login ul {
+    margin: 0 0 15px 0;
+}
+
 .checkout-onepage-index #checkout-step-login fieldset {
 	border:none;
 	margin:0;
