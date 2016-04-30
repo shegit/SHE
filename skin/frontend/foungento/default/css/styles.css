@@ -1238,6 +1238,10 @@ p.copy-right {
 	color:#444;
 }
 
+.checkout-onepage-index label, .checkout-onepage-index a.forgot-password {
+	color:#777;
+}
+
 .checkout-onepage-index .main {
 	border-top:1px solid #ddd;
 	-moz-border-radius:6px;
@@ -1298,7 +1302,6 @@ p.copy-right {
 
 .checkout-onepage-index #checkout-step-login .col-2 {
 	margin:0;
-	border-left: 1px solid #ddd;
 }
 
 .checkout-onepage-index #checkout-step-login .col-1 .content, .checkout-onepage-index #checkout-step-login .col-2 .content {
