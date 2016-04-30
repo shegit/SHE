@@ -12,6 +12,7 @@
 <div class="col2-set row">
     <?php echo $this->getChildHtml('login_before')?>
     <div class="col-1 large-6 columns">
+	<div class="content">
         <h3><?php echo $this->__('Login') ?></h3>
         <?php echo $this->getMessagesBlock()->getGroupedHtml() ?>
         <form id="login-form" action="<?php echo $this->getPostAction() ?>" method="post">
@@ -44,10 +45,11 @@
             <button type="submit" class="radius tiny button" onclick="onepageLogin(this)"><span><span><?php echo $this->__('Login') ?></span></span></button>
             <a href="<?php echo $this->getUrl('customer/account/forgotpassword') ?>" class="forgot-password"><?php echo $this->__('Forgot your password?') ?></a>
         </div>
-        
+    </div>
     </div>
     
     <div class="col-2 large-6 margin-top-40 columns">
+	<div class="content">
         <h3><?php if( $this->getQuote()->isAllowedGuestCheckout() ): ?><?php echo $this->__('Checkout as a Guest or Register') ?><?php else: ?><?php echo $this->__('Register to Create an Account') ?><?php endif; ?></h3>
         <?php if( $this->getQuote()->isAllowedGuestCheckout() ): ?>
             <p><?php echo $this->__('Register with us for future convenience:') ?></p>
@@ -92,7 +94,7 @@
                 </form>
             <?php endif; ?>
         </div>
-        
+    </div>
     </div>
     
 </div>
