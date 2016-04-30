@@ -1241,6 +1241,10 @@ p.copy-right {
 	padding-top:20px;
 }
 
+.checkout-onepage-index #sidebar-wrapper {
+	margin-top:50px;
+}
+
 .checkout-onepage-index #sidebar-wrapper .block-progress {
 	background-color:transparent;
 }
