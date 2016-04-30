@@ -1331,6 +1331,7 @@ p.copy-right {
 .checkout-onepage-index #checkout-step-login .col-2 ul li {
 	font-size:14px;
 	color:#444;
+	line-height:20px;
 }
 
 .checkout-onepage-index #checkout-step-login .col-2 ul li:before {
