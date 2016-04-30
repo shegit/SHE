@@ -1289,7 +1289,7 @@ p.copy-right {
     margin: 0 0 15px 0;
 }
 
-.checkout-onepage-index fieldset {
+.checkout-onepage-index #checkout-step-billing {
     border: 1px solid #eee;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
@@ -1299,20 +1299,24 @@ p.copy-right {
     margin: 18px 0;
 }
 
+.checkout-onepage-index fieldset {
+	margin:0;
+	padding:0;
+}
+
 .checkout-onepage-index fieldset input {
 	max-width:300px;
 }
 
 .checkout-onepage-index fieldset fieldset {
+	border: 1px solid #eee;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
 	max-width:340px;
 	background-color:#fafafa;
-	margin-left:auto;
-	margin-right:auto;
+	margin:18px auto;
     padding: 20px 20px 0 20px;
-}
-
-.checkout-onepage-index fieldset fieldset label {
-	/*color:#fff;*/
 }
 
 .checkout-onepage-index #sidebar-wrapper {
