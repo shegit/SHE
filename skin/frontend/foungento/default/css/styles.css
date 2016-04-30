@@ -1340,6 +1340,12 @@ p.copy-right {
     padding-right: 5px;
 }
 
+.checkout-onepage-index #checkout-step-login .col-2 ul.form-list li:before {
+    content: ""!important;
+    color: #59bd47!important;
+    padding-right: 0px;
+}
+
 
 
 
