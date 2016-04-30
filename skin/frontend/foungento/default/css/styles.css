@@ -1303,6 +1303,7 @@ p.copy-right {
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     border-radius: 6px;
+	margin-left:10px;
 }
 
 .checkout-onepage-index #checkout-step-login ul {
