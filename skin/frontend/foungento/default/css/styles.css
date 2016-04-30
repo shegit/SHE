@@ -1233,6 +1233,13 @@ p.copy-right {
 
 /*------------------------- CHECKOUT-ONEPAGE-INDEX -------------------------*/
 
+.checkout-onepage-index .main {
+	border-top:1px solid #ddd;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+}
+
 .checkout-onepage-index .minicart-head-container {
 	display:none;
 }
