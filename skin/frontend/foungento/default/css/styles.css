@@ -1302,6 +1302,7 @@ p.copy-right {
 .checkout-onepage-index fieldset {
 	margin:0;
 	padding:0;
+	border:none;
 }
 
 .checkout-onepage-index fieldset input {
