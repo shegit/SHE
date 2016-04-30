@@ -1259,9 +1259,9 @@ p.copy-right {
 }
 
 .checkout-onepage-index .page-title h1 {
-	text-align: center;
+	/*text-align: center;*/
     margin: 0 20px;
-    border-bottom: 1px solid #f5f5ff;
+    /*border-bottom: 1px solid #f5f5ff;*/
 }
 
 .checkout-onepage-index .minicart-head-container {
@@ -1278,7 +1278,7 @@ p.copy-right {
 }
 
 .checkout-onepage-index .step-title {
-	border-bottom:none;
+	border-bottom: 1px solid #f5f5ff;
 }
 
 .checkout-onepage-index #sidebar-wrapper {
