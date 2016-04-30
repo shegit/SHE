@@ -1348,11 +1348,12 @@ p.copy-right {
 .checkout-onepage-index #checkout-step-login .register-now p {
 	font-size:12px;
 	margin-bottom:5px;
+	color:#777;
 }
 
 .checkout-onepage-index #checkout-step-login .register-now ul li {
 	font-size:12px;
-	color:#444;
+	color:#777;
 	line-height:20px;
 }
 
