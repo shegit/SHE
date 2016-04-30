@@ -1333,22 +1333,21 @@ p.copy-right {
     font-size: 12px;
 }
 
-.checkout-onepage-index #checkout-step-login .col-2 ul li {
-	font-size:14px;
+.checkout-onepage-index #checkout-step-login .register-now p {
+	font-size:12px;
+	margin-bottom:8px;
+}
+
+.checkout-onepage-index #checkout-step-login .register-now ul li {
+	font-size:12px;
 	color:#444;
 	line-height:20px;
 }
 
-.checkout-onepage-index #checkout-step-login .col-2 ul li:before {
+.checkout-onepage-index #checkout-step-login .register-now ul li:before {
     content: "✔"!important;
     color: #59bd47!important;
     padding-right: 5px;
-}
-
-.checkout-onepage-index #checkout-step-login .col-2 ul.form-list li:before {
-    content: ""!important;
-    color: #59bd47!important;
-    padding-right: 0px;
 }
 
 
