@@ -1292,8 +1292,13 @@ p.copy-right {
 	margin-top:40px;
 }
 
-.checkout-onepage-index #checkout-step-login .col-1, .checkout-onepage-index #checkout-step-login .col-2 {
+.checkout-onepage-index #checkout-step-login .col-1 {
 	margin:0;
+}
+
+.checkout-onepage-index #checkout-step-login .col-2 {
+	margin:0;
+	border-left: 1px solid #ddd;
 }
 
 .checkout-onepage-index #checkout-step-login .col-1 .content, .checkout-onepage-index #checkout-step-login .col-2 .content {
