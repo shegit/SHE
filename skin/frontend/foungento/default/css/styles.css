@@ -1238,8 +1238,9 @@ p.copy-right {
 	color:#444;
 }
 
-.checkout-onepage-index label, .checkout-onepage-index a.forgot-password {
+.checkout-onepage-index label, .checkout-onepage-index a.forgot-password, .checkout-onepage-index p.required {
 	color:#777;
+	font-size:14px;
 }
 
 .checkout-onepage-index .main {
