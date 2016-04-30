@@ -1289,7 +1289,8 @@ p.copy-right {
     margin: 0 0 15px 0;
 }
 
-.checkout-onepage-index #checkout-step-billing {
+.checkout-onepage-index #checkout-step-billing,
+.checkout-onepage-index #checkout-step-shipping {
     border: 1px solid #eee;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
