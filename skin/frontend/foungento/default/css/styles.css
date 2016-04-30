@@ -1593,6 +1593,10 @@ p.copy-right {
 	color:#444;
 }
 
+.customer-account-login label, .customer-account-login a.forgot-password {
+	color:#777;
+}
+
 .customer-account-login h2 {
 	padding-bottom:5px;
 }
