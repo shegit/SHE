@@ -1281,6 +1281,10 @@ p.copy-right {
 	border-bottom: 1px solid #f5f5ff;
 }
 
+.checkout-onepage-index ul {
+    margin: 0 0 15px 0;
+}
+
 .checkout-onepage-index #sidebar-wrapper {
 	margin-top:20px;
 }
@@ -1346,10 +1350,6 @@ p.copy-right {
 	-moz-border-radius-topright: 6px;
 	border-top-left-radius: 6px;
 	border-top-right-radius: 6px;
-}
-
-.checkout-onepage-index #checkout-step-login ul {
-    margin: 0 0 15px 0;
 }
 
 .checkout-onepage-index #checkout-step-login fieldset {
