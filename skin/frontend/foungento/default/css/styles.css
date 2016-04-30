@@ -1243,6 +1243,10 @@ p.copy-right {
 	font-size:14px;
 }
 
+.checkout-onepage-index label {
+	padding-bottom:5px;
+}
+
 .checkout-onepage-index p.required {
 	font-size:12px;
 }
