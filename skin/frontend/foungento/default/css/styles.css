@@ -1285,11 +1285,14 @@ p.copy-right {
 
 .checkout-onepage-index #checkout-step-login .col2-set {
 	width:100%;
+	display:block;
 }
 
 .checkout-onepage-index #checkout-step-login .col-1, .checkout-onepage-index #checkout-step-login .col-2 {
-	margin:40px 0 0 0;
+	margin:40px auto;
 	padding:15px 20px 0 20px;
+	max-width:300px;
+	display:inline-block;
 }
 
 .checkout-onepage-index #checkout-step-login .col-1 {
