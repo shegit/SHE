@@ -1385,9 +1385,11 @@ p.copy-right {
 }
 
 .checkout-onepage-index #sidebar-wrapper .block-progress dd,
+.checkout-onepage-index #sidebar-wrapper .block-progress dd strong,
 .checkout-onepage-index #sidebar-wrapper .block-progress dd span.price {
 	color:#ddd;
 	font-size:12px;
+	font-weight:normal!important;
 }
 
 .checkout-onepage-index #checkout-step-login h3 {
