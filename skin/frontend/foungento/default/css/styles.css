@@ -3260,7 +3260,7 @@ ul.share-buttons img {
 @media only screen and (max-width: 40em) /*Applies to SMALL ONLY*/ {
 	
 	.main {
-		border:none
+		border:none!important;
 	}
 	
 	.col-main {
@@ -3315,6 +3315,14 @@ ul.share-buttons img {
 	}
 	
 	.catalog-category-view .nav-container {
+		background:transparent;
+	}
+	
+	.checkout-onepage-index .main {
+		background:transparent;
+	}
+	
+	.checkout-onepage-index .nav-container {
 		background:transparent;
 	}
 	
