@@ -61,6 +61,12 @@ a:active {
 	outline: none!important;
 }
 
+.wrapper .validation-advice {
+	color:red;
+	font-size:12px;
+	padding-bottom:15px;
+}
+
 .wrapper .top-bar .toggle-topbar.menu-icon a span::after {
 	box-shadow: 0 0 0 1px #756693,0 7px 0 1px #756693,0 14px 0 1px #756693;
 }
@@ -1270,12 +1276,6 @@ p.copy-right {
 
 .checkout-onepage-index a.link-tip {
 	display:none;
-}
-
-.checkout-onepage-index .validation-advice {
-	color:red;
-	font-size:12px;
-	padding-bottom:15px;
 }
 
 .checkout-onepage-index span.please-wait {
