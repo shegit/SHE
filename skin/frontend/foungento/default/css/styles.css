@@ -1966,7 +1966,8 @@ p.copy-right {
 }
 
 td.a-center span.nobr a {
-	color:#777;
+	color:#666;
+	font-style:italic;
 }
 
 td.a-center span.nobr a.link-reorder {
