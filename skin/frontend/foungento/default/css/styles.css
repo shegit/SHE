@@ -1251,6 +1251,10 @@ p.copy-right {
 	font-size:12px;
 }
 
+.checkout-onepage-index p.back-link {
+	margin-bottom:10px;
+}
+
 .checkout-onepage-index p.back-link a {
 	font-size:12px;
 	color:#777;
