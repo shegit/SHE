@@ -1524,8 +1524,8 @@ p.copy-right {
 	width:250px;
 }
 
-label.form-label {
-	font-family:"Roboto","Raleway","Helvetica Neue",Verdana,Arial,sans-serif
+.form-label {
+	font-family:"Roboto","Raleway","Helvetica Neue",Verdana,Arial,sans-serif!important;
 }
 
 
