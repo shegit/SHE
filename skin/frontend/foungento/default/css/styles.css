@@ -1965,6 +1965,10 @@ p.copy-right {
 	display:none;
 }
 
+td.a-center span.nobr a {
+	color:#777;
+}
+
 td.a-center span.nobr a.link-reorder {
 	display:none;
 }
