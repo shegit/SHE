@@ -1319,7 +1319,7 @@ p.copy-right {
 
 .checkout-onepage-index fieldset input {
 	max-width:300px;
-	background-color:#f4f4f4;
+	background-color:#fcfcfc;
 }
 
 .checkout-onepage-index .hcd-payment-info {
@@ -3268,7 +3268,7 @@ ul.share-buttons img {
 	}
 	
 	.catalog-category-view .nav-container {
-		background:#fff;
+		background:transparent;
 	}
 	
 	.checkout-onepage-index .page-title {
@@ -3447,6 +3447,11 @@ ul.share-buttons img {
 	
 	.col-main .my-account .buttons-set p.back-link, .col-main .my-account .buttons-set p.back-link a {
 		display:none;
+	}
+	
+	.checkout-onepage-index fieldset input {
+		max-width:300px;
+		background-color:#f4f4f4;
 	}
 	
 	.checkout-onepage-index #billing-new-address-form,
