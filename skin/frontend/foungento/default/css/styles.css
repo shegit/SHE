@@ -1551,6 +1551,10 @@ p.copy-right {
 	border-radius:6px;
 }
 
+#hcdForm br {
+	display:none;
+}
+
 .hcd-index-index .hcdcc_payment_frame,
 .hcd-index-index .hcddc_payment_frame {
 	width:250px;
