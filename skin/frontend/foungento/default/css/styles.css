@@ -1439,6 +1439,9 @@ p.copy-right {
     padding-right: 5px;
 }
 
+.checkout-onepage-index #checkout-step-shipping_method dt {
+	color:#444;
+}
 
 
 
