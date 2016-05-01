@@ -1319,6 +1319,13 @@ p.copy-right {
 	max-width:300px;
 }
 
+.checkout-onepage-index .hcd-payment-info {
+	border: 1px solid #eee;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+}
+
 .checkout-onepage-index #billing-new-address-form,
 .checkout-onepage-index #shipping-new-address-form,
 .checkout-onepage-index #payment_form_hcdgp,
