@@ -1524,8 +1524,7 @@ p.copy-right {
 	width:250px;
 }
 
-.hcd-index-index .hcdcc_payment_frame label.form-label,
-.hcd-index-index .hcddc_payment_frame label.form-label {
+label.form-label {
 	font-family:"Roboto","Raleway","Helvetica Neue",Verdana,Arial,sans-serif
 }
 
