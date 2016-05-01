@@ -1327,17 +1327,10 @@ p.copy-right {
 
 .checkout-onepage-index #checkout-step-review th {
 	color:#756693;
-	font-size:12px;
 }
 
 .checkout-onepage-index #checkout-step-review td {
 	color:#756693;
-	font-size:12px;
-}
-
-.checkout-onepage-index #checkout-step-review h3.product-name,
-.checkout-onepage-index #checkout-step-review span {
-	font-size:12px;
 }
 
 .checkout-onepage-index fieldset {
@@ -3340,6 +3333,13 @@ ul.share-buttons img {
 		text-align: center;
 		margin: 0 20px;
 		border-bottom: 1px solid #f5f5ff;
+	}
+
+	.checkout-onepage-index #checkout-step-review h3.product-name,
+	.checkout-onepage-index #checkout-step-review span,
+	.checkout-onepage-index #checkout-step-review th,
+	.checkout-onepage-index #checkout-step-review td {
+		font-size:12px;
 	}
 	
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
