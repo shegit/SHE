@@ -1335,7 +1335,7 @@ p.copy-right {
 	font-size:12px;
 }
 
-.checkout-onepage-index #checkout-step-review h3,
+.checkout-onepage-index #checkout-step-review h3.product-name,
 .checkout-onepage-index #checkout-step-review span {
 	font-size:12px;
 }
