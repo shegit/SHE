@@ -1372,10 +1372,11 @@ p.copy-right {
 .checkout-onepage-index #sidebar-wrapper .block-progress span.changelink a {
 	color:#bbb;
 	font-size:12px;
+	font-style:italic;
 }
 
 .checkout-onepage-index #sidebar-wrapper .block-progress address {
-	color:#bbb;
+	color:#ddd;
 	font-size:12px;
 }
 
