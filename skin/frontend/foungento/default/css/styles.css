@@ -1331,15 +1331,15 @@ p.copy-right {
 }
 
 .checkout-onepage-index #billing-new-address-form,
-.checkout-onepage-index #shipping-new-address-form,
+.checkout-onepage-index #shipping-new-address-form/*,
 .checkout-onepage-index #payment_form_hcdgp,
-.checkout-onepage-index #payment_form_hcddd {
+.checkout-onepage-index #payment_form_hcddd*/ {
 	border: 1px solid #eee;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	border-radius:6px;
 	max-width:340px;
-	background-color:#fafafa;
+	background-color:#f5fcff;
 	margin:18px auto;
     padding: 20px 20px 0 20px;
 }
@@ -3447,6 +3447,20 @@ ul.share-buttons img {
 	
 	.col-main .my-account .buttons-set p.back-link, .col-main .my-account .buttons-set p.back-link a {
 		display:none;
+	}
+	
+	.checkout-onepage-index #billing-new-address-form,
+	.checkout-onepage-index #shipping-new-address-form,
+	.checkout-onepage-index #payment_form_hcdgp,
+	.checkout-onepage-index #payment_form_hcddd {
+		border: 1px solid #eee;
+		-moz-border-radius:6px;
+		-webkit-border-radius:6px;
+		border-radius:6px;
+		max-width:340px;
+		background-color:#fafafa;
+		margin:18px auto;
+		padding: 20px 20px 0 20px;
 	}
 }
 
