@@ -1462,6 +1462,15 @@ p.copy-right {
 	margin-top:0px;
 }
 
+.checkout-onepage-index #checkout-step-review .pinned tr {
+	height:36px;
+}
+
+.checkout-onepage-index #checkout-step-review .pinned h3 {
+	font-size:14px;
+	color:#444;
+}
+
 .checkout-onepage-index #checkout-step-review p.f-left {
 	font-size:12px;
 	color:#777;
