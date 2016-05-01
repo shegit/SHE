@@ -1251,6 +1251,10 @@ p.copy-right {
 	font-size:12px;
 }
 
+.checkout-onepage-index a.link-tip {
+	display:none;
+}
+
 .checkout-onepage-index .main {
 	border-top:1px solid #ddd;
 	-moz-border-radius:6px;
@@ -1260,12 +1264,6 @@ p.copy-right {
 
 .checkout-onepage-index .page-title {
 	padding:10px;
-}
-
-.checkout-onepage-index .page-title h1 {
-	/*text-align: center;
-    margin: 0 20px;
-    border-bottom: 1px solid #f5f5ff;*/
 }
 
 .checkout-onepage-index .minicart-head-container {
@@ -3520,226 +3518,6 @@ border-bottom-left-radius: 6px;
 	text-align:center;
 }
 
-/*.checkout-onepage-index ul {
-	padding:5px 0 10px 0;
-}
-
-.checkout-onepage-index ul li {
-	color:#1b4669;
-	padding:5px 0;
-}
-
-.checkout-onepage-index #sidebar-wrapper {
-	padding-top:0;
-	margin-top:40px;
-}
-
-.checkout-onepage-index #sidebar-wrapper span.changelink a {
-	font-size:12px;
-	font-style:italic;
-}
-
-.checkout-onepage-index #sidebar-wrapper .block-content {
-	color:#fff;
-	font-size:14px;
-	padding:0 10px;
-}
-
-.checkout-onepage-index #sidebar-wrapper dt {
-	color:#fff;
-	font-size:14px;
-}
-
-.checkout-onepage-index #sidebar-wrapper dd.complete {
-	font-size:13px;
-	padding-left:10px;
-}
-
-.checkout-onepage-index .main {
-background-color:#fdfdfd;
-border-top:1px solid #ddd;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px
-}
-
-.checkout-onepage-index .page-title {
-padding-left:10px;
-padding-top:5px
-}
-
-.checkout-onepage-index dl.sp-methods {
-margin-bottom:0!important
-}
-
-.checkout-wrapper p.required {
-display:none
-}
-
-.checkout-wrapper a.link-tip {
-display:none
-}
-
-.checkout-wrapper .col-1 ul.form-list {
-padding-top:5px!important
-}
-
-.checkout-wrapper .col-1 fieldset {
-background-color:#f0fafd;
-border:1px solid #cdeff9;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px
-}
-
-.checkout-wrapper .col-2 p {
-display:none!important
-}
-
-.checkout-wrapper .col-2 ul.ul {
-display:none!important
-}
-
-.checkout-wrapper .col-2 h3 {
-padding-bottom:10px!important
-}
-
-.checkout-wrapper .col-2 h4 {
-padding-bottom:10px!important
-}
-
-.checkout-wrapper fieldset {
-margin:18px 0!important;
-padding:20px!important
-}
-
-#checkout-step-shipping {
-padding:28px 0 0 20px !important
-}
-
-#checkout-step-shipping_method {
-padding:28px 0 0 20px !important
-}
-
-#checkout-step-shipping_method dl dt {
-color:#564675
-}
-
-#checkout-step-shipping_method label {
-color:#225885
-}
-
-#checkout-step-shipping_method dd:last-child {
-margin-bottom:0!important
-}
-
-#checkout-step-payment dd:last-child {
-margin-bottom:0!important
-}
-
-#checkout-step-payment .tool-tip-content {
-padding-bottom:10px!important
-}
-
-#checkout-step-review {
-margin-top:10px
-}
-
-#checkout-step-review p.f-left {
-padding-bottom:5px
-}
-
-#co-billing-form fieldset {
-border:none;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px;
-margin:8px 0!important
-}
-
-#co-billing-form button {
-margin:0!important
-}
-
-#billing-new-address-form fieldset {
-background-color:#f0fafd;
-border:1px solid #cdeff9;
-padding-right:38px!important;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px;
-max-width:400px
-}
-
-#co-shipping-form fieldset {
-border:none;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px;
-margin:8px 0!important
-}
-
-#co-shipping-form button {
-margin:0!important
-}
-
-#shipping-new-address-form fieldset {
-background-color:#f0fafd;
-border:1px solid #cdeff9;
-padding-right:38px!important;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px;
-max-width:400px;
-padding-top:40px!important
-}
-
-#co-shipping-method-form fieldset {
-border:none;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px;
-margin:8px 0!important
-}
-
-#co-shipping-method-form button {
-margin:0!important
-}
-
-#co-payment-form fieldset {
-border:none;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px;
-margin:8px 0!important
-}
-
-#co-payment-form button {
-margin:0!important
-}
-
-#co-billing-form fieldset {
-border:none;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px;
-margin:8px 0!important
-}
-
-#co-billing-form button {
-margin:0!important
-}
-
-#billing-new-address-form fieldset {
-background-color:#f0fafd;
-border:1px solid #cdeff9;
-padding-right:38px!important;
--webkit-border-radius:6px;
--moz-border-radius:6px;
-border-radius:6px;
-max-width:400px
-}*/
-
 .mobile-bar {
 background:url(../images/she_logo.png) no-repeat;
 background-size:auto 100%;
@@ -3767,33 +3545,6 @@ letter-spacing:.05rem
 color:#fff;
 text-decoration:none
 }
-
-/*	@media only screen {
-	.orbit-bullets {
-	display:block
-	}
-
-	.small-left {
-	float:left
-	}
-
-	.small-right {
-	float:right
-	}
-
-	.small-centered {
-	margin:0 auto;
-	float:none
-	}
-
-	.list-items ul {
-	margin:0
-	}
-
-	.trusted-payment-gateway {
-	margin-top:20px
-	}
-	}*/
 
 	@media only screen and (max-width: 40em) {
 		
