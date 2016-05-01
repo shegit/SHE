@@ -1320,7 +1320,8 @@ p.copy-right {
 }
 
 .checkout-onepage-index #billing-new-address-form,
-.checkout-onepage-index #shipping-new-address-form {
+.checkout-onepage-index #shipping-new-address-form,
+.checkout-onepage-index .hcd-payment-info {
 	border: 1px solid #eee;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
@@ -1444,9 +1445,9 @@ p.copy-right {
 	color:#444;
 }
 
-.checkout-onepage-index #checkout-step-payment p.required {
+/*.checkout-onepage-index #checkout-step-payment p.required {
 	display:none;
-}
+}*/
 
 
 
