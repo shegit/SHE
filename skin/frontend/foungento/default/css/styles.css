@@ -62,11 +62,11 @@ a:active {
 }
 
 .wrapper .top-bar .toggle-topbar.menu-icon a span::after {
-	box-shadow: 0 0 0 1px #564675,0 7px 0 1px #564675,0 14px 0 1px #564675;
+	box-shadow: 0 0 0 1px #756693,0 7px 0 1px #756693,0 14px 0 1px #756693;
 }
 
 .wrapper .top-bar.expanded .toggle-topbar.menu-icon a span::after {
-	box-shadow: 0 0 0 1px #756693,0 7px 0 1px #756693,0 14px 0 1px #756693;
+	box-shadow: 0 0 0 1px #c7008b,0 7px 0 1px #c7008b,0 14px 0 1px #c7008b;
 }
 
 .header {
