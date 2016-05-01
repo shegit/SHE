@@ -1374,14 +1374,14 @@ p.copy-right {
 }
 
 .checkout-onepage-index #sidebar-wrapper .block-progress span.changelink a,
-.checkout-onepage-index #sidebar-wrapper .block-progress span.changelink span.separator,
-.checkout-onepage-index #sidebar-wrapper .block-progress dd {
+.checkout-onepage-index #sidebar-wrapper .block-progress span.changelink span.separator {
 	color:#ddd;
 	font-size:12px;
 	font-style:italic;
 }
 
-.checkout-onepage-index #sidebar-wrapper .block-progress address {
+.checkout-onepage-index #sidebar-wrapper .block-progress address,
+.checkout-onepage-index #sidebar-wrapper .block-progress dd {
 	color:#ddd;
 	font-size:12px;
 	padding-left:10px;
