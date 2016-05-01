@@ -1299,7 +1299,8 @@ p.copy-right {
 .checkout-onepage-index #checkout-step-billing,
 .checkout-onepage-index #checkout-step-shipping,
 .checkout-onepage-index #checkout-step-shipping_method,
-.checkout-onepage-index #checkout-step-payment {
+.checkout-onepage-index #checkout-step-payment,
+.checkout-onepage-index #checkout-step-review {
     border: 1px solid #eee;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
@@ -1461,6 +1462,15 @@ p.copy-right {
 	margin-top:0px;
 }
 
+.checkout-onepage-index #checkout-step-review p.f-left {
+	font-size:12px;
+	color:#777;
+}
+
+.checkout-onepage-index #checkout-step-review p.f-left a {
+	font-size:12px;
+	color:#777;
+}
 
 
 
