@@ -1264,6 +1264,10 @@ p.copy-right {
 	display:none;
 }
 
+.checkout-onepage-index span.please-wait {
+	font-size:12px;
+}
+
 .checkout-onepage-index .main {
 	border-top:1px solid #ddd;
 	-moz-border-radius:6px;
