@@ -1519,11 +1519,13 @@ p.copy-right {
 	border-radius:6px;
 }
 
-.hcd-index-index .hcdcc_payment_frame, .hcd-index-index .hcddc_payment_frame {
+.hcd-index-index .hcdcc_payment_frame,
+.hcd-index-index .hcddc_payment_frame {
 	width:250px;
 }
 
-.hcd-index-index .hcdcc_payment_frame label, .hcd-index-index .hcddc_payment_frame label {
+.hcd-index-index .hcdcc_payment_frame label.form-label,
+.hcd-index-index .hcddc_payment_frame label.form-label {
 	font-family:"Roboto","Raleway","Helvetica Neue",Verdana,Arial,sans-serif
 }
 
