@@ -1321,7 +1321,8 @@ p.copy-right {
 
 .checkout-onepage-index #billing-new-address-form,
 .checkout-onepage-index #shipping-new-address-form,
-.checkout-onepage-index .hcd-payment-info {
+.checkout-onepage-index #payment_form_hcdgp,
+.checkout-onepage-index #payment_form_hcddd {
 	border: 1px solid #eee;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
