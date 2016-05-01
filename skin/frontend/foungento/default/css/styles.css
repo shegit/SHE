@@ -1444,6 +1444,10 @@ p.copy-right {
 	color:#444;
 }
 
+.checkout-onepage-index #checkout-step-payment p.required {
+	display:none;
+}
+
 
 
 
