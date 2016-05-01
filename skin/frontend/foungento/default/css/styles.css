@@ -1380,7 +1380,8 @@ p.copy-right {
 	font-style:italic;
 }
 
-.checkout-onepage-index #sidebar-wrapper .block-progress dd {
+.checkout-onepage-index #sidebar-wrapper .block-progress dd,
+.checkout-onepage-index #sidebar-wrapper .block-progress dd span.price {
 	color:#ddd;
 	font-size:12px;
 	padding-left:10px;
