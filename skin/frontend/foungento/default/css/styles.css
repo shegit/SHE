@@ -1463,7 +1463,7 @@ p.copy-right {
 }
 
 .checkout-onepage-index #checkout-step-review .pinned tr {
-	height:36px;
+	height:36px!important;
 }
 
 .checkout-onepage-index #checkout-step-review .pinned h3 {
