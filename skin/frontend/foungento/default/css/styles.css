@@ -1267,6 +1267,7 @@ p.copy-right {
 .checkout-onepage-index .validation-advice {
 	color:red;
 	font-size:12px;
+	padding-bottom:15px;
 }
 
 .checkout-onepage-index span.please-wait {
