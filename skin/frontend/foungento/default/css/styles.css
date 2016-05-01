@@ -1321,14 +1321,7 @@ p.copy-right {
     margin: 18px 0;
 }
 
-.checkout-onepage-index #checkout-step-review {
-	padding:10px 5px 20px 5px;
-}
-
-.checkout-onepage-index #checkout-step-review th {
-	color:#756693;
-}
-
+.checkout-onepage-index #checkout-step-review th,
 .checkout-onepage-index #checkout-step-review td {
 	color:#756693;
 }
@@ -3340,6 +3333,10 @@ ul.share-buttons img {
 	.checkout-onepage-index #checkout-step-review th,
 	.checkout-onepage-index #checkout-step-review td {
 		font-size:12px;
+	}
+	
+	.checkout-onepage-index #checkout-step-review {
+		padding:10px 5px 20px 5px;
 	}
 	
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
