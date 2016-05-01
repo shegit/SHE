@@ -1325,6 +1325,21 @@ p.copy-right {
 	padding:10px 5px 20px 5px;
 }
 
+.checkout-onepage-index #checkout-step-review th {
+	color:#756693;
+	font-size:12px;
+}
+
+.checkout-onepage-index #checkout-step-review td {
+	color:#756693;
+	font-size:12px;
+}
+
+.checkout-onepage-index #checkout-step-review h3,
+.checkout-onepage-index #checkout-step-review span {
+	font-size:12px;
+}
+
 .checkout-onepage-index fieldset {
 	margin:0;
 	padding:0;
