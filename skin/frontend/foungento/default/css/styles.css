@@ -3318,6 +3318,10 @@ ul.share-buttons img {
 		background:transparent;
 	}
 	
+	.checkout-onepage-index .checkout-wrapper {
+		padding-top:5px;
+	}
+	
 	.checkout-onepage-index .page-title {
 		padding:20px;
 	}
