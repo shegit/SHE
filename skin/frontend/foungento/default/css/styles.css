@@ -1369,12 +1369,7 @@ p.copy-right {
 	color:#eee;
 }
 
-.checkout-onepage-index #sidebar-wrapper .block-progress span.changelink a {
-	color:#ddd;
-	font-size:12px;
-	font-style:italic;
-}
-
+.checkout-onepage-index #sidebar-wrapper .block-progress span.changelink a,
 .checkout-onepage-index #sidebar-wrapper .block-progress span.changelink span.separator {
 	color:#ddd;
 	font-size:12px;
