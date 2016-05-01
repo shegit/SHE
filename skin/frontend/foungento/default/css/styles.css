@@ -1324,6 +1324,7 @@ p.copy-right {
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	border-radius:6px;
+	margin-bottom:18px;
 }
 
 .checkout-onepage-index #billing-new-address-form,
@@ -1453,9 +1454,11 @@ p.copy-right {
 	color:#444;
 }
 
-/*.checkout-onepage-index #checkout-step-payment p.required {
-	display:none;
-}*/
+.checkout-onepage-index #checkout-step-payment #payment_form_hcdgp,
+.checkout-onepage-index #checkout-step-payment #payment_form_hcddd {
+	margin:18px auto;
+	margin-top:0px;
+}
 
 
 
