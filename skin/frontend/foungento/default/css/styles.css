@@ -61,9 +61,9 @@ a:active {
 	outline: none!important;
 }
 
-.wrapper .top-bar .toggle-topbar.menu-icon a span::after {
+/*.wrapper .top-bar .toggle-topbar.menu-icon a span::after {
 	box-shadow: 0 0 0 1px #564675,0 7px 0 1px #564675,0 14px 0 1px #564675;
-}
+}*/
 
 .header {
 	overflow:hidden!important;
