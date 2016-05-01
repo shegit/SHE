@@ -1467,7 +1467,7 @@ p.copy-right {
 }
 
 .checkout-onepage-index #checkout-step-review .pinned td {
-	text-align:left;
+	text-align:left!important;
 }
 
 .checkout-onepage-index #checkout-step-review h3 {
