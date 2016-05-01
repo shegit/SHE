@@ -1330,11 +1330,6 @@ p.copy-right {
 	margin-bottom:18px;
 }
 
-/*.checkout-onepage-index #payment_form_hcdgp,
-.checkout-onepage-index #payment_form_hcddd {
-	margin-top:10px;
-}*/
-
 .checkout-onepage-index #billing-new-address-form,
 .checkout-onepage-index #shipping-new-address-form,
 .checkout-onepage-index #payment_form_hcdgp,
@@ -1347,6 +1342,11 @@ p.copy-right {
 	background-color:#f5fcff;
 	margin:18px auto;
     padding: 20px 20px 0 20px;
+}
+
+.checkout-onepage-index #payment_form_hcdgp,
+.checkout-onepage-index #payment_form_hcddd {
+	padding-bottom:20px;
 }
 
 .checkout-onepage-index #sidebar-wrapper {
