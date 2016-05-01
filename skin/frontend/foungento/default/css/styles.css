@@ -1322,8 +1322,7 @@ p.copy-right {
 }
 
 .checkout-onepage-index #checkout-step-review {
-	padding:5px;
-	padding-bottom:20px;
+	padding:10px 5px 20px 5px;
 }
 
 .checkout-onepage-index fieldset {
