@@ -3195,17 +3195,14 @@ ul.share-buttons img {
 	border-radius:12px 12px 0 0
 }
 
-.cathead h2 a {
+.cathead span a {
 	font-size:18px;
 	color:#50328b;
 }
 
-.cathead a:hover {
-	text-decoration:none!important;
-}
-
-.cathead a h2:hover {
+.cathead span a:hover {
 	color:#9e006f;
+	text-decoration:none!important;
 }
 
 .weight .catlinks ul li p a:hover {
@@ -3491,7 +3488,7 @@ ul.share-buttons img {
 		border-radius:12px 12px 0 0
 	}
 
-	.cathead h2 {
+	.cathead span a {
 		font-size:14px;
 		color:#564675;
 		text-shadow: 3px 3px 16px rgba(255, 255, 255, 1);
