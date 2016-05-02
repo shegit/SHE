@@ -3477,7 +3477,8 @@ ul.share-buttons img {
 		text-align:right;
 		-webkit-border-radius:12px;
 		-moz-border-radius:12px;
-		border-radius:12px
+		border-radius:12px;
+		position:relative;
 	}
 
 	.cathead {
