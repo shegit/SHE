@@ -958,6 +958,12 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		pointer-events: none;
 		cursor: default;
 	}
+	
+	#nav ul.dropdown + a {
+		pointer-events: none;
+		cursor: default;
+		color:#f00!important;
+	}
 
 	#nav ul.dropdown li.over {
 		background-color:#564675!important;
