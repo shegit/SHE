@@ -953,6 +953,11 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	#nav li a.level-top:hover {
 		background-color:#6b5792!important
 	}
+	
+	#nav li.has-dropdown a {
+		pointer-events: none;
+		cursor: default;
+	}
 
 	#nav ul.dropdown li.over {
 		background-color:#564675!important;
