@@ -3515,6 +3515,10 @@ ul.share-buttons img {
 @media only screen and (min-width: 40.063em) /*Applies to MEDIUM AND LARGE*/ {
 	
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
+
+	.catbox a.mobile-link-box {
+		display:none;
+	}
 	
 	.concept-wrapper {
 		padding:0 35px!important;
