@@ -2921,15 +2921,15 @@ table.responsive th span, table.responsive th {
 	text-decoration:none;
 }
 
-.concept-wrapper .context h2.pink {
+.concept-wrapper .context h2.pink a {
 	color:#ec12de;
 }
 
-.concept-wrapper .context h2.blue {
+.concept-wrapper .context h2.blue a {
 	color:#0f94d6;
 }
 
-.concept-wrapper .context h2.green {
+.concept-wrapper .context h2.green a {
 	color:#44ac45;
 }
 
@@ -3195,7 +3195,7 @@ ul.share-buttons img {
 	border-radius:12px 12px 0 0
 }
 
-.cathead h2 {
+.cathead h2 a {
 	font-size:18px;
 	color:#50328b;
 }
