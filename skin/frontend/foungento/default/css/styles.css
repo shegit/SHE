@@ -2180,6 +2180,10 @@ table.responsive th span, table.responsive th {
 	margin:0;
 }
 
+#cat-page-desc-wrapper p em {
+	color:#666!important;
+}
+
 #cat-page-desc-wrapper span {
 	color:#4278bc!important
 }
