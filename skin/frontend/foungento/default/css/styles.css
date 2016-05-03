@@ -3333,6 +3333,10 @@ ul.share-buttons img {
 		padding:25px 15px;
 	}
 	
+	.catalog-product-view .product-view .box-collateral ul li {
+		padding-bottom:5px;
+	}
+	
 	.catalog-product-view .product-view .product-shop {
 		border-radius:0;
 		border-left:none;
