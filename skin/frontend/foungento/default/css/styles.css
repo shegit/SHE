@@ -1054,6 +1054,11 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	.main-nav {
 		padding-top:26px
 	}
+	
+	#nav li.has-dropdown > a {
+		pointer-events: auto;
+		cursor: auto;
+	}
 
 }
 
