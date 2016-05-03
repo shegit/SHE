@@ -1217,8 +1217,11 @@ span.address-text {
 	}
 	
 	.footer-container ul li .content {
-		padding-top:10px;
 		border-top:1px solid #aaa;
+	}
+	
+	.footer-container ul.links {
+		padding-top:10px;
 	}
 }
 
