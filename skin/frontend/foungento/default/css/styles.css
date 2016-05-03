@@ -2184,12 +2184,6 @@ table.responsive th span, table.responsive th {
 	margin:0;
 }
 
-#cat-page-desc-wrapper p em {
-	color:#756693!important;
-	/*font-size:16px!important;
-	line-height:22px!important;*/
-}
-
 #cat-page-desc-wrapper span {
 	color:#4278bc!important
 }
@@ -3807,6 +3801,10 @@ text-decoration:none
 	#cat-page-desc-wrapper p {
 	line-height:20px!important;
 	font-size:14px!important
+	}
+	
+	#cat-page-desc-wrapper p em {
+	color:#756693!important;
 	}
 
 	#cat-page-desc-wrapper h2 {
