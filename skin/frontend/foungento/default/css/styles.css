@@ -1776,6 +1776,14 @@ p.copy-right {
 
 /*------------------------- CMS PAGES -------------------------*/
 
+.cms-page-view .main {
+	background-color:#fff;
+}
+
+.cms-page-view .nav-container {
+	background-color:#fff!important;
+}
+
 .cms-page-view .std {
 	padding:10px;
 	padding-bottom:20px;
