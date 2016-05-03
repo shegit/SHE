@@ -2033,6 +2033,10 @@ table.responsive th span, table.responsive th {
 	padding:0 10px;
 }
 
+.list-items .products-grid .item-desc-box .price-box {
+	padding-bottom:10px;
+}
+
 .list-items .products-grid .stripe {
 	height:8px;
 	-webkit-border-bottom-right-radius: 6px;
