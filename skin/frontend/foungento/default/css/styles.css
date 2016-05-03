@@ -1115,6 +1115,10 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	max-height:53px;
 }
 
+.footer-container ul.links {
+	margin:0;
+}
+
 .footer-container ul li img {
 	margin-right:10px
 }
