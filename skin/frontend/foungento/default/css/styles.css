@@ -327,7 +327,7 @@ table {
 ul.messages, ul.messages ul {
 	list-style:none!important;
 	margin:0!important;
-	padding:0 0 0 5px!important
+	padding:0 5px!important
 }
 
 ul.messages {
