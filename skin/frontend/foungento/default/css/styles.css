@@ -1209,8 +1209,12 @@ span.address-text {
 	}
 	
 	.footer-container ul li.accordion-navigation > a {
-		width:100%;
-		margin-bottom:15px;
+		border:none;
+	}
+	
+	.footer-container ul li .content {
+		padding-top:10px;
+		border-top:1px solid #aaa;
 	}
 }
 
