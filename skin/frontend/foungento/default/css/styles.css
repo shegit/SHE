@@ -960,7 +960,8 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 
 	#nav ul.dropdown li.over {
-		background-color:#564675!important;
+		/*background-color:#564675!important;*/
+		background-color:#44ac45!important;
 	}
 
 	#nav ul.dropdown li.level1.over a {
