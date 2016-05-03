@@ -2435,7 +2435,7 @@ table.responsive th span, table.responsive th {
 }
 
 .catalog-product-view .product-view .price-box {
-	padding:25px 0 0 5px!important;
+	padding:25px 0 5px 5px!important;
 	color:#5b4190;
 }
 
@@ -3114,6 +3114,9 @@ ul.share-buttons img {
 
 .highlight span.special-price {
 	font-weight:700!important;
+}
+
+.highlight span.price span {
 	margin-top:5px;
 }
 
@@ -3589,10 +3592,6 @@ ul.share-buttons img {
 
 
 /*######################### NOT YET ORGANISED #########################*/
-
-.price-box {
-	padding-bottom:10px!important
-}
 
 .price-box p {
 	height:20px!important;
