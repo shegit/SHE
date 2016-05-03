@@ -947,7 +947,8 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 @media only screen and (min-width: 40.063em) /*Applies to MEDIUM AND LARGE*/ {
 	
 	#nav li a:hover {
-		background-color:#564675!important
+		/*background-color:#564675!important;*/
+		background-color:#44ac45!important;
 	}
 	
 	#nav li a.level-top:hover {
@@ -973,7 +974,8 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 
 	#nav ul.dropdown li.level2.over a {
-		background-color:#564675!important
+		/*background-color:#564675!important;*/
+		background-color:#44ac45!important;
 	}
 
 	#nav ul.dropdown li.level3 a:hover {
