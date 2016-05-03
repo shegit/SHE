@@ -2449,7 +2449,7 @@ table.responsive th span, table.responsive th {
 
 .catalog-product-view .product-view .price-box p.special-price span {
 	font-size:17px;
-	color:#d0422a;
+	color:#da1084;
 }
 
 .catalog-product-view .product-view .price-box p.old-price span.price-label {
@@ -3595,7 +3595,8 @@ ul.share-buttons img {
 }
 
 .price-box p {
-	height:20px!important
+	height:20px!important;
+	margin-bottom:10px;
 }
 
 .price-box p.old-price span {
