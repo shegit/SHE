@@ -3362,7 +3362,7 @@ ul.share-buttons img {
 	}
 	
 	.catalog-category-view .nav-container {
-		background:transparent;
+		background:transparent!important;
 	}
 	
 	.checkout-onepage-index .checkout-wrapper {
