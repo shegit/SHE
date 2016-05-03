@@ -3116,7 +3116,7 @@ ul.share-buttons img {
 	font-weight:700!important;
 }
 
-.highlight span.price > span.price, .highlight span.price div > span {
+.highlight span.price > span.price, .highlight span.price div span {
 	font-size:13px;
 }
 
