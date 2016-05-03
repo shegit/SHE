@@ -34,6 +34,7 @@ media/
 shell/
 var/
 .htaccess
+.htaccess.old
 .htaccess.sample
 api.php
 cron.php
