@@ -3334,7 +3334,7 @@ ul.share-buttons img {
 	}
 	
 	.catalog-product-view .product-view .box-collateral ul li {
-		padding-bottom:5px;
+		padding-bottom:6px;
 	}
 	
 	.catalog-product-view .product-view .product-shop {
@@ -3608,10 +3608,7 @@ p.category-image {
 
 .label.secondary {
 background-color:#756693!important;
-}
-
-#product-attribute-specs-table .label.secondary {
-	color:#fff;
+color:#fff!important;
 }
 
 .cart-collaterals .col2-set .shipping {
