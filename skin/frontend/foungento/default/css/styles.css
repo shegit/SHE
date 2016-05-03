@@ -948,7 +948,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	/*BO Concept colors*/
 	
-	#nav li.nav-2 a:hover {
+	#nav li.level-top.nav-2 a:hover {
 		background-color:#B70EAF!important
 	}
 	
