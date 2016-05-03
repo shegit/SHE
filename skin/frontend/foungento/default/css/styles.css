@@ -3603,7 +3603,11 @@ p.category-image {
 }
 
 .label.secondary {
-background-color:#756693!important
+background-color:#756693!important;
+}
+
+#product-attribute-specs-table .label.secondary {
+	color:#fff;
 }
 
 .cart-collaterals .col2-set .shipping {
