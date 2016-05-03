@@ -948,6 +948,14 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	/*BO Concept colors*/
 	
+	#nav li.nav-2 a {
+		background-color:#ec12de!important
+	}
+	
+	#nav li.nav-2 a:hover {
+		background-color:#B70EAF!important
+	}
+	
 	#nav li.nav-2-1 a {
 		background-color:#ec12de!important
 	}
