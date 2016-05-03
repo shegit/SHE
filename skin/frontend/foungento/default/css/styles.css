@@ -1104,7 +1104,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	margin:0 auto
 }
 
-/*.footer-container .footer-head {
+.footer-container ul li.accordion-navigation > a {
 	font-size:16px;
 	color:#888;
 	border-bottom:1px solid #888;
@@ -1118,11 +1118,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 .footer-container .links {
 	margin:0
 }
-
-.footer-container span.footitle {
-	font-size:16px;
-	color:#888;
-}*/
 
 .footer-container ul li img {
 	margin-right:10px
