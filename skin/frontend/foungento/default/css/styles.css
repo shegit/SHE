@@ -941,13 +941,12 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 @media only screen and (min-width: 40.063em) /*Applies to MEDIUM AND LARGE*/ {
 	
 	/*BO Concept colors*/
-	
 	#nav li.nav-2-1 a {
 		
 	}
 	
 	#nav li.nav-2-1 a:hover {
-		background-color:#B54DB1!important
+		/*background-color:#B54DB1!important*/
 	}
 	
 	#nav li.nav-2-2 a {
@@ -955,7 +954,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav li.nav-2-2 a:hover {
-		background-color:#42809B!important
+		/*background-color:#42809B!important*/
 	}
 	
 	#nav li.nav-2-3 a {
@@ -963,17 +962,18 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav li.nav-2-3 a:hover {
-		background-color:#4B8E4B!important
+		/*background-color:#4B8E4B!important*/
 	}
-	
 	/*EO Concept Colors*/
 	
 	#nav li a:hover {
-		background-color:#564675!important
+		/*background-color:#564675!important;*/
+		background-color:#fff;
 	}
 	
 	#nav li a.level-top:hover {
-		background-color:#6b5792!important
+		/*background-color:#6b5792!important*/
+		background-color:#fff;
 	}
 	
 	#nav li.has-dropdown > a {
@@ -982,19 +982,23 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 
 	#nav ul.dropdown li.over {
-		background-color:#564675!important;
+		/*background-color:#564675!important;*/
+		background-color:#fff;
 	}
 
 	#nav ul.dropdown li.level1.over a {
-		background-color:#625086;
+		/*background-color:#625086;*/
+		background-color:#fff;
 	}
 
 	#nav ul.dropdown li.level2 a {
-		background-color:#625086!important
+		/*background-color:#625086!important*/
+		background-color:#fff;
 	}
 
 	#nav ul.dropdown li.level2.over a {
-		background-color:#564675!important
+		/*background-color:#564675!important*/
+		background-color:#fff;
 	}
 
 	#nav ul.dropdown li.level3 a:hover {
