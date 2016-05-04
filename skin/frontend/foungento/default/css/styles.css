@@ -896,7 +896,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-moz-border-radius-bottomleft: 3px;
 		border-bottom-right-radius: 3px;
 		border-bottom-left-radius: 3px;
-		padding-bottom:5px;
 	}
 	
 	/*Concept colors*/
@@ -965,6 +964,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-moz-border-radius-bottomleft: 3px;
 		border-bottom-right-radius: 3px;
 		border-bottom-left-radius: 3px;
+		line-height:42px;
 	}
 	
 	#nav ul.dropdown li.level1.has-dropdown.over > a {
