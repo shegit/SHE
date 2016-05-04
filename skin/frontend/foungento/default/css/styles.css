@@ -967,7 +967,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	/*EO Concept Colors*/
 	
 	#nav li a.level-top:hover {
-		background-color:#fcfdff;
+		background-color:#fff;
 		-webkit-box-shadow:inset 0px 0px 0px 1px #cdeff9;
 		-moz-box-shadow:inset 0px 0px 0px 1px #cdeff9;
 		box-shadow:inset 0px 0px 0px 1px #cdeff9;
@@ -982,9 +982,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	#nav li.has-dropdown a.level-top:hover {
 		background-color:#fcfdff;
-		-webkit-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
-		-moz-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
-		box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
+		-webkit-box-shadow:inset 0px 0px 0px 1px #cdeff9;
+		-moz-box-shadow:inset 0px 0px 0px 1px #cdeff9;
+		box-shadow:inset 0px 0px 0px 1px #cdeff9;
 	}
 	
 	#nav li.has-dropdown > a {
