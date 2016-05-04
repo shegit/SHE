@@ -942,7 +942,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	/*BO Concept colors*/
 	#nav li.nav-2-1 a {
-		
+		color:#B54DB1!important
 	}
 	
 	#nav li.nav-2-1 a:hover {
@@ -950,7 +950,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav li.nav-2-2 a {
-		
+		color:#42809B!important
 	}
 	
 	#nav li.nav-2-2 a:hover {
@@ -958,7 +958,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav li.nav-2-3 a {
-		
+		color:#4B8E4B!important
 	}
 	
 	#nav li.nav-2-3 a:hover {
