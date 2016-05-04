@@ -39,7 +39,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 .wapper p {
-	line-height:1.5;
+	line-height:1.6;
 	font-size: 14px;
 	color:#333;
 }
@@ -240,12 +240,6 @@ fieldset {
 .regular-price {
 	display:block
 }
-
-/*.price {
-	font-size:.92857rem;
-	font-weight:700;
-	line-height:27px
-}*/
 
 .promos li {
 	text-align:center
@@ -1290,13 +1284,13 @@ p.copy-right {
 	padding-bottom:2px;
 	color:#4f4365!important;
 	font-size:14px!important;
-	line-height:17px;
+	line-height:1.6;
 }
 
 .col-main .category-description ul li span, .col-main .category-description ul li p {
 	color:#4f4365!important;
 	font-size:14px!important;
-	line-height:17px;
+	line-height:1.6;
 }
 
 
@@ -2593,7 +2587,7 @@ table.responsive th span, table.responsive th {
 	font-size:14px;
 	margin:0;
 	padding:0;
-	line-height:20px;
+	line-height:1.6;
 }
 
 .product-view .box-additional {
@@ -3864,7 +3858,7 @@ text-decoration:none
 	}
 
 	#cat-page-desc-wrapper p {
-	line-height:20px!important;
+	line-height:1.6!important;
 	font-size:14px!important
 	}
 	
