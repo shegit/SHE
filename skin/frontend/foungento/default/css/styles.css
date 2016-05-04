@@ -1021,6 +1021,13 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-moz-box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*3*/
 		box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*3*/
 	}
+	
+	#nav ul.dropdown li.level2.has-dropdown.over.last {
+		border-bottom:1px solid #ff7cf3; /*3*/
+		-webkit-border-bottom-left-radius: 3px;
+		-moz-border-radius-bottomleft: 3px;
+		border-bottom-left-radius: 3px;
+	}
 
 	/*level3 colors*/
 	
