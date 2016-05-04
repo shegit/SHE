@@ -907,6 +907,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-webkit-box-shadow:inset 0px 0px 0px 1px #cdeff9;
 		-moz-box-shadow:inset 0px 0px 0px 1px #cdeff9;
 		box-shadow:inset 0px 0px 0px 1px #cdeff9;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
 	}
 	
 	#nav li.has-dropdown a.level-top.over{
