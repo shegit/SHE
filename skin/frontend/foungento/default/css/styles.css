@@ -2091,7 +2091,7 @@ table.responsive th span, table.responsive th {
 }
 
 .list-items .products-grid .item-desc-box .price-box .old-price {
-	margin-bottom:10px;
+	margin-bottom:5px;
 }
 .list-items .products-grid .item-desc-box .price-box .special-price {
 	margin-bottom:0;
@@ -2102,6 +2102,7 @@ table.responsive th span, table.responsive th {
 }
 .list-items .products-grid .item-desc-box .price-box .special-price span.price {
 	font-size:14px;
+	color:red;
 }
 
 .list-items .products-grid .stripe {
