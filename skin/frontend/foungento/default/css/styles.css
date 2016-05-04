@@ -647,7 +647,7 @@ font-size:18px;
 .header-container img {
 	position:relative;
 	color:#fff;
-	font-size:10px!important;
+	font-size:0px!important;
 }
 
 #seal {
