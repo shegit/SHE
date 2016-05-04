@@ -3328,10 +3328,6 @@ ul.share-buttons img {
 	padding:40px 0 25px
 }
 
-.bottom-wrapper span.help-call {
-	font-size:14px;
-}
-
 .bottom-wrapper ul {
 	width:94%;
 	background-color:#f6fcfe;
@@ -3598,8 +3594,8 @@ ul.share-buttons img {
 /* CMS-INDEX-INDEX --- BOTTOM-WRAPPER */
 	
 	.bottom-wrapper p {
-		line-height:17px!important;
-		font-size:13px!important
+		line-height:20px!important;
+		font-size:14px!important
 	}
 
 	.bottom-wrapper h3 {
