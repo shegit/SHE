@@ -959,7 +959,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		background-color:#fdfdfd;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #ddd; /*2*/
 		-moz-box-shadow:inset 0px -1px 0px 0px #ddd; /*2*/
-		box-shadow:inset 0px -1px 0px 0px #cdeff9; /*E6FAFF*/ /*2*/
+		box-shadow:inset 0px -1px 0px 0px #e6faff; /*E6FAFF*/ /*2*/
 	}
 	
 	/*level2 colors*/
@@ -995,7 +995,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		background-color:#fbfbfb;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #ccc; /*3*/
 		-moz-box-shadow:inset 0px -1px 0px 0px #ccc; /*3*/
-		box-shadow:inset 0px -1px 0px 0px #cdeff9; /*3*/
+		box-shadow:inset 0px -1px 0px 0px #e6faff; /*3*/
 	}
 
 	/*level3 colors*/
