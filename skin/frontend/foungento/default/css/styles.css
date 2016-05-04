@@ -941,7 +941,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 @media only screen and (min-width: 40.063em) /*Applies to MEDIUM AND LARGE*/ {
 	
 	/*BO Concept colors*/
-	#nav li.nav-2-1 a {
+	#nav li.nav-2-1 a span {
 		color:#B54DB1!important
 	}
 	
@@ -949,7 +949,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		/*background-color:#B54DB1!important*/
 	}
 	
-	#nav li.nav-2-2 a {
+	#nav li.nav-2-2 a span {
 		color:#42809B!important
 	}
 	
@@ -957,7 +957,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		/*background-color:#42809B!important*/
 	}
 	
-	#nav li.nav-2-3 a {
+	#nav li.nav-2-3 a span {
 		color:#4B8E4B!important
 	}
 	
