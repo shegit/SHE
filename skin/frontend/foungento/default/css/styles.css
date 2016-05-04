@@ -1002,6 +1002,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	#nav ul.dropdown ul.dropdown {
 		margin-top:-1px;
+		margin-left:-1px;
 	}
 	
 	#nav ul.dropdown li.over.last a {
