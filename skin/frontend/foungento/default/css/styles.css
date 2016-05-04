@@ -640,11 +640,6 @@ font-size:18px;
 	height:176px
 }
 
-.header-container .logo-title {
-	color:transparent;
-	font-size:13px;
-}
-
 .header-container a:hover {
 	text-decoration:none!important;
 }
