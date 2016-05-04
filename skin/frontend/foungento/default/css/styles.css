@@ -968,7 +968,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	#nav li a:hover {
 		/*background-color:#564675!important;*/
-		background-color:#fff;
+		background-color:#fdfeff;
 	}
 	
 	#nav li a.level-top:hover {
