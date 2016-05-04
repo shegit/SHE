@@ -1019,6 +1019,12 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		/*background-color:#564675!important;*/
 		background-color:#f6fcfe;
 	}
+	
+	#nav ul.dropdown li.level1:hover {
+		-webkit-box-shadow:inset 0px -1px 0px 0px #cdeff9;
+		-moz-box-shadow:inset 0px -1px 0px 0px #cdeff9;
+		box-shadow:inset 0px -1px 0px 0px #cdeff9;
+	}
 
 	#nav ul.dropdown li.level1.over a {
 		/*background-color:#625086;*/
