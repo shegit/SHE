@@ -1068,6 +1068,20 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		border:1px solid #f0f0f0;
 	}*/
 	
+	#nav ul.dropdown li.level3 {
+		border-right:1px solid #00f;
+		border-left:1px solid #00f;
+	}
+	
+	#nav ul.dropdown li.level3.first {
+		border-top:1px solid #00f;
+		border-left:none;
+	}
+	
+	#nav ul.dropdown li.level3.last {
+		border-bottom:1px solid #00f;
+	}
+	
 	#nav ul.dropdown li.level3 a {
 		/*background-color:#f8fbff;*/
 		background-color:#fbfbfb;
