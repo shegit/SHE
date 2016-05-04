@@ -966,10 +966,10 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	/*EO Concept Colors*/
 	
-	#nav li a:hover {
-		/*background-color:#564675!important;*/
+	/*#nav li a:hover {
+		background-color:#564675!important;
 		background-color:#fdfeff;
-	}
+	}*/
 	
 	#nav li a.level-top:hover {
 		/*background-color:#6b5792!important*/
