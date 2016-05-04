@@ -946,9 +946,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav ul.dropdown li.level1.last {
-		-webkit-box-shadow:inset 0px -1px 0px 0px #91e1e7; /*2*/
-		-moz-box-shadow:inset 0px -1px 0px 0px #91e1e7; /*2*/
-		box-shadow:inset 0px -1px 0px 0px #91e1e7; /*2*/
+		-webkit-box-shadow:inset 0px -1px 0px 0px #91e1e7; /*1*/
+		-moz-box-shadow:inset 0px -1px 0px 0px #91e1e7; /*1*/
+		box-shadow:inset 0px -1px 0px 0px #91e1e7; /*1*/
 		-webkit-border-bottom-right-radius: 3px;
 		-webkit-border-bottom-left-radius: 3px;
 		-moz-border-radius-bottomright: 3px;
@@ -963,19 +963,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-moz-box-shadow:inset 0px -1px 0px 0px #59e059; /*2*/
 		box-shadow:inset 0px -1px 0px 0px #59e059; /*2*/
 	}
-	
-	#nav ul.dropdown li.level1.has-dropdown.over.last {
-		/*border-bottom:1px solid #59e059; /*2*/
-		-webkit-border-bottom-left-radius: 3px;
-		-moz-border-radius-bottomleft: 3px;
-		border-bottom-left-radius: 3px;
-	}
-	
-	/*#nav ul.dropdown li.has-dropdown.over.last > a {
-		-webkit-box-shadow:none!important;
-		-moz-box-shadow:none!important;
-		box-shadow:none!important;
-	}*/
 	
 	/*level2 colors*/
 	
@@ -994,7 +981,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav ul.dropdown li.level2.last {
-		border-bottom:1px solid #59e059; /*2*/
+		-webkit-box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*2*/
+		-moz-box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*2*/
+		box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*2*/
 		-webkit-border-bottom-right-radius: 3px;
 		-webkit-border-bottom-left-radius: 3px;
 		-moz-border-radius-bottomright: 3px;
@@ -1008,14 +997,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-webkit-box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*3*/
 		-moz-box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*3*/
 		box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*3*/
-	}
-	
-	#nav ul.dropdown li.level2.has-dropdown.over.last {
-		/*border-bottom:1px solid #ff7cf3; /*3*/
-		border-bottom:none;
-		-webkit-border-bottom-left-radius: 3px;
-		-moz-border-radius-bottomleft: 3px;
-		border-bottom-left-radius: 3px;
 	}
 
 	/*level3 colors*/
