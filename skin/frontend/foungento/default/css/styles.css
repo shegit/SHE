@@ -1003,6 +1003,12 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	#nav ul.dropdown ul.dropdown {
 		margin-top:-1px;
 	}
+	
+	#nav ul.dropdown li.over a {
+		-webkit-box-shadow:none;
+		-moz-box-shadow:none;
+		box-shadow:none;
+	}
 
 	/*level1 colors*/
 	
