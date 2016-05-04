@@ -1035,7 +1035,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	/*level2 colors*/
 	
-	#nav ul.dropdown.level2 {
+	#nav ul.dropdown li.level2 {
 		border-right:1px solid #0f0;
 		border-left:1px solid #0f0;
 	}
