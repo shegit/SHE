@@ -793,12 +793,12 @@ font-size:18px;
 	font-size:16.5px
 }
 
-#nav ul.dropdown {
+/*#nav ul.dropdown {
 	background-color:#fff;
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
-}
+}*/
 
 /* Internet Explorer 10+, Microsoft Edge Browser */
 _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
@@ -890,6 +890,25 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 
 @media only screen and (min-width: 40.063em) /*Applies to MEDIUM AND LARGE*/ {
 	
+	#nav li.has-dropdown > a {
+		pointer-events: none;
+		cursor: default;
+	}
+	
+	#nav ul.dropdown ul.dropdown {
+		margin-top:-1px;
+	}
+	
+	#nav ul.dropdown li.over.last a {
+		-webkit-box-shadow:none!important;
+		-moz-box-shadow:none!important;
+		box-shadow:none!important;
+	}
+	
+	#nav ul.dropdown li a:hover {
+		background-color:#fbfbfb!important;
+	}
+	
 	/*BO Concept colors*/
 	#nav li.nav-2-1 a span {
 		color:#ec12de!important
@@ -918,31 +937,12 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-moz-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
 		box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
 	}
-	
-	#nav li.has-dropdown > a {
-		pointer-events: none;
-		cursor: default;
-	}
+
+	/*level1 colors*/
 	
 	#nav ul.dropdown.level0 {
 		border-top:none;
 	}
-	
-	#nav ul.dropdown ul.dropdown {
-		margin-top:-1px;
-	}
-	
-	#nav ul.dropdown li.over.last a {
-		-webkit-box-shadow:none!important;
-		-moz-box-shadow:none!important;
-		box-shadow:none!important;
-	}
-	
-	#nav ul.dropdown li a:hover {
-		background-color:#fbfbfb!important;
-	}
-
-	/*level1 colors*/
 	
 	#nav ul.dropdown li.level1 {
 		border-right:1px solid #91e1e7; /*1*/
