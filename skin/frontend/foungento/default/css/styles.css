@@ -966,13 +966,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	/*EO Concept Colors*/
 	
-	/*#nav li a:hover {
-		background-color:#564675!important;
-		background-color:#fdfeff;
-	}*/
-	
 	#nav li a.level-top:hover {
-		/*background-color:#6b5792!important*/
 		background-color:#fff;
 		border-bottom:none;
 		-webkit-box-shadow:inset 0px 0px 0px 1px #cdeff9;
@@ -981,8 +975,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav li.has-dropdown a.level-top:hover {
-		/*background-color:#6b5792!important*/
-		background-color:#fff;
+		background-color:#fcfdff;
 		border-bottom:none;
 		-webkit-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
 		-moz-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
@@ -990,7 +983,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav li.has-dropdown a.level-top.over{
-		/*background-color:#6b5792!important*/
 		background-color:#fff;
 		border-bottom:none;
 		-webkit-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
@@ -1016,12 +1008,10 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 
 	#nav ul.dropdown li.over {
-		/*background-color:#564675!important;*/
 		background-color:#f6fcfe;
 	}
 
 	#nav ul.dropdown li.level1.over > a {
-		/*background-color:#625086;*/
 		background-color:#fcfdff;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #cdeff9;
 		-moz-box-shadow:inset 0px -1px 0px 0px #cdeff9;
@@ -1029,12 +1019,10 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 
 	#nav ul.dropdown li.level2 a {
-		/*background-color:#625086!important*/
 		background-color:#fcfdff;
 	}
 
 	#nav ul.dropdown li.level2.over > a {
-		/*background-color:#564675!important*/
 		background-color:#f8fbff;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #cdeff9;
 		-moz-box-shadow:inset 0px -1px 0px 0px #cdeff9;
@@ -1042,12 +1030,10 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 
 	#nav ul.dropdown li.level3 a {
-		/*background-color:#625086!important*/
 		background-color:#f8fbff;
 	}
 
 	#nav ul.dropdown li.level3.over > a {
-		/*background-color:#564675!important*/
 		background-color:#f0fafd;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #cdeff9;
 		-moz-box-shadow:inset 0px -1px 0px 0px #cdeff9;
