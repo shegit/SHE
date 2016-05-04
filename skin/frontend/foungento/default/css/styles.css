@@ -976,6 +976,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		background-color:#fff;
 		border:1px solid #cdeff9;
 		border-bottom:none;
+		box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
 	}
 	
 	#nav li.has-dropdown > a {
