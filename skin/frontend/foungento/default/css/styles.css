@@ -934,6 +934,10 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-moz-box-shadow:none!important;
 		box-shadow:none!important;
 	}
+	
+	#nav ul.dropdown li a:hover {
+		background-color:#e6faff;
+	}
 
 	/*level1 colors*/
 	
