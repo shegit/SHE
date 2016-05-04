@@ -964,9 +964,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	#nav ul.dropdown li.level1.over > a {
 		background-color:#fff;
-		/*-webkit-box-shadow:inset 0px -1px 0px 0px #0f94d6; /*2*/
-		/*-moz-box-shadow:inset 0px -1px 0px 0px #0f94d6; /*2*/
-		/*box-shadow:inset 0px -1px 0px 0px #0f94d6; /*E6FAFF*/ /*2*/
+		-webkit-box-shadow:inset 0px -1px 0px 0px #0f94d6; /*2*/
+		-moz-box-shadow:inset 0px -1px 0px 0px #0f94d6; /*2*/
+		box-shadow:inset 0px -1px 0px 0px #0f94d6; /*E6FAFF*/ /*2*/
 	}
 	
 	/*level2 colors*/
@@ -1000,9 +1000,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 
 	#nav ul.dropdown li.level2.over > a {
 		background-color:#fff;
-		/*-webkit-box-shadow:inset 0px -1px 0px 0px #44ac45; /*3*/
-		/*-moz-box-shadow:inset 0px -1px 0px 0px #44ac45; /*3*/
-		/*box-shadow:inset 0px -1px 0px 0px #44ac45; /*3*/
+		-webkit-box-shadow:inset 0px -1px 0px 0px #44ac45; /*3*/
+		-moz-box-shadow:inset 0px -1px 0px 0px #44ac45; /*3*/
+		box-shadow:inset 0px -1px 0px 0px #44ac45; /*3*/
 	}
 
 	/*level3 colors*/
