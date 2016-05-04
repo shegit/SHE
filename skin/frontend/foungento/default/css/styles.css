@@ -1040,6 +1040,11 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		border-left:1px solid #0f0;
 	}
 	
+	#nav ul.dropdown li.level2.first {
+		border-top:1px solid #0f0;
+		border-left:none;
+	}
+	
 	#nav ul.dropdown li.level2.last {
 		border-bottom:1px solid #0f0;
 	}
