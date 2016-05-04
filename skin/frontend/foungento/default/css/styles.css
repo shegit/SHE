@@ -775,26 +775,19 @@ font-size:18px;
 	margin:0 0 10px
 }
 
-#nav li {
-	background-color:transparent
-}
-
-#nav li a {
+#nav li, #nav li a, #nav li a:hover {
+	text-decoration:none;
 	background-color:transparent;
 	text-transform:none
 }
 
-#nav li a:hover {
-	text-decoration:none
+#nav li.has-dropdown a {
+	padding-right:.7708333333rem!important
 }
 
 #nav li a span {
 	color:#564685;
 	font-size:16.5px
-}
-
-#nav li.has-dropdown a {
-	padding-right:.7708333333rem!important
 }
 
 #nav ul.dropdown li,
