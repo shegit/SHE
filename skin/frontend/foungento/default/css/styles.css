@@ -984,9 +984,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	#nav ul.dropdown li.level1.has-dropdown.over.last {
 		border-bottom:1px solid #59e059; /*2*/
-		-webkit-border-bottom-left-radius: 6px;
-		-moz-border-radius-bottomleft: 6px;
-		border-bottom-left-radius: 6px;
+		-webkit-border-bottom-left-radius: 3px;
+		-moz-border-radius-bottomleft: 3px;
+		border-bottom-left-radius: 3px;
 	}
 	
 	/*level2 colors*/
