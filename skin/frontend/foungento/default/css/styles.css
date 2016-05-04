@@ -1044,6 +1044,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	#nav ul.dropdown li.level3 a:hover {
 		text-decoration:underline;
+		background-color:#fcfffd;
 	}
 
 	/*#nav ul.dropdown li.level3.over > a {
