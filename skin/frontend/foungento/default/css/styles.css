@@ -2613,9 +2613,12 @@ table.responsive th span, table.responsive th {
 	padding-bottom:7px;
 }
 
-.product-shop .container2 .std p, .product-shop .container2 .std span, .product-shop .container2 .std a, .product-shop .container2 .std ul li {
-	line-height:19px!important;
-	font-size:14px!important;
+.product-shop .container2 .std p,
+.product-shop .container2 .std span,
+.product-shop .container2 .std a,
+.product-shop .container2 .std ul li {
+	line-height:1.6!important;
+	font-size:13px!important;
 	padding:0;
 	margin:0;
 	color:#444;
