@@ -898,6 +898,12 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		border-bottom-left-radius: 3px;
 	}
 	
+	#nav ul.dropdown li.last.has-dropdown.over {
+		-webkit-border-bottom-right-radius: 0;
+		-moz-border-radius-bottomright: 0;
+		border-bottom-right-radius: 0;
+	}
+	
 	/*Concept colors*/
 	#nav li.nav-2-1 a span {
 		color:#ec12de!important
