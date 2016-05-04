@@ -3594,12 +3594,12 @@ ul.share-buttons img {
 /* CMS-INDEX-INDEX --- BOTTOM-WRAPPER */
 	
 	.bottom-wrapper p {
-		line-height:20px!important;
+		line-height:1.6!important;
 		font-size:14px!important
 	}
 
 	.bottom-wrapper h3 {
-		padding-bottom:5px!important
+		padding-bottom:7px!important
 	}
 	
 }
