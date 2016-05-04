@@ -2091,10 +2091,10 @@ table.responsive th span, table.responsive th {
 }
 
 .list-items .products-grid .item-desc-box .price-box .old-price {
-	margin-bottom:5px;
+	margin-bottom:1px;
 }
 .list-items .products-grid .item-desc-box .price-box .special-price {
-	margin-bottom:0;
+	margin-bottom:3px;
 }
 
 .list-items .products-grid .item-desc-box .price-box .old-price span.price {
@@ -2103,6 +2103,7 @@ table.responsive th span, table.responsive th {
 .list-items .products-grid .item-desc-box .price-box .special-price span.price {
 	font-size:14px;
 	color:red;
+	font-weight:bold;
 }
 
 .list-items .products-grid .stripe {
