@@ -797,7 +797,6 @@ font-size:18px;
 	/*background-color:#6b5792;*/
 	background-color:#fff;
 	color:#fff;
-	border:1px solid #cdeff9;
 	-webkit-border-radius:0 3px 3px 3px;
 	-moz-border-radius:0 3px 3px 3px;
 	border-radius:0 3px 3px 3px;
@@ -980,6 +979,18 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	#nav li.has-dropdown > a {
 		pointer-events: none;
 		cursor: default;
+	}
+	
+	#nav ul.dropdown {
+		border:1px solid #cdeff9;
+	}
+	
+	#nav ul.dropdown.level0 {
+		border-top:none;
+	}
+	
+	#nav ul.dropdown ul.dropdown {
+		margin-top:-1px;
 	}
 
 	#nav ul.dropdown li.over {
