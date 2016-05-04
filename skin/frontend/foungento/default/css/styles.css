@@ -1000,20 +1000,20 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 
 	#nav ul.dropdown li.level2.has-dropdown.over > a {
 		background-color:#fff;
-		-webkit-box-shadow:inset 0px -1px 0px 0px #ec12de; /*3*/
-		-moz-box-shadow:inset 0px -1px 0px 0px #ec12de; /*3*/
-		box-shadow:inset 0px -1px 0px 0px #ec12de; /*3*/
+		-webkit-box-shadow:inset 0px -1px 0px 0px #ff55f3; /*3*/
+		-moz-box-shadow:inset 0px -1px 0px 0px #ff55f3; /*3*/
+		box-shadow:inset 0px -1px 0px 0px #ff55f3; /*3*/
 	}
 
 	/*level3 colors*/
 	
 	#nav ul.dropdown li.level3 {
-		border-right:1px solid #ec12de; /*3*/
-		border-left:1px solid #ec12de; /*3*/
+		border-right:1px solid #ff55f3; /*3*/
+		border-left:1px solid #ff55f3; /*3*/
 	}
 	
 	#nav ul.dropdown li.level3.first {
-		border-top:1px solid #ec12de; /*3*/
+		border-top:1px solid #ff55f3; /*3*/
 		border-left:none;
 		-webkit-border-top-right-radius: 3px;
 		-moz-border-radius-topright: 3px;
@@ -1021,7 +1021,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav ul.dropdown li.level3.last {
-		border-bottom:1px solid #ec12de; /*3*/
+		border-bottom:1px solid #ff55f3; /*3*/
 		-webkit-border-bottom-right-radius: 3px;
 		-webkit-border-bottom-left-radius: 3px;
 		-moz-border-radius-bottomright: 3px;
