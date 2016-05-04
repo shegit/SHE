@@ -981,9 +981,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav ul.dropdown li.level2.last {
-		-webkit-box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*2*/
-		-moz-box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*2*/
-		box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*2*/
+		-webkit-box-shadow:inset 0px -1px 0px 0px #59e059; /*2*/
+		-moz-box-shadow:inset 0px -1px 0px 0px #59e059; /*2*/
+		box-shadow:inset 0px -1px 0px 0px #59e059; /*2*/
 		-webkit-border-bottom-right-radius: 3px;
 		-webkit-border-bottom-left-radius: 3px;
 		-moz-border-radius-bottomright: 3px;
