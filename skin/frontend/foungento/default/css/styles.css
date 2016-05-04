@@ -1041,14 +1041,18 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		/*background-color:#f8fbff;*/
 		background-color:#f5fcff;
 	}
+	
+	#nav ul.dropdown li.level3 a:hover {
+		text-decoration:underline;
+	}
 
-	#nav ul.dropdown li.level3.over > a {
+	/*#nav ul.dropdown li.level3.over > a {
 		/*background-color:#f0fafd;*/
-		background-color:#f5fcff;
+		/*background-color:#f5fcff;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #cdeff9;
 		-moz-box-shadow:inset 0px -1px 0px 0px #cdeff9;
 		box-shadow:inset 0px -1px 0px 0px #E6FAFF;
-	}
+	}*/
 	
 	#nav ul.dropdown li.first.over {
 		-webkit-border-top-right-radius: 3px;
