@@ -940,6 +940,13 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 
 	/*level1 colors*/
 	
+	#nav ul.dropdown li.level1 a {
+		background-color:#fff;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+	}
+	
 	#nav ul.dropdown.level0 {
 		border-top:none;
 	}
@@ -965,13 +972,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		border-bottom-left-radius: 3px;
 	}
 	
-	#nav ul.dropdown li.level1 a {
-		background-color:#fff;
-		-webkit-border-radius: 3px;
-		-moz-border-radius: 3px;
-		border-radius: 3px;
-	}
-	
 	#nav ul.dropdown li.level1.has-dropdown.over > a {
 		background-color:#fff;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #59e059; /*2*/
@@ -980,6 +980,13 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	/*level2 colors*/
+	
+	#nav ul.dropdown li.level2 a {
+		background-color:#fff;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+	}
 	
 	#nav ul.dropdown li.level2 {
 		border-right:1px solid #59e059; /*2*/
@@ -1004,13 +1011,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		border-bottom-left-radius: 3px;
 	}
 
-	#nav ul.dropdown li.level2 a {
-		background-color:#fff;
-		-webkit-border-radius: 3px;
-		-moz-border-radius: 3px;
-		border-radius: 3px;
-	}
-
 	#nav ul.dropdown li.level2.has-dropdown.over > a {
 		background-color:#fff;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #ff7cf3; /*3*/
@@ -1019,6 +1019,13 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 
 	/*level3 colors*/
+	
+	#nav ul.dropdown li.level3 a {
+		background-color:#fff;
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+	}
 	
 	#nav ul.dropdown li.level3 {
 		border-right:1px solid #ff7cf3; /*3*/
@@ -1041,13 +1048,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-moz-border-radius-bottomleft: 3px;
 		border-bottom-right-radius: 3px;
 		border-bottom-left-radius: 3px;
-	}
-	
-	#nav ul.dropdown li.level3 a {
-		background-color:#fff;
-		-webkit-border-radius: 3px;
-		-moz-border-radius: 3px;
-		border-radius: 3px;
 	}
 }
 
