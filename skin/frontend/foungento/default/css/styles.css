@@ -776,7 +776,10 @@ font-size:18px;
 }
 
 #nav li {
-	background-color:transparent
+	background-color:transparent;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
 }
 
 #nav li a {
@@ -800,6 +803,9 @@ font-size:18px;
 	-webkit-border-radius:0 3px 3px 3px;
 	-moz-border-radius:0 3px 3px 3px;
 	border-radius:0 3px 3px 3px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
 }
 
 /* Internet Explorer 10+, Microsoft Edge Browser */
@@ -976,9 +982,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		background-color:#fff;
 		border:1px solid #cdeff9;
 		border-bottom:none;
-		box-sizing: border-box;
-		-moz-box-sizing: border-box;
-		-webkit-box-sizing: border-box;
 	}
 	
 	#nav li.has-dropdown > a {
