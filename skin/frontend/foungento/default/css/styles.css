@@ -945,7 +945,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		border-top-right-radius: 3px;
 	}
 	
-	#nav ul.dropdown li.level1.last {
+	#nav ul.dropdown li.level1.last > a {
 		-webkit-box-shadow:inset 0px -1px 0px 0px #91e1e7; /*1*/
 		-moz-box-shadow:inset 0px -1px 0px 0px #91e1e7; /*1*/
 		box-shadow:inset 0px -1px 0px 0px #91e1e7; /*1*/
@@ -980,7 +980,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		border-top-right-radius: 3px;
 	}
 	
-	#nav ul.dropdown li.level2.last {
+	#nav ul.dropdown li.level2.last > a {
 		-webkit-box-shadow:inset 0px -1px 0px 0px #59e059; /*2*/
 		-moz-box-shadow:inset 0px -1px 0px 0px #59e059; /*2*/
 		box-shadow:inset 0px -1px 0px 0px #59e059; /*2*/
