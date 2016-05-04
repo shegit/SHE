@@ -909,17 +909,20 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		background-color:#fbfbfb!important;
 	}
 	
-	/*BO Concept colors*/
+	/*Concept colors*/
 	#nav li.nav-2-1 a span {
 		color:#ec12de!important
 	}
+	
 	#nav li.nav-2-2 a span {
 		color:#0f94d6!important
 	}
+	
 	#nav li.nav-2-3 a span {
 		color:#44ac45!important
 	}
-	/*EO Concept Colors*/
+	
+	/*level-top*/
 	
 	#nav li a.level-top:hover {
 		background-color:#fff;
@@ -936,6 +939,12 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		-webkit-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
 		-moz-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
 		box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
+		-webkit-border-bottom-right-radius: 0;
+		-webkit-border-bottom-left-radius: 0;
+		-moz-border-radius-bottomright: 0;
+		-moz-border-radius-bottomleft: 0;
+		border-bottom-right-radius: 0;
+		border-bottom-left-radius: 0;
 	}
 
 	/*level1 colors*/
