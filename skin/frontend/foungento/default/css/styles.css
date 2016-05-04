@@ -948,9 +948,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		border-right:1px solid #91e1e7; /*1*/
 		border-left:1px solid #91e1e7; /*1*/
 		background-color:#fff;
-		-webkit-border-radius: 3px;
-		-moz-border-radius: 3px;
-		border-radius: 3px;
 	}
 	
 	#nav ul.dropdown li.level1.first {
