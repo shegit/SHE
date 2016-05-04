@@ -992,7 +992,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 
 	#nav ul.dropdown li.level2.over > a {
-		background-color:#fbfbfb;
+		background-color:#fff;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #ccc; /*3*/
 		-moz-box-shadow:inset 0px -1px 0px 0px #ccc; /*3*/
 		box-shadow:inset 0px -1px 0px 0px #e6faff; /*3*/
@@ -1024,7 +1024,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav ul.dropdown li.level3 a {
-		background-color:#fbfbfb;
+		background-color:#fff;
 	}
 	
 	#nav ul.dropdown li.level3 a:hover {
