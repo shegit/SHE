@@ -795,6 +795,9 @@ font-size:18px;
 
 #nav ul.dropdown {
 	background-color:#fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
 }
 
 /* Internet Explorer 10+, Microsoft Edge Browser */
