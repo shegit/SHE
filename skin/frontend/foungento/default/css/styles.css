@@ -1017,7 +1017,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		background-color:#fcfdff;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #cdeff9;
 		-moz-box-shadow:inset 0px -1px 0px 0px #cdeff9;
-		box-shadow:inset 0px -1px 0px 0px #D3F5FF;
+		box-shadow:inset 0px -1px 0px 0px #E6FAFF;
 	}
 	
 	/*level2 colors*/
@@ -1032,7 +1032,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		background-color:#fff;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #cdeff9;
 		-moz-box-shadow:inset 0px -1px 0px 0px #cdeff9;
-		box-shadow:inset 0px -1px 0px 0px #D3F5FF;
+		box-shadow:inset 0px -1px 0px 0px #E6FAFF;
 	}
 
 	/*level3 colors*/
@@ -1047,7 +1047,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		background-color:#fcfdff;
 		-webkit-box-shadow:inset 0px -1px 0px 0px #cdeff9;
 		-moz-box-shadow:inset 0px -1px 0px 0px #cdeff9;
-		box-shadow:inset 0px -1px 0px 0px #D3F5FF;
+		box-shadow:inset 0px -1px 0px 0px #E6FAFF;
 	}
 	
 	#nav ul.dropdown li.first.over {
