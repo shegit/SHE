@@ -936,7 +936,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	}
 	
 	#nav ul.dropdown li a:hover {
-		background-color:#e6faff;
+		background-color:#e6faff!important;
 	}
 
 	/*level1 colors*/
