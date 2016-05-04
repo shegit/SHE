@@ -989,6 +989,15 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 		box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
 	}
 	
+	#nav li.has-dropdown a.level-top:active {
+		/*background-color:#6b5792!important*/
+		background-color:#fff;
+		border-bottom:none;
+		-webkit-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
+		-moz-box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
+		box-shadow:inset 1px 0px 0px 0px #cdeff9, inset 0px 1px 0px 0px #cdeff9, inset -1px 0px 0px 0px #cdeff9;
+	}
+	
 	#nav li.has-dropdown > a {
 		pointer-events: none;
 		cursor: default;
