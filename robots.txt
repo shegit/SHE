@@ -11,8 +11,9 @@ User-agent: *
 # Crawl-delay: 30
  
 # # Magento sitemap: URL to your sitemap file in Magento
-Sitemap: http://www.selfhealth.de/sitemap/sitemap.xml
- 
+Sitemap: http://www.selfhealth.de/sitemap/de/sitemap.xml
+Sitemap: http://www.selfhealth.com/sitemap/en/sitemap.xml
+
 # # Settings that relate to the UNDER CONSTRUCTION
  
 # # Do not allow indexing files and folders that are required during development: CVS, SVN directory and dump files
