@@ -17,7 +17,7 @@
 <?php if ($_product->getImage() != 'no_selection' && $_product->getImage()): ?>
 <div class="product-image product-image-zoom">
     <?php
-        $_img = '<img itemprop="image" id="image" src="'.$this->helper('catalog/image')->init($_product, 'image').'" alt="'.$this->escapeHtml($this->getImageLabel()).'" title="'.$this->escapeHtml($this->getImageLabel()).'" />';
+        $_img = '<img id="image" src="'.$this->helper('catalog/image')->init($_product, 'image').'" alt="'.$this->escapeHtml($this->getImageLabel()).'" title="'.$this->escapeHtml($this->getImageLabel()).'" />';
         echo $_helper->productAttribute($_product, $_img, 'image');
     ?>
 </div>
@@ -37,15 +37,15 @@
 //]]>
 </script>-->
 <?php else: ?>
-<!--<div class="product-image">
+<div class="product-image">
     <?php
         $_img = '<img src="'.$this->helper('catalog/image')->init($_product, 'image')->resize(265).'" alt="'.$this->escapeHtml($this->getImageLabel()).'" title="'.$this->escapeHtml($this->getImageLabel()).'" />';
         echo $_helper->productAttribute($_product, $_img, 'image');
     ?>
-</div>-->
+</div>
 <?php endif; ?>
 <?php if (count($this->getGalleryImages()) > 0): ?>
-<!--<div class="more-views">
+<div class="more-views">
     <h2><?php echo $this->__('More Views') ?></h2>
     <ul class="clearing-thumbs image-thumbnail small-block-grid-3 medium-block-grid-6 large-block-grid-6" data-clearing>
     <?php foreach ($this->getGalleryImages() as $_image): ?>
@@ -54,5 +54,5 @@
         </li>
     <?php endforeach; ?>
     </ul>
-</div>-->
+</div>
 <?php endif; ?>
