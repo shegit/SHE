@@ -45,13 +45,7 @@
 			<?php if($_product->isAvailable()): ?>
 				<div class="no-display" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 					<!--<span itemprop="price"><?php echo Mage::helper('core')->currency($_product->getFinalPrice()); ?></span>-->
-					<span itemprop="price">
-						<?php echo Mage::getModel('directory/currency')->format(
-						$_product->getFinalPrice(), 
-						array('display'=>Zend_Currency::NO_SYMBOL), 
-						false
-						); ?>
-					</span>
+					<span itemprop="price"><?php echo $_product->getFinalPrice(); ?></span>
 					<span itemprop="priceCurrency">€</span>
 					<link itemprop="availability" href="http://schema.org/InStock" />
 				</div>
