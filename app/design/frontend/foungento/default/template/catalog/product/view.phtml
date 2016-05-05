@@ -27,7 +27,7 @@
         </div>
 		
 		<div class="product-name large-7 large-right hide-for-medium-up">
-                <h1 itemprop="name"><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
+                <h1><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
 				<?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('share-box-de')->toHtml(); ?>
             </div>
         
@@ -39,9 +39,15 @@
 		
 		<div class="product-shop small-12 medium-6 large-7 columns end">
 		
-			<h1><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
+			<h1 itemprop="name"><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
 			
 
+			<?php if($_product->isAvailable()): ?>
+				<div class="no-display" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+					<span itemprop="price"><?php echo Mage::helper('core')->currency($_product->getFinalPrice()); ?></span>
+					<link itemprop="availability" href="http://schema.org/InStock" />
+				</div>
+			<?php endif; ?>
 
             
             <?php echo $this->getChildHtml('alert_urls') ?>
