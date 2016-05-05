@@ -41,16 +41,7 @@
 		
 			<h1><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
 			
-			<!--<div class="row friend-review">
-            <?php if ($this->canEmailToFriend()): ?>
-				<div class="large-6 columns">
-					<p class="email-friend"><a href="<?php echo $this->helper('catalog/product')->getEmailToFriendUrl($_product) ?>"><?php echo $this->__('Email to a Friend') ?></a></p>
-                </div>
-            <?php endif; ?>
-				<div class="large-6 columns">
-					<?php echo $this->getReviewsSummaryHtml($_product, false, true)?>
-				</div>
-            </div>-->
+
 
             
             <?php echo $this->getChildHtml('alert_urls') ?>
@@ -76,12 +67,6 @@
             <?php endif; ?>
 			
 			<div class="row">
-				
-				<?php /*if ($_product->isSaleable() && $this->hasOptions()):?>
-					<div class="container2 large-6 columns">
-						<?php echo $this->getChildChildHtml('container2', '', true, true) ?>
-					</div>
-				<?php endif; */?>
 
 			
 				
