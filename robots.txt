@@ -11,7 +11,7 @@ User-agent: *
 # Crawl-delay: 30
  
 # # Magento sitemap: URL to your sitemap file in Magento
-# Sitemap: http://www.mystore.com/sitemap/sitemap.xml
+Sitemap: http://www.selfhealth.de/sitemap/sitemap.xml
  
 # # Settings that relate to the UNDER CONSTRUCTION
  
