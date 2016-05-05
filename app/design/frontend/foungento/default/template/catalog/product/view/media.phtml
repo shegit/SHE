@@ -37,12 +37,12 @@
 //]]>
 </script>-->
 <?php else: ?>
-<!--<div class="product-image">
+<div class="product-image">
     <?php
         $_img = '<img src="'.$this->helper('catalog/image')->init($_product, 'image')->resize(265).'" alt="'.$this->escapeHtml($this->getImageLabel()).'" title="'.$this->escapeHtml($this->getImageLabel()).'" />';
         echo $_helper->productAttribute($_product, $_img, 'image');
     ?>
-</div>-->
+</div>
 <?php endif; ?>
 <?php if (count($this->getGalleryImages()) > 0): ?>
 <!--<div class="more-views">
