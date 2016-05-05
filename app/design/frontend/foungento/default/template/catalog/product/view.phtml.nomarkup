@@ -17,7 +17,7 @@
     var optionsPrice = new Product.OptionsPrice(<?php echo $this->getJsonConfig() ?>);
 </script>
 <div id="messages_product_view"><?php echo $this->getMessagesBlock()->getGroupedHtml() ?></div>
-<div class="product-view" itemscope itemtype="http://schema.org/Product">
+<div class="product-view">
     <div class="product-essential row">
     <form action="<?php echo $this->getSubmitUrl($_product) ?>" method="post" id="product_addtocart_form"<?php if($_product->getOptions()): ?> enctype="multipart/form-data"<?php endif; ?>>
         <?php echo $this->getBlockHtml('formkey') ?>
@@ -27,7 +27,7 @@
         </div>
 		
 		<div class="product-name large-7 large-right hide-for-medium-up">
-                <h1 itemprop="name"><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
+                <h1><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
 				<?php echo $this->getLayout()->createBlock('cms/block')->setBlockId('share-box-de')->toHtml(); ?>
             </div>
         
