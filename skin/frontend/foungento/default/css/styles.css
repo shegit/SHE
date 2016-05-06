@@ -3509,52 +3509,52 @@ ul.share-buttons img {
 	
 	.digestion {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -317px -609px; /*-629px -262px 0 -69*/
+		background-position: -317px -609px; /*-629px -262px 0 -72*/
 	}
 
 	.pain {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -5px -563px;
+		background-position: -629px -77px; /*-5px -563px 0 -72*/
 	}
 
 	.weight {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -1207px -77px;
+		background-position: -941px -77px; /*-1207px -77px 0 -72*/
 	}
 
 	.sex {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -583px -563px;
+		background-position: -629px -424px; /*-583px -563px 0 -72*/
 	}
 
 	.detox {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -5px -262px;
+		background-position: -317px -424px; /*-5px -262px 0 -72*/
 	}
 
 	.cardio {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -629px -78px;
+		background-position: -5px -262px; /*-629px -78px 0 -72*/
 	}
 
 	.brain {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -317px -77px;
+		background-position: -317px -77px; /*-317px -77px 0 -72*/
 	}
 
 	.water {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -895px -725px;
+		background-position: -629px -771px; /*-895px -725px 0 -72*/
 	}
 
 	.device {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -317px -262px;
+		background-position: -5px -609px; /*-317px -262px 0 -72*/
 	}
 
 	.body {
 		background:url(../images/spritesheet.png) no-repeat;
-		background-position: -5px -77px;
+		background-position: -5px -77px; /*-5px -77px 0 -72*/
 	}
 	
 /* CMS-INDEX-INDEX --- CONCEPT-WRAPPER */
