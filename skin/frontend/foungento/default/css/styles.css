@@ -1124,7 +1124,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 18px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -325px -3px;
+	background-position: -325px 0px;
 	display: inline-block;
 }
 
@@ -1134,7 +1134,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 18px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -33px -3px;
+	background-position: -33px 0px;
 	display: inline-block;
 }
 
