@@ -671,7 +671,7 @@ font-size:18px;
 	height:39px;
 	width:96px;
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -111px -5px;
+	background-position: -219px -5px;
 }
 
 #seal .founded {
@@ -681,7 +681,7 @@ font-size:18px;
 	height:39px;
 	width:96px;
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -5px -33px;
+	background-position: -87px -5px;
 }
 
 @media only screen and (max-width: 40em) /*Applies to SMALL ONLY*/ {
@@ -1120,7 +1120,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 18px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -61px -5px;
+	background-position: -325px -5px;
 	display: inline-block;
 }
 
