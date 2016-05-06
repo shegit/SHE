@@ -1104,6 +1104,10 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	text-decoration:none;
 }
 
+.footer-container ul li.social {
+	margin-bottom:5px;
+}
+
 .footer-container .address::before {
 	margin-right:10px;
 	width: 18px;
@@ -1146,7 +1150,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 
 .footer-container ul li a.facebook::before {
     margin-right:15px;
-	margin-top:5px;
 	width: 16px;
     height: 16px;
 	content:"";
