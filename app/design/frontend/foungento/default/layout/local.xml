@@ -28,52 +28,7 @@
 			<action method="addItem"><type>skin_js</type><name>js/minicart.js</name></action>
 			<action method="addItem"><type>skin_js</type><name>js/custom.js</name></action>
 
-			<block type="core/text" name="zurb.foundation">
-				<action method="setText">
-<text>
-<![CDATA[
-<script type="text/javascript">
-	jQuery(document).ready(function() {
-		jQuery(document).foundation();
-		jQuery(".messages").wrap(function() {
-			return "<div class='row'><div class='large-12 columns'></div></div>";
-		});
-		
-		/*jQuery("body").css('background-color', '#333');*/
-		/*jQuery("body").find('.button').addClass('radius tiny ');*/
-		
-		jQuery("button").each(function() {
-			jQuery(this).addClass("radius tiny button");
-		});
-		
-		/* BACKGROUND */
-		/*jQuery(".columns").each(function() {
-		  var hue = 'rgb(' + (Math.floor((256-199)*Math.random()) + 200) + ',' + (Math.floor((256-199)*Math.random()) + 200) + ',' + (Math.floor((256-199)*Math.random()) + 200) + ')';
-		  jQuery(this).css("background-color", hue);
-		  jQuery(this).css("margin","0px 0px");
-		});*/
-		
-		jQuery("#header-cart").hide();
-		jQuery(".mysubtotal").html(jQuery(".minicart-wrapper .subtotal span.price").html());
-		
-		/*jQuery("table").addClass("responsive");*/
-		
-		var s = jQuery("#stiky-left");
-		var pos = s.position();					   
-		jQuery(window).scroll(function() {
-			var windowpos = jQuery(window).scrollTop();
-			if (windowpos >= s.data('boundaries')) {
-				s.addClass("stick");
-			} else {
-				s.removeClass("stick");	
-			}
-		});
-	});
-</script>
-]]>
-</text>
-				</action>
-			</block>
+
 
 		
         </reference>
