@@ -1114,7 +1114,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 18px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -5px -15px;
+	background-position: -5px -1px;
 	display: inline-block;
 }
 
