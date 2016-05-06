@@ -2096,7 +2096,7 @@ table.responsive th span, table.responsive th {
 	color:#1b4669
 }
 
-.list-short-desc p strong, .list-short-desc span strong, .list-short-desc a strong, .list-short-desc ul li strong {
+.list-short-desc strong, .list-short-desc p strong, .list-short-desc span strong, .list-short-desc a strong, .list-short-desc ul li strong {
 	font-weight:400;
 }
 
