@@ -77,6 +77,7 @@ Disallow: / catalogsearch /
 Disallow: / catalog / product_compare /
 Disallow: / catalog / category / view /
 Disallow: / catalog / product / view /
+Disallow: / gesundheit / mehr
 
 # # Other
 Disallow: / control /
