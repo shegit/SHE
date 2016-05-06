@@ -697,8 +697,8 @@ font-size:18px;
 /*######################### NAV-CONTAINER #########################*/
 
 .nav-container {
-	background:url(../images/spritesheet.png) no-repeat;
-	background-position: -5px -375px;
+	background:url(../images/spritesheet2.png) no-repeat;
+	background-position: -5px -54px;
 	background-color:#fdfeff!important;
 	max-height:106px;
 	border:1px solid #ddd;
