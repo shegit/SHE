@@ -2965,47 +2965,47 @@ table.responsive th span, table.responsive th {
 
 .pain {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -629px -5px; /*-5px -494px*/
+    background-position: -629px -8px; /*-5px -494px 0 -3*/
 }
 
 .weight {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -941px -5px; /*-1207px -8px*/
+    background-position: -941px -8px; /*-1207px -8px 0 -3*/
 }
 
 .sex {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -629px -352px; /*-583px -494px*/
+    background-position: -629px -355px; /*-583px -494px 0 -3*/
 }
 
 .detox {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -317px -352px; /*-5px -193px*/
+    background-position: -317px -355px; /*-5px -193px 0 -3*/
 }
 
 .cardio {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -5px -190px; /*-629px -8px*/
+    background-position: -5px -193px; /*-629px -8px 0 -3*/
 }
 
 .brain {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -317px -5px; /*-317px -8px*/
+    background-position: -317px -8px; /*-317px -8px 0 -3*/
 }
 
 .water {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -629px -699px; /*-895px -656px*/
+    background-position: -629px -702px; /*-895px -656px 0 -3*/
 }
 
 .device {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -5px -537px; /*-317px -193px*/
+    background-position: -5px -540px; /*-317px -193px 0 -3*/
 }
 
 .body {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -5px -5px; /*-5px -8px*/
+    background-position: -5px -8px; /*-5px -8px 0 -3*/
 }
 
 /* CMS-INDEX-INDEX --- CONCEPT-WRAPPER */
