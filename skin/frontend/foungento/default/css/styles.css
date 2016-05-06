@@ -1149,7 +1149,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 }
 
 .footer-container ul li a.facebook::before {
-    margin-right:15px;
+    margin-right:17px;
 	width: 16px;
     height: 16px;
 	content:"";
@@ -1159,7 +1159,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 }
 
 .footer-container ul li a.twitter::before {
-    margin-right:15px;
+    margin-right:17px;
 	width: 16px;
     height: 16px;
 	content:"";
@@ -1169,7 +1169,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 }
 
 .footer-container ul li a.googleplus::before {
-    margin-right:15px;
+    margin-right:17px;
 	width: 16px;
     height: 16px;
 	content:"";
