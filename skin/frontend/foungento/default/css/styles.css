@@ -1105,7 +1105,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 }
 
 .footer-container ul li.social {
-	margin-bottom:5px;
+	margin-top:5px;
 }
 
 .footer-container .address::before {
