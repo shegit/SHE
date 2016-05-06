@@ -2960,7 +2960,7 @@ table.responsive th span, table.responsive th {
 
 .digestion {
 	background:url(../images/spritesheet.png) no-repeat;
-	background-position: -317px -534px; /*0 +3*/
+	background-position: -317px -540px; /*-629px -193px 0 -3*/
 }
 
 .pain {
