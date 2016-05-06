@@ -2934,78 +2934,78 @@ table.responsive th span, table.responsive th {
 
 .help {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -941px -167px;
+    background-position: -583px -190px; /*-941px -167px*/
 }
 
 .aboutus {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -895px -491px;
+    background-position: -629px -537px; /*-895px -491px*/
 }
 
 .dentist {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -941px -5px;
+    background-position: -317px -190px; /*-941px -5px*/
 }
 
 .journal {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -317px -491px;
+    background-position: -849px -190px; /*-317px -491px*/
 }
 
 .newsletter {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -317px -491px;
+    background-position: -849px -190px; /*-317px -491px*/
 	padding:0 10px 0 0;
 }
 
 .digestion {
 	background:url(../images/spritesheet.png) no-repeat;
-	background-position: -629px -193px;
+	background-position: -317px -537px; /*-629px -193px*/
 }
 
 .pain {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -5px -494px;
+    background-position: -629px -5px; /*-5px -494px*/
 }
 
 .weight {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -1207px -8px;
+    background-position: -941px -5px; /*-1207px -8px*/
 }
 
 .sex {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -583px -494px;
+    background-position: -629px -352px; /*-583px -494px*/
 }
 
 .detox {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -5px -193px;
+    background-position: -317px -352px; /*-5px -193px*/
 }
 
 .cardio {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -629px -8px;
+    background-position: -5px -190px; /*-629px -8px*/
 }
 
 .brain {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -317px -8px;
+    background-position: -317px -5px; /*-317px -8px*/
 }
 
 .water {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -895px -656px;
+    background-position: -629px -699px; /*-895px -656px*/
 }
 
 .device {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -317px -193px;
+    background-position: -5px -537px; /*-317px -193px*/
 }
 
 .body {
 	background:url(../images/spritesheet.png) no-repeat;
-    background-position: -5px -8px;
+    background-position: -5px -5px; /*-5px -8px*/
 }
 
 /* CMS-INDEX-INDEX --- CONCEPT-WRAPPER */
