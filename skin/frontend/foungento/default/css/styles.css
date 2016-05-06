@@ -1134,6 +1134,46 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	display: inline-block;
 }
 
+.footer-container ul li a.wordpress::before {
+    margin-right:10px;
+	width: 16px;
+    height: 16px;
+	content:"";
+	background: url(../images/spritesheet2.png) no-repeat;
+	background-position: -379px -5px;
+	display: inline-block;
+}
+
+.footer-container ul li a.facebook::before {
+    margin-right:10px;
+	width: 16px;
+    height: 16px;
+	content:"";
+	background: url(../images/spritesheet2.png) no-repeat;
+	background-position: -61px -5px;
+	display: inline-block;
+}
+
+.footer-container ul li a.twitter::before {
+    margin-right:10px;
+	width: 16px;
+    height: 16px;
+	content:"";
+	background: url(../images/spritesheet2.png) no-repeat;
+	background-position: -353px -5px;
+	display: inline-block;
+}
+
+.footer-container ul li a.googleplus::before {
+    margin-right:10px;
+	width: 16px;
+    height: 16px;
+	content:"";
+	background: url(../images/spritesheet2.png) no-repeat;
+	background-position: -193px -5px;
+	display: inline-block;
+}
+
 .footer-container ul li,.footer-container ul li a {
 	color:#888;
 	font-size:13px
