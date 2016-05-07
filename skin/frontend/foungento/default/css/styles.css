@@ -632,12 +632,12 @@ font-size:18px;
 		background:#f6fcfe;
 		border:1px solid #cdeff9;
 		border-top:none;
-		height:33px;
 		padding-right:5px;
 	}
 	
 	.minicart-head-container a {
 		display:block;
+		height:33px;
 	}
 	
 	.minicart-head-container a span.count {
