@@ -1297,7 +1297,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	margin:0!important;
 }
 
-.copy-right-container .form-language {
+.copy-right-container .form-language #select-language {
 	max-width:200px;
 	margin:0 auto;
 	margin-top:30px;
