@@ -679,7 +679,7 @@ font-size:18px;
 	text-decoration:none!important;
 }
 
-.header-container img {
+#logo-img, #logo-img-small {
 	position:relative;
 	font-size:0!important;
 }
