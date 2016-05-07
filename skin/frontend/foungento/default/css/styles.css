@@ -915,8 +915,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	#nav li a.level-top span {
 		padding-bottom:3px;
-		border-bottom:2px solid #a7ebfa;
-		opacity:0.9
+		border-bottom:2px solid rgba(167,235,250,0.8);
 	}
 	
 	#nav li a.level-top.over span {
