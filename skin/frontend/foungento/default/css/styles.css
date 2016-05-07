@@ -1309,7 +1309,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 }
 
 .copy-right-container .form-language select:hover {
-	background-color:#eee;
+	background-color:#fafafa;
 	border:1px solid #ccc;
 }
 
