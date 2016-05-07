@@ -641,7 +641,7 @@ font-size:18px;
 	}
 	
 	.minicart-head-container a span.count {
-		color:rgb(107,87,146);
+		color:#756693;
 		background-color:transparent;
 		font-weight:bold;
 		font-size:13px;
@@ -659,7 +659,7 @@ font-size:18px;
 		background: url(../images/basket_icon.png) no-repeat;
 		display: block;
 		float:left;
-		opacity:.9;
+		opacity:.8;
 	}
 }
 
