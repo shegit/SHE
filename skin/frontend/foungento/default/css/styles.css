@@ -628,17 +628,21 @@ font-size:18px;
 		display:none!important
 	}
 	
+	.minicart-head-container {
+		border:1px solid #cdeff9;
+		border-top:none;
+	}
+	
 	.minicart-head-container span.count {
 		/*color:#fff;
 		background-color:rgba(107,87,146,0.9);*/
 		color:rgb(107,87,146);
-		background-color:#fff;
 		font-weight:bold;
 		font-size:15px;
-		padding:15px 20px 6px 0px;
+		/*padding:15px 20px 6px 0px;
 		-webkit-border-radius: 0 0 3px 3px;
 		-moz-border-radius:0 0 3px 3px;
-		border-radius:0 0 3px 3px;
+		border-radius:0 0 3px 3px;*/
 	}
 	
 	.minicart-head-container span.count::before {
