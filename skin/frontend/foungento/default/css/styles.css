@@ -631,6 +631,7 @@ font-size:18px;
 	.minicart-head-container {
 		border:1px solid #cdeff9;
 		border-top:none;
+		padding-right:10px;
 	}
 	
 	.minicart-head-container span.count {
