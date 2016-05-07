@@ -571,6 +571,7 @@ nav.top-bar {
 	content:"";
 	background: url(../images/basket_icon.png) no-repeat;
 	display: block;
+	float:left;
 }
 
 .minicart-wrapper #cart-sidebar li img {
