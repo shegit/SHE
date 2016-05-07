@@ -641,6 +641,10 @@ font-size:18px;
 		height:33px;
 	}
 	
+	.minicart-head-container a:hover span.count {
+		text-decoration:underline;
+	}
+	
 	.minicart-head-container a span.count {
 		color:#756693;
 		background-color:transparent;
