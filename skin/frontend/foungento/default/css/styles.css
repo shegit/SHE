@@ -3392,7 +3392,7 @@ ul.share-buttons img {
 }
 
 .cathead span a:hover {
-	color:#0f94d6;
+	text-shadow: 1px 1px 1px #eee;
 	text-decoration:none!important;
 }
 
