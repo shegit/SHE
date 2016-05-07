@@ -538,7 +538,7 @@ nav.top-bar {
 	-webkit-border-radius:0 0 4px 4px;
 	-moz-border-radius:0 0 4px 4px;
 	border-radius:0 0 4px 4px;
-	background:#6b5792
+	background:#fafafa; /*#6b5792*/
 }
 
 .minicart-head-container a:hover {
