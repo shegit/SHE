@@ -75,6 +75,10 @@ a:active {
 	box-shadow: 0 0 0 1px #c7008b,0 7px 0 1px #c7008b,0 14px 0 1px #c7008b;
 }
 
+.reveal-modal .close-reveal-modal {
+	width:40px;
+}
+
 .header {
 	overflow:hidden!important;
 	display:block!important;
