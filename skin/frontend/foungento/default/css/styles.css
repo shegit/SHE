@@ -652,7 +652,7 @@ font-size:18px;
 	}
 	
 	.minicart-head-container a::before {
-		margin:8px 0 0 15px;
+		margin:5px 0 0 15px;
 		width: 16px;
 		height: 19px;
 		content:"";
