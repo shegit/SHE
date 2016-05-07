@@ -636,13 +636,16 @@ font-size:18px;
 		padding-right:5px;
 	}
 	
+	.minicart-head-container a {
+		display:block;
+		padding-top:7px;
+	}
+	
 	.minicart-head-container a span.count {
 		color:rgb(107,87,146);
 		background-color:transparent;
 		font-weight:bold;
 		font-size:15px;
-		display:block;
-		padding-top:7px;
 	}
 	
 	.minicart-head-container a::before {
