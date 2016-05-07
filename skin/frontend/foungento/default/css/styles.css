@@ -1303,6 +1303,11 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	margin-top:30px;
 }
 
+.copy-right-container .form-language select {
+	background-color:#fff;
+	border:1px solid #eee;
+}
+
 
 
 
