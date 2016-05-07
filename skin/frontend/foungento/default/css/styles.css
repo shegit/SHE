@@ -3888,19 +3888,6 @@ border-bottom:1px solid #cdeff9;
 	margin-left:16px;
 }
 
-.foungento-header ul li a {
-color:#fff;
-line-height:45px;
-font-size:16px;
-font-weight:700;
-letter-spacing:.05rem
-}
-
-.foungento-header ul li a:hover {
-color:#fff;
-text-decoration:none
-}
-
 	@media only screen and (max-width: 40em) {
 		
 	.catalog-product-view .main {
