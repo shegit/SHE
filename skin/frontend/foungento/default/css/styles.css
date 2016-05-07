@@ -632,10 +632,10 @@ font-size:18px;
 		color:#fff;
 		font-size:15px;
 		background-color:rgba(107,87,146,0.9);
-		padding:7px 10px 5px 10px;
-		-webkit-border-radius:3px;
-		-moz-border-radius:3px;
-		border-radius:3px
+		padding:7px 15px 5px 15px;
+		-webkit-border-radius: 0 0 3px 3px;
+		-moz-border-radius:0 0 3px 3px;
+		border-radius:0 0 3px 3px;
 	}
 	
 	.minicart-head-container span.count::before {
