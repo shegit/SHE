@@ -637,7 +637,6 @@ font-size:18px;
 	
 	.minicart-head-container a {
 		display:block;
-		height:33px;
 	}
 	
 	.minicart-head-container a span.count {
@@ -647,8 +646,8 @@ font-size:18px;
 		font-size:15px;
 		margin:0;
 		padding:0;
-		bottom:0;
-		left:0;
+		display:block;
+		float:left;
 	}
 	
 	.minicart-head-container a::before {
