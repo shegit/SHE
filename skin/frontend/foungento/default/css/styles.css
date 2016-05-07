@@ -645,7 +645,8 @@ font-size:18px;
 		background-color:transparent;
 		font-weight:bold;
 		font-size:15px;
-		padding-top:15px;
+		margin:0;
+		padding:0;
 	}
 	
 	.minicart-head-container a::before {
