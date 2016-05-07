@@ -563,6 +563,16 @@ nav.top-bar {
 	border-radius:3px
 }
 
+.minicart-head-container span.count::before {
+	margin-right:10px;
+	width: 18px;
+    height: 18px;
+	content:"";
+	background: url(../images/spritesheet2.png) no-repeat;
+	background-position: -5px -4px;
+	display: inline-block;
+}
+
 .minicart-wrapper #cart-sidebar li img {
 	border-color:#eee;
 }
