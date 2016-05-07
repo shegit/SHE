@@ -1210,7 +1210,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	max-width:1200px!important;
 }
 
-span.address-text {
+.clearfix span {
 	color:#888!important;
 	font-size:13px!important;
 }
