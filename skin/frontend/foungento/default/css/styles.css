@@ -705,7 +705,7 @@ font-size:18px;
 	height:39px;
 	width:96px;
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -219px -5px;
+	background-position: -247px -5px;
 }
 
 #seal .founded {
@@ -715,7 +715,7 @@ font-size:18px;
 	height:39px;
 	width:96px;
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -87px -5px;
+	background-position: -115px -5px;
 }
 
 @media only screen and (max-width: 40em) /*Applies to SMALL ONLY*/ {
@@ -1158,7 +1158,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 18px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -5px -4px;
+	background-position: -5px -4px; /*0 +1*/
 	display: inline-block;
 }
 
@@ -1168,7 +1168,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 18px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -325px -2px;
+	background-position: -353px -2px; /*0 +3*/
 	display: inline-block;
 }
 
@@ -1178,7 +1178,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 18px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -33px -1px;
+	background-position: -61px -1px; /*0 +4*/
 	display: inline-block;
 }
 
@@ -1188,7 +1188,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 16px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -379px -5px;
+	background-position: -407px -5px; /*0 0*/
 	display: inline-block;
 }
 
@@ -1202,7 +1202,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 16px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -61px -5px;
+	background-position: -89px -5px; /*0 0*/
 	display: inline-block;
 }
 
@@ -1216,7 +1216,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 16px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -353px -5px;
+	background-position: -381px -5px; /*0 0*/
 	display: inline-block;
 }
 
@@ -1230,7 +1230,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
     height: 16px;
 	content:"";
 	background: url(../images/spritesheet2.png) no-repeat;
-	background-position: -193px -5px;
+	background-position: -221px -5px; /*0 0*/
 	display: inline-block;
 }
 
