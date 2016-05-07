@@ -96,6 +96,10 @@
             </block>
         </reference>
 		
+		<reference name="footer">
+			<block type="page/switch" name="store_language" as="store_language" template="page/switch/languages.phtml"/>
+		</reference>
+		
 		<reference name="right">
 			<block type="core/template" name="right.permanent.callout" template="">
 				<!-- <action method="setImgSrc"><src>images/media/col_right_callout.jpg</src></action>
