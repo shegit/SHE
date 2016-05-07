@@ -39,13 +39,13 @@ setTimeout("show()", 50);
         <?php if ($this->getIsHomePage()):?>
 			<h1 class="logo left text-left small-12 medium-9 large-9 columns">
 				<a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo">
-					<img data-interchange="[<?php echo $this->getLogoSrc() ?>, (default)], [<?php echo $this->getLogoSrcSmall() ?>, (small)]" alt="Selfhealth - Naturheilkunde-Shop für natürliche Gesundheit" />
+					<img data-interchange="[<?php echo $this->getLogoSrc() ?>, (default)], [<?php echo $this->getLogoSrc() ?>, (large)], [<?php echo $this->getLogoSrcSmall() ?>, (small)]" alt="Selfhealth - Naturheilkunde-Shop für natürliche Gesundheit" />
 					<noscript><img src="<?php echo $this->getLogoSrc() ?>" alt="Selfhealth - Naturheilkunde-Shop für natürliche Gesundheit" /></noscript>
 				</a>
 			</h1>
         <?php else:?>
 				<a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo">
-					<img data-interchange="[<?php echo $this->getLogoSrc() ?>, (default)], [<?php echo $this->getLogoSrcSmall() ?>, (small)]" alt="Selfhealth - Naturheilkunde-Shop für natürliche Gesundheit" />
+					<img data-interchange="[<?php echo $this->getLogoSrc() ?>, (default)], [<?php echo $this->getLogoSrc() ?>, (large)], [<?php echo $this->getLogoSrcSmall() ?>, (small)]" alt="Selfhealth - Naturheilkunde-Shop für natürliche Gesundheit" />
 					<noscript><img src="<?php echo $this->getLogoSrc() ?>" alt="Selfhealth - Naturheilkunde-Shop für natürliche Gesundheit" /></noscript>
 				</a>
         <?php endif?>
