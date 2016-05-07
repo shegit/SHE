@@ -3867,8 +3867,11 @@ border-bottom-left-radius: 6px;
 /*background:url(../images/she_logo.png) no-repeat;
 background-size:auto 100%;*/
 width:250px;
-height:50px;
-margin-top:4px
+}
+
+.mobile-bar img {
+width:250px;
+height:42px;
 }
 
 .foungento-header {
