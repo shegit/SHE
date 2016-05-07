@@ -534,7 +534,7 @@ nav.top-bar {
 }
 
 .minicart-head-container {
-	padding:0px 15px 1px 1px;
+	padding:0;
 	-webkit-border-radius:0 0 4px 4px;
 	-moz-border-radius:0 0 4px 4px;
 	border-radius:0 0 4px 4px;
