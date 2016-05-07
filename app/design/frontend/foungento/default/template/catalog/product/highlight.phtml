@@ -5,7 +5,7 @@
 <div class="highlight text-center">
 <div class="highlight-image">
     <a href="<?php echo $product->getProductUrl() ?>" >
-		<img src="<?php echo $this->helper('catalog/image')->init($product, 'small_image')->resize(200, 200); ?>" width="120" title="<?php echo $this->htmlEscape($product->getName()) ?>" alt="<?php echo $this->htmlEscape($product->getName()) ?>" />
+		<img src="<?php echo $this->helper('catalog/image')->init($product, 'small_image')->resize(120, 120); ?>" width="120" title="<?php echo $this->htmlEscape($product->getName()) ?>" alt="<?php echo $this->htmlEscape($product->getName()) ?>" />
     </a>
 </div>
 	<span><a href="<?php echo $product->getProductUrl() ?>" ><?php echo $this->htmlEscape($product->getName()) ?></a>,</span>
