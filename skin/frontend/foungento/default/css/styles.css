@@ -1308,6 +1308,11 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	border:1px solid #eee;
 }
 
+.copy-right-container .form-language select:hover {
+	background-color:#eee;
+	border:1px solid #ccc;
+}
+
 
 
 
