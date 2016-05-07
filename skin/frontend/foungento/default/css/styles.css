@@ -182,7 +182,7 @@ button,.button {
 	margin-bottom:0
 }
 
-.skip-cart {
+/*.skip-cart {
 	line-height:32px
 }
 
@@ -190,7 +190,7 @@ button,.button {
 	height:24px;
 	width:20px;
 	display:inline-block
-}
+}*/
 
 .orbit-container .orbit-prev:hover,.orbit-container .orbit-next:hover {
 	background:transparent
