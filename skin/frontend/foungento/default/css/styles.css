@@ -633,6 +633,7 @@ font-size:18px;
 		border:1px solid #cdeff9;
 		border-top:none;
 		padding-right:10px;
+		height:32pxM
 	}
 	
 	.minicart-head-container span.count {
@@ -651,7 +652,6 @@ font-size:18px;
 		background: url(../images/basket_icon.png) no-repeat;
 		display: block;
 		float:left;
-		line-height:32px;
 	}
 }
 
