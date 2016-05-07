@@ -759,7 +759,7 @@ font-size:18px;
 
 .top-bar .form-search input {
 	font-size:.9375rem;
-	height:2.35rem;
+	height:37px;
 	padding:12px 0 12px .770833rem
 }
 
@@ -777,7 +777,7 @@ font-size:18px;
 }
 
 .form-search {
-	height:30px
+	height:37px
 }
 
 .form-search button span {
