@@ -653,6 +653,7 @@ font-size:18px;
 		background: url(../images/basket_icon.png) no-repeat;
 		display: block;
 		float:left;
+		opacity:.9;
 	}
 }
 
