@@ -568,7 +568,7 @@ nav.top-bar {
 	width: 20px;
     height: 24px;
 	content:"";
-	background: url(../images/basket-icon.png) no-repeat;
+	background: url(../images/basket_icon.png) no-repeat;
 	display: inline-block;
 }
 
