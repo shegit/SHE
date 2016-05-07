@@ -1350,9 +1350,9 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 }
 
 .copy-right-container .form-language select:hover {
-	background-color:#fafafa;
+	background-color:#fdfdfd;
 	border:1px solid #ccc;
-	color:#555;
+	color:#666;
 }
 
 
