@@ -3871,6 +3871,7 @@ width:250px;
 
 .mobile-bar img {
 height:42px;
+margin-top:2px;
 margin-left:16px;
 }
 
@@ -3881,7 +3882,7 @@ border-bottom:1px solid #cdeff9;
 }
 
 .foungento-header .top-bar {
-	height:50px!important;
+	height:45px!important;
 }
 
 .foungento-header ul li a {
