@@ -656,7 +656,7 @@ font-size:18px;
 		width: 18px;
 		height: 22px;
 		content:"";
-		background: url(../images/basket_icon.png) no-repeat;
+		background: url(../images/spritesheet2.png) no-repeat;
 		background-position: -33px -5px;
 		display: block;
 		float:left;
