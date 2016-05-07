@@ -1705,8 +1705,8 @@ p.copy-right {
 	height:93px;
 }
 
-#shopping-cart-table tr.first.last {
-	height:37px;
+#shopping-cart-table tr.first.last, #shopping-cart-table tr.first.last th, #shopping-cart-table tr.first.last th span {
+	height:37px!important;
 }
 
 #shopping-cart-table td {
