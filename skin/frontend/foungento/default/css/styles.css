@@ -636,16 +636,19 @@ font-size:18px;
 		height:32px;
 	}
 	
-	.minicart-head-container span.count {
+	.minicart-head-container a {
+		margin-top:10px;
+	}
+	
+	.minicart-head-container a span.count {
 		color:rgb(107,87,146);
 		background-color:transparent;
 		font-weight:bold;
 		font-size:15px;
-		margin-top:10px;
 		padding:0;
 	}
 	
-	.minicart-head-container span.count::before {
+	.minicart-head-container a span.count::before {
 		margin:3px 0 0 13px;
 		width: 20px;
 		height: 24px;
