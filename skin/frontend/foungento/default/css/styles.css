@@ -2757,6 +2757,10 @@ table.responsive th span, table.responsive th {
 	font-weight:normal;
 }
 
+#sidebar-wrapper input {
+	margin:0;
+}
+
 #sidebar-wrapper a, #sidebar-wrapper p, #sidebar-wrapper span, #sidebar-wrapper span.label, #sidebar-wrapper label {
 	color:#eee;
 	font-size:14px;
@@ -2764,6 +2768,7 @@ table.responsive th span, table.responsive th {
 	margin:0;
 	font-weight:normal;
 	background-color:transparent;
+	line-height:1.6;
 }
 
 #sidebar-wrapper .block {
