@@ -11,6 +11,8 @@
     <default>
 		<remove name="left.permanent.callout"/>
 		<remove name="tags_popular"/>
+        <remove name="right.poll" />
+        <remove name="paypal.partner.right.logo" />   
 		
 		<reference name="head">
 			<action method="addItem"><type>skin_js</type><name>js/jquery.1.8.3.min.js</name><params/></action>
