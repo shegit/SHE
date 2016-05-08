@@ -2758,7 +2758,7 @@ table.responsive th span, table.responsive th {
 }
 
 #sidebar-wrapper #poll-answers {
-	margin:10px 0;
+	margin:5px 0 10px 0;
 }
 
 #sidebar-wrapper #poll-answers input {
