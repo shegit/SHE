@@ -2757,12 +2757,13 @@ table.responsive th span, table.responsive th {
 	font-weight:normal;
 }
 
-#sidebar-wrapper a, #sidebar-wrapper p, #sidebar-wrapper span {
+#sidebar-wrapper a, #sidebar-wrapper p, #sidebar-wrapper span, #sidebar-wrapper span.label, #sidebar-wrapper label {
 	color:#eee;
 	font-size:14px;
 	padding:0;
 	margin:0;
 	font-weight:normal;
+	background-color:transparent;
 }
 
 #sidebar-wrapper .block {
