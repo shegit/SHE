@@ -2758,7 +2758,7 @@ table.responsive th span, table.responsive th {
 }
 
 #sidebar-wrapper input {
-	margin:0;
+	margin:0 0 5px 0;
 }
 
 #sidebar-wrapper a, #sidebar-wrapper p, #sidebar-wrapper span, #sidebar-wrapper span.label, #sidebar-wrapper label {
