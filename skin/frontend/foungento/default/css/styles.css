@@ -2757,11 +2757,11 @@ table.responsive th span, table.responsive th {
 	font-weight:normal;
 }
 
-#sidebar-wrapper ul.poll-answers {
+#sidebar-wrapper #poll-answers {
 	margin:10px 0;
 }
 
-#sidebar-wrapper ul.poll-answers input {
+#sidebar-wrapper #poll-answers input {
 	margin:5px 0;
 }
 
