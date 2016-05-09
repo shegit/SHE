@@ -3779,6 +3779,10 @@ p.category-image {
 	border:1px solid #ddd;
 }
 
+p.category-image img {
+	max-height:100px;
+}
+
 .label.secondary {
 background-color:#756693!important;
 color:#fff!important;
