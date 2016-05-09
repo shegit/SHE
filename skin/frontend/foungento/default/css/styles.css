@@ -3563,10 +3563,6 @@ ul.share-buttons img {
 		padding-top:12px!important
 	}
 	
-	.col-main .category-description {
-		height:100px;
-	}
-	
 	.content-wrapper {
 		padding:0
 	}
@@ -3712,6 +3708,10 @@ ul.share-buttons img {
 
 	.catbox a.mobile-link-box {
 		display:none;
+	}
+	
+	.col-main .category-description {
+		height:100px;
 	}
 	
 	.concept-wrapper {
