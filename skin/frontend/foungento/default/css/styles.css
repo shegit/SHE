@@ -3712,6 +3712,7 @@ ul.share-buttons img {
 	
 	.col-main .category-description {
 		height:100px;
+		margin:0 0 10px 0;
 	}
 	
 	.col2-left-layout .col-main .category-description ul {
@@ -3724,7 +3725,6 @@ ul.share-buttons img {
 		column-gap: 30px;
 		-moz-column-fill: auto;
 		column-fill: auto;
-		margin:0 0 10px 0;
 	}
 	
 	.concept-wrapper {
