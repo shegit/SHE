@@ -3718,6 +3718,7 @@ ul.share-buttons img {
 	}
 	
 	.col2-left-layout .col-main .category-description ul {
+		height:100px;
 		column-count: 2;
 		column-gap: 0.5em;
 	}
