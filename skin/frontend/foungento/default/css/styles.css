@@ -3711,7 +3711,7 @@ ul.share-buttons img {
 	}
 	
 	.col2-left-layout .col-main .category-description ul {
-		height:110px;
+		height:100px;
 		-webkit-column-count: 3;
 		-moz-column-count: 3;
 		column-count: 3;
