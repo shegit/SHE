@@ -3710,15 +3710,8 @@ ul.share-buttons img {
 		display:none;
 	}
 	
-	.col-main .category-description {
-		height:100px;
-	}
-	
-	.col2-left-layout .col-main .category-description {
-	}
-	
 	.col2-left-layout .col-main .category-description ul {
-		height:100px;
+		height:110px;
 		-webkit-column-count: 3;
 		-moz-column-count: 3;
 		column-count: 3;
