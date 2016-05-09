@@ -3712,11 +3712,12 @@ ul.share-buttons img {
 	
 	.col-main .category-description {
 		height:100px;
+		padding-right:33%;
 	}
 	
 	.col-main .category-description ul li {
 		float:left;
-		width:25%;
+		width:33%;
 	}
 	
 	.concept-wrapper {
