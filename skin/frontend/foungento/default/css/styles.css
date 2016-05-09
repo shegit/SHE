@@ -3717,9 +3717,9 @@ ul.share-buttons img {
 	
 	.col2-left-layout .col-main .category-description ul {
 		height:100px;
-		-webkit-column-count: 3;
-		-moz-column-count: 3;
-		column-count: 3;
+		-webkit-column-count: 2;
+		-moz-column-count: 2;
+		column-count: 2;
 		-webkit-column-gap: 30px;
 		-moz-column-gap: 30px;
 		column-gap: 30px;
@@ -3773,6 +3773,12 @@ ul.share-buttons img {
 	
 	.wheel-container {
 		float:left!important;
+	}
+	
+	.col2-left-layout .col-main .category-description ul {
+		-webkit-column-count: 3;
+		-moz-column-count: 3;
+		column-count: 3;
 	}
 }
 
