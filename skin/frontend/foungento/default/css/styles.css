@@ -1371,6 +1371,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 
 .col-main .category-description {
 	padding-top:7px;
+	min-height:100px;
 }
 
 .col-main .category-description li {
