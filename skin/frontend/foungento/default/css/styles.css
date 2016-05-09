@@ -1371,7 +1371,6 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 
 .col-main .category-description {
 	padding-top:7px;
-	min-height:100px;
 }
 
 .col-main .category-description li {
@@ -3562,6 +3561,10 @@ ul.share-buttons img {
 	
 	.cms-index-index .col-main {
 		padding-top:12px!important
+	}
+	
+	.col-main .category-description {
+		height:100px;
 	}
 	
 	.content-wrapper {
