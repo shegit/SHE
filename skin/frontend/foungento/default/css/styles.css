@@ -3715,15 +3715,11 @@ ul.share-buttons img {
 	}
 	
 	.col2-left-layout .col-main .category-description {
-		padding-right:33%;
 	}
 	
-	.col2-left-layout .col-main .category-description ul li {
-		width:33%;
-	}
-	
-	.col2-left-layout .col-main .category-description ul li:nth-child(even) {
-		float:left;
+	.col2-left-layout .col-main .category-description ul {
+		column-count: 2;
+		column-gap: 0.5em;
 	}
 	
 	.concept-wrapper {
