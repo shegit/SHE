@@ -3714,6 +3714,10 @@ ul.share-buttons img {
 		height:100px;
 	}
 	
+	.col-main .category-description ul li {
+		float:left;
+	}
+	
 	.concept-wrapper {
 		padding:0 35px!important;
 	}
