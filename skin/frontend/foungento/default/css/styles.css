@@ -3724,6 +3724,8 @@ ul.share-buttons img {
 		-webkit-column-gap: 30px;
 		-moz-column-gap: 30px;
 		column-gap: 30px;
+		-moz-column-fill: auto;
+		column-fill: auto;
 	}
 	
 	.concept-wrapper {
