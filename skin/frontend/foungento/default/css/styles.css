@@ -1759,6 +1759,10 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	font-size:14px;
 }
 
+#shopping-cart-table ul li {
+	margin-bottom:5px;
+}
+
 #shopping-cart-table ul li a {
 	color: #666;
 	font-style: italic;
