@@ -3716,6 +3716,7 @@ ul.share-buttons img {
 	
 	.col-main .category-description ul li {
 		float:left;
+		width:50%;
 	}
 	
 	.concept-wrapper {
