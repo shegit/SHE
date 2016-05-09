@@ -3803,7 +3803,8 @@ p.category-image {
 }
 
 p.category-image img {
-	max-height:100px;
+	height:100px;
+	width:auto;
 }
 
 .label.secondary {
