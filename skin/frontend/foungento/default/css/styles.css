@@ -1405,6 +1405,10 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 	padding-bottom:5px;
 }
 
+.checkout-onepage-index label.p_method_paypal_express a {
+	font-size:12px;
+}
+
 .checkout-onepage-index p.required {
 	font-size:12px;
 }
