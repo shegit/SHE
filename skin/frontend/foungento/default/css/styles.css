@@ -834,10 +834,11 @@ font-size:18px;
 }
 
 /* Internet Explorer 10+, Microsoft Edge Browser */
-_:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
+_:-ms-lang(x), #nav ul.dropdown { background-color:#fff; }
 
 /* Internet Explorer 10+, Microsoft Edge Browser */
-/*_:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
+_:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
+
 
 @media only screen and (max-width: 40em) /*Applies to SMALL ONLY*/ {
 	
@@ -914,10 +915,6 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 	#nav li.has-dropdown > a {
 		pointer-events: none;
 		cursor: default;
-	}
-	
-	#nav ul.dropdown {
-		background-color:#fff;
 	}
 	
 	#nav ul.dropdown ul.dropdown {
