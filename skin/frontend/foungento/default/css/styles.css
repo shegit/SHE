@@ -1418,6 +1418,11 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 	color:#777;
 }
 
+.checkout-onepage-index ul li.form-alt {
+	font-size:12px;
+	color:#777;
+}
+
 .checkout-onepage-index a.link-tip {
 	display:none;
 }
