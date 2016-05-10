@@ -1094,7 +1094,7 @@ _:-ms-lang(x), #nav ul.level1.dropdown { margin-left:-1px; }
 	
 	#nav li.has-dropdown > a {
 		pointer-events: auto;
-		cursor: auto;
+		cursor:pointer
 	}
 
 }
