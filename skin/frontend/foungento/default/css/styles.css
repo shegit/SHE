@@ -2099,6 +2099,9 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 .col-main .my-account .addresses-primary ol, .col-main .my-account .addresses-additional ol {
 	margin:0;
 	padding:20px;
+}
+
+.col-main .my-account .addresses-primary ol, .col-main .my-account .addresses-additional ol {
 	-webkit-column-count: 2;
 	-moz-column-count: 2;
 	column-count: 2;
