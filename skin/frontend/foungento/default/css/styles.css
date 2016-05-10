@@ -2030,10 +2030,12 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 
 .col-main .my-account {
 	margin:0 20px;
-	padding:12px 10px 20px 10px;
+	margin-bottom:20px;
+	padding:12px 20px 20px 20px;
 	color:#444;
 	font-size:14px;
 	background:#fff;
+	border:1px solid #eee;
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	border-radius:6px;
