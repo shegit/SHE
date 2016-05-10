@@ -2030,10 +2030,13 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 
 .col-main .my-account {
 	margin:0 20px;
-	padding-top:12px;
-	padding-bottom:20px;
+	padding:12px 10px 20px 10px;
 	color:#444;
 	font-size:14px;
+	background:#fff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
 }
 
 .col-main .my-account p, .col-main .my-account a, .col-main .my-account span {
