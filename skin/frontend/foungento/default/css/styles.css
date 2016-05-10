@@ -2087,6 +2087,7 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 .col-main .my-account .addresses-list .item a {
 	color:#777;
 	font-style:italic;
+	margin-right:20px;
 }
 
 /*.col-main .my-account .addresses-primary ol li, .col-main .my-account .addresses-additional ol li {
