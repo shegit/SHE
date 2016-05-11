@@ -2938,9 +2938,9 @@ table.responsive th span, table.responsive th {
 }
 
 .cms-index-index .custom-notice {
-	background-color:#404040!important;
+	background-color:#fcfdff!important;
 	width:100%;
-	border-bottom:2px solid #cdeff9;
+	border-bottom:1px solid #cdeff9;
 }
 
 .custom-notice .note-wrapper {
@@ -2950,19 +2950,19 @@ table.responsive th span, table.responsive th {
 }
 
 .custom-notice .note-wrapper h3 {
-	color:#DDF5FF;
+	color:#cdeff9;
 	text-align:center;
 }
 
 .custom-notice .note-wrapper p {
-	color:#fafafa;
+	color:#999;
 	font-size:13px;
 	text-align:center;
 	margin:0;
 }
 
 .custom-notice .note-wrapper a {
-	color:#DDF5FF;
+	color:#cdeff9;
 	font-size:13px;
 	text-align:center;
 }
