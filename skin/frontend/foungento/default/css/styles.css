@@ -3959,7 +3959,7 @@ border-bottom-left-radius: 6px;
 .custom-notice {
 	background-color:#444!important;
 	width:100%;
-	border-bottom:1px solid #cdeff9;
+	border-bottom:2px solid #cdeff9;
 }
 
 .custom-notice .note-wrapper {
@@ -3981,7 +3981,7 @@ border-bottom-left-radius: 6px;
 }
 
 .custom-notice .note-wrapper a {
-	color:#eee;
+	color:#cdeff9;
 	font-size:13px;
 	text-align:center;
 }
