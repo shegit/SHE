@@ -2938,7 +2938,7 @@ table.responsive th span, table.responsive th {
 }
 
 .cms-index-index .custom-notice {
-	background-color:#fdfeff!important;
+	background-color:#404040!important;
 	width:100%;
 	border-bottom:1px solid #cdeff9;
 }
@@ -2955,14 +2955,14 @@ table.responsive th span, table.responsive th {
 }
 
 .custom-notice .note-wrapper p {
-	color:#999;
+	color:#ddd;
 	font-size:13px;
 	text-align:center;
 	margin:0;
 }
 
 .custom-notice .note-wrapper a {
-	color:#aaa;
+	color:#fff;
 	font-size:13px;
 	text-align:center;
 }
