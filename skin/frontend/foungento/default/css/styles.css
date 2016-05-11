@@ -3957,9 +3957,9 @@ border-bottom-left-radius: 6px;
 }
 
 .custom-notice {
-	background-color:#444!important;
+	background-color:#f9f9f9!important;
 	width:100%;
-	border-bottom:2px solid #888;
+	border-bottom:2px solid #cdeff9;
 }
 
 .custom-notice .note-wrapper {
@@ -3969,19 +3969,18 @@ border-bottom-left-radius: 6px;
 }
 
 .custom-notice .note-wrapper h3 {
-	color:#f6fcfe;
 	text-align:center;
 }
 
 .custom-notice .note-wrapper p {
-	color:#fff;
+	color:#555;
 	font-size:13px;
 	text-align:center;
 	margin:0;
 }
 
 .custom-notice .note-wrapper a {
-	color:#f6fcfe;
+	color:#222;
 	font-size:13px;
 	text-align:center;
 }
