@@ -3956,6 +3956,32 @@ border-bottom-left-radius: 6px;
 	text-align:center;
 }
 
+.custom-notice {
+	background-color:#333;
+	width:100%;
+	border-bottom:1px solid #666;
+}
+
+.custom-notice .note-wrapper {
+	width:895px;
+	margin:0 auto;
+	padding:10px;
+}
+
+.custom-notice .note-wrapper h2 {
+	color:#fff;
+}
+
+.custom-notice .note-wrapper p {
+	color:#fff;
+	font-size:#13px;
+}
+
+.custom-notice .note-wrapper a {
+	color:#fff;
+	font-size:#13px;
+}
+
 .mobile-bar {
 /*background:url(../images/she_logo.png) no-repeat;
 background-size:auto 100%;*/
