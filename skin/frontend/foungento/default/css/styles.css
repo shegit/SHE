@@ -2929,6 +2929,41 @@ table.responsive th span, table.responsive th {
 
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
 
+.custom-notice {
+	display:none;
+}
+
+.cms-index-index .custom-notice {
+	background-color:#444!important;
+	width:100%;
+	border-bottom:2px solid #cdeff9;
+	display:block;
+}
+
+.custom-notice .note-wrapper {
+	width:895px;
+	margin:0 auto;
+	padding:10px;
+}
+
+.custom-notice .note-wrapper h3 {
+	color:#f0fafd;
+	text-align:center;
+}
+
+.custom-notice .note-wrapper p {
+	color:#fff;
+	font-size:13px;
+	text-align:center;
+	margin:0;
+}
+
+.custom-notice .note-wrapper a {
+	color:#f0fafd;
+	font-size:13px;
+	text-align:center;
+}
+
 .cms-index-index .nav-container {
 	background-color:#fff!important;
 }
@@ -3953,36 +3988,6 @@ border-bottom-left-radius: 6px;
 }
 
 .account-create p.form-instructions {
-	text-align:center;
-}
-
-.custom-notice {
-	background-color:#444!important;
-	width:100%;
-	border-bottom:2px solid #cdeff9;
-}
-
-.custom-notice .note-wrapper {
-	width:895px;
-	margin:0 auto;
-	padding:10px;
-}
-
-.custom-notice .note-wrapper h3 {
-	color:#cdeff9;
-	text-align:center;
-}
-
-.custom-notice .note-wrapper p {
-	color:#fff;
-	font-size:13px;
-	text-align:center;
-	margin:0;
-}
-
-.custom-notice .note-wrapper a {
-	color:#cdeff9;
-	font-size:13px;
 	text-align:center;
 }
 
