@@ -2966,6 +2966,7 @@ table.responsive th span, table.responsive th {
 	color:#A692D3;
 	font-size:13px;
 	text-align:center;
+	text-decoration:underline;
 }
 
 .cms-index-index .nav-container {
