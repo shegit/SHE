@@ -2929,15 +2929,10 @@ table.responsive th span, table.responsive th {
 
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
 
-.custom-notice {
-	display:none;
-}
-
 .cms-index-index .custom-notice {
 	background-color:#444!important;
 	width:100%;
 	border-bottom:2px solid #cdeff9;
-	display:block;
 }
 
 .custom-notice .note-wrapper {
