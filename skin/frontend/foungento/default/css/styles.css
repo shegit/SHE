@@ -2952,7 +2952,7 @@ table.responsive th span, table.responsive th {
 .custom-notice .note-wrapper h3 {
 	color:#D4C1FF;
 	text-align:center;
-	text-shadow: 1px 1px 3px #fff;
+	text-shadow: 0px 0px 3px #fff;
 }
 
 .custom-notice .note-wrapper p {
