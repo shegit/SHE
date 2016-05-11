@@ -3957,7 +3957,7 @@ border-bottom-left-radius: 6px;
 }
 
 .custom-notice {
-	background-color:#333;
+	background-color:#333!important;;
 	width:100%;
 	border-bottom:1px solid #666;
 }
@@ -3968,18 +3968,21 @@ border-bottom-left-radius: 6px;
 	padding:10px;
 }
 
-.custom-notice .note-wrapper h2 {
+.custom-notice .note-wrapper h3 {
 	color:#fff;
+	text-align:center;
 }
 
 .custom-notice .note-wrapper p {
 	color:#fff;
 	font-size:#13px;
+	text-align:center;
 }
 
 .custom-notice .note-wrapper a {
 	color:#fff;
 	font-size:#13px;
+	text-align:center;
 }
 
 .mobile-bar {
