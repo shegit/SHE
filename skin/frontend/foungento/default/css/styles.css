@@ -2950,9 +2950,9 @@ table.responsive th span, table.responsive th {
 }
 
 .custom-notice .note-wrapper h3 {
-	color:#D4C1FF;
+	color:#BB9EFF;
 	text-align:center;
-	text-shadow: 0px 0px 1px #BB9EFF;
+	text-shadow: 0px 0px 1px #fff;
 }
 
 .custom-notice .note-wrapper p {
