@@ -2956,14 +2956,14 @@ table.responsive th span, table.responsive th {
 }
 
 .custom-notice .note-wrapper p {
-	color:#756693;
+	color:#999;
 	font-size:13px;
 	text-align:center;
 	margin:0 0 5px 0;
 }
 
 .custom-notice .note-wrapper a {
-	color:#9280B7;
+	color:#A692D3;
 	font-size:13px;
 	text-align:center;
 }
