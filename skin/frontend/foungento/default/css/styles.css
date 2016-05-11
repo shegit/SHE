@@ -2955,14 +2955,14 @@ table.responsive th span, table.responsive th {
 }
 
 .custom-notice .note-wrapper p {
-	color:#fcfcfc;
+	color:#fafafa;
 	font-size:13px;
 	text-align:center;
 	margin:0;
 }
 
 .custom-notice .note-wrapper a {
-	color:#D3F5FF;
+	color:#fff;
 	font-size:13px;
 	text-align:center;
 }
