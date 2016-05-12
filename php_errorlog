@@ -1,1 +1,0 @@
-[10-May-2016 11:09:10 UTC] PHP Fatal error:  Call to a member function getMethodInstance() on a non-object in /home/shehost/public_html/app/code/community/HeidelpayCD/Edition/Helper/Payment.php on line 266
