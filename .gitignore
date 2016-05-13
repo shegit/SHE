@@ -3,6 +3,8 @@ h9VD3hfF.php
 blog/
 selfhealth
 www
+maintenance.flag
+maintenance.flag.off
 
 
 app/.htaccess
