@@ -2622,6 +2622,16 @@ table.responsive th span, table.responsive th {
 	color:#5b4190;
 }
 
+<<<<<<< HEAD
+=======
+.catalog-product-view .product-view p.availability {
+	margin:25px 0 5px 5px!important;
+	padding:0;
+	color:#5b4190;
+	font-size:14px
+}
+
+>>>>>>> cf8846476a69a4ab5da2d41b9b08d481852c3b5f
 .catalog-product-view .product-view .price-box span {
 	font-size:16px;
 }
