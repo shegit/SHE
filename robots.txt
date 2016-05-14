@@ -1,5 +1,6 @@
 # Crawlers Setup
 User-agent: *
+Crawl-delay: 120
 
 # Sitemaps
 Sitemap: http://www.selfhealth.de/sitemap/de/sitemap.xml
