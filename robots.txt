@@ -1,109 +1,65 @@
-# # Robots.txt for Magento Community and Enterprise
- 
-# # GENERAL SETTINGS
- 
-# Enables robots.txt rules for all crawlers
- 
+# Crawlers Setup
 User-agent: *
- 
-# # Crawl-delay parameter: the number of seconds you want to wait between successful requests to the same server.
-# # Set a crawl rate, if your server's traffic problems. Please note that Google ignore crawl-delay setting in Robots.txt. You can set up this in Google Webmaster tool
-Crawl-delay: 120
- 
-# # Magento sitemap: URL to your sitemap file in Magento
+
+# Sitemaps
 Sitemap: http://www.selfhealth.de/sitemap/de/sitemap.xml
 Sitemap: http://www.selfhealth.com/sitemap/en/sitemap.xml
 
-# # Settings that relate to the UNDER CONSTRUCTION
- 
-# # Do not allow indexing files and folders that are required during development: CVS, SVN directory and dump files
-Disallow: / CVS
-Disallow: / *. Svn $
-Disallow: / *. Idea $
-Disallow: / *. Sql $
-Disallow: / *. Tgz $
- 
-# # GENERAL SETTINGS For MAGENTO
- 
-# # Do not index the page Magento admin
-Disallow: / admin /
- 
-# # Do not index the general technical Magento directory
-Disallow: / app /
-Disallow: / downloader /
-Disallow: / errors /
-Disallow: / includes /
-Disallow: / lib /
-Disallow: / pkginfo /
-Disallow: / shell /
-Disallow: / var /
- 
-# # Do not index the shared files Magento
-Disallow: / api.php
-Disallow: / cron.php
-Disallow: / cron.sh
-Disallow: / error_log
-Disallow: / get.php
-Disallow: / install.php
-Disallow: / LICENSE.html
-Disallow: / LICENSE.txt
-Disallow: / LICENSE_AFL.txt
-Disallow: / README.txt
-Disallow: / RELEASE_NOTES.txt
- 
-# # MAGENTO SEA IMPROVEMENT
- 
-# # Do not index the page subcategories that are sorted or filtered.
-Disallow: / *? Dir *
-Disallow: / *? Dir = desc
-Disallow: / *? Dir = asc
-Disallow: / *? Limit = all
-Disallow: / *? Mode *
- 
-# # Do not index the second copy of the home page (example.com / index.php /). Un-comment only if you have activated Magento SEO URLs.
-Disallow: / index.php /
+# Directories
+Disallow: /.git
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /downloader/
+Disallow: /includes/
+Disallow: /lib/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /shell/
+Disallow: /var/
 
-# # Do not index the link from the session ID
-Disallow: / *? SID =
- 
-# # Do not index the page checkout and user account
-# Disallow: / checkout /
-Disallow: / customer /
-Disallow: / customer / account /
-Disallow: / customer / account / login /
- 
-# # Do not index the search page and CEO, non-optimized link categories
-Disallow: / catalogsearch /
-Disallow: / catalog / product_compare /
-Disallow: / catalog / category / view /
-Disallow: / catalog / product / view /
-Disallow: / gesundheit / mehr
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /index.php/admin/
+Disallow: /index.php/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalogsearch/
+#Disallow: /checkout/
+Disallow: /control/
+Disallow: /contacts/
+Disallow: /customer/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /wishlist/
+Disallow: /catalog/product/gallery/
 
-# # Other
-Disallow: / control /
-Disallow: / contacts /
-Disallow: / customize /
-Disallow: / newsletter /
-Disallow: / poll /
-Disallow: / review /
-Disallow: / sendfriend /
-Disallow: / tag /
-Disallow: / wishlist /
-Disallow: / catalog / product / gallery /
- 
-# # Server Settings
- 
-# # Do not index the general technical directories and files on a server
-Disallow: / cgi-bin /
-Disallow: / cleanup.php
-Disallow: / apc.php
-Disallow: / memcache.php
-Disallow: / i.php
- 
-# # SETTINGS Image indexing
- 
-# # Optional: If you do not want Google and Bing to index your images
-# User-agent: Googlebot-Image
-# Disallow: /
-# User-agent: msnbot-media
-# Disallow: /
+# Misc. files you don’t want search engines to crawl
+Disallow: /.gitignore
+Disallow: /maintenance.flag
+Disallow: /maintenance.flag.off
+Disallow: /h9VD3hfF.php
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /composer.json
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+Disallow: /mage
+#Disallow: /modman
+#Disallow: /n98-magerun.phar
+Disallow: /scheduler_cron.sh
+Disallow: /*.php$
+
+# Disallow filter urls
+Disallow: /*?min*
+Disallow: /*?max*
+Disallow: /*?q*
+Disallow: /*?cat*
+Disallow: /*?manufacturer_list*
+Disallow: /*?tx_indexedsearch
