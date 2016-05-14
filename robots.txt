@@ -27,6 +27,7 @@ Disallow: /catalog/product/view/
 Disallow: /catalogsearch/
 #Disallow: /checkout/
 Disallow: /control/
+Disallow: /index.php/control/
 Disallow: /contacts/
 Disallow: /customer/
 Disallow: /customize/
