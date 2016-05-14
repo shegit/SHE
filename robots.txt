@@ -44,6 +44,7 @@ Disallow: /.gitignore
 Disallow: /maintenance.flag
 Disallow: /maintenance.flag.off
 Disallow: /h9VD3hfF.php
+Disallow: /i.php
 Disallow: /cron.php
 Disallow: /cron.sh
 Disallow: /composer.json
