@@ -8,7 +8,7 @@ User-agent: *
  
 # # Crawl-delay parameter: the number of seconds you want to wait between successful requests to the same server.
 # # Set a crawl rate, if your server's traffic problems. Please note that Google ignore crawl-delay setting in Robots.txt. You can set up this in Google Webmaster tool
-# Crawl-delay: 30
+Crawl-delay: 120
  
 # # Magento sitemap: URL to your sitemap file in Magento
 Sitemap: http://www.selfhealth.de/sitemap/de/sitemap.xml
@@ -98,7 +98,7 @@ Disallow: / cgi-bin /
 Disallow: / cleanup.php
 Disallow: / apc.php
 Disallow: / memcache.php
-Disallow: / phpinfo.php
+Disallow: / i.php
  
 # # SETTINGS Image indexing
  
