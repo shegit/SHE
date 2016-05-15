@@ -681,7 +681,7 @@ font-size:18px;
 
 #logo-img, #logo-img-small {
 	position:relative;
-	font-size:0!important;
+	/*font-size:0!important;*/
 }
 
 #seal {
