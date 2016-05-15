@@ -1,10 +1,10 @@
 # Crawlers Setup
 User-agent: *
-Crawl-delay: 120
+#Crawl-delay: 120
 
 # Sitemaps
-Sitemap: http://www.selfhealth.de/sitemap/de/sitemap.xml
-Sitemap: http://www.selfhealth.com/sitemap/en/sitemap.xml
+Sitemap: https://www.selfhealth.de/sitemap/de/sitemap.xml
+Sitemap: https://www.selfhealth.com/sitemap/en/sitemap.xml
 
 # Directories
 Disallow: /.git
