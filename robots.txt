@@ -7,7 +7,7 @@ Sitemap: https://www.selfhealth.de/sitemap/de/sitemap.xml
 Sitemap: https://www.selfhealth.com/sitemap/en/sitemap.xml
 
 # Directories
-Disallow: /.git
+Disallow: /.git/
 Disallow: /app/
 Disallow: /cgi-bin/
 Disallow: /downloader/
