@@ -1893,11 +1893,17 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 	background-color:#fff!important;
 }
 
-.cms-page-view .std, .cms-page-view .std {
+.cms-page-view .std {
 	padding:10px;
 	padding-bottom:20px;
 	max-width:1000px;
 	margin:0 auto;
+}
+
+.cms-page-view .page-title {
+	max-width:1000px;
+	margin:0 auto;
+	padding:0 10px;
 }
 
 .cms-page-view .std::after {
