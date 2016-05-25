@@ -4001,7 +4001,7 @@ border-top-right-radius: 6px;
 }
 
 .account-create form {
-	padding:0 20px 0 10px;
+	padding:0 30px;
 	background-color:#f6fcfe;
 	border:1px solid #cdeff9;
 	border-top:none;
@@ -4029,7 +4029,7 @@ border-bottom-left-radius: 6px;
 }
 
 .account-create ul.form-list {
-	margin:0 20px 20px 20px;
+	margin:0 0 20px 0;
 }
 
 .mobile-bar {
