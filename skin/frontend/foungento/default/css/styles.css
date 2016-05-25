@@ -2362,7 +2362,7 @@ table.responsive th span, table.responsive th {
 	margin:0 20px 35px 20px;
 }
 
-#cat-page-desc-wrapper h2 {
+#cat-page-desc-wrapper h2, #cat-page-desc-wrapper h3 {
 	padding-bottom:15px;
 }
 
@@ -4158,7 +4158,7 @@ border-bottom:1px solid #cdeff9;
 	background-color:#f6fcfe;
 	}
 
-	#cat-page-desc-wrapper h2 {
+	#cat-page-desc-wrapper h2, #cat-page-desc-wrapper h3 {
 	-webkit-column-span:all;
 	column-span:all
 	}
