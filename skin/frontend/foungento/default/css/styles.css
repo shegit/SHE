@@ -4021,7 +4021,7 @@ border-bottom-left-radius: 6px;
 	text-align:center;
 	font-size: 14px;
     color: #444;
-	margin-top:10px;
+	padding-top:10px;
 }
 
 .account-create p.required {
@@ -4064,7 +4064,7 @@ border-bottom:1px solid #cdeff9;
 	}
 	
 	.customer-account-create nav.container {
-		background:#fff;
+		background:#fff!important;
 	}
 		
 	.catalog-product-view .main {
