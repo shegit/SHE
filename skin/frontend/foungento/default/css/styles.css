@@ -1519,7 +1519,7 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 	-webkit-border-radius:6px;
 	border-radius:6px;
 	max-width:340px;
-	background-color:#f6fcfe;
+	/*background-color:#f6fcfe;*/
 	margin:18px auto;
     padding: 20px 20px 0 20px;
 }
@@ -3856,7 +3856,7 @@ ul.share-buttons img {
 		-webkit-border-radius:6px;
 		border-radius:6px;
 		max-width:340px;
-		background-color:#fafafa;
+		/*background-color:#fafafa;*/
 		margin:18px auto;
 	}
 	
