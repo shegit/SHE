@@ -1514,7 +1514,7 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 .checkout-onepage-index #shipping-new-address-form,
 .checkout-onepage-index #payment_form_hcdgp,
 .checkout-onepage-index #payment_form_hcddd {
-	border: 1px solid #cdeff9;
+	/*border: 1px solid #cdeff9;*/
 	-moz-border-radius:6px;
 	-webkit-border-radius:6px;
 	border-radius:6px;
@@ -3851,13 +3851,13 @@ ul.share-buttons img {
 	.checkout-onepage-index #shipping-new-address-form,
 	.checkout-onepage-index #payment_form_hcdgp,
 	.checkout-onepage-index #payment_form_hcddd {
-		border: 1px solid #eee;
+		/*border: 1px solid #eee;*/
 		-moz-border-radius:6px;
 		-webkit-border-radius:6px;
 		border-radius:6px;
 		max-width:340px;
 		/*background-color:#fafafa;*/
-		margin:18px auto;
+		margin:18px 0;
 	}
 	
 	.col-main .my-account .addresses-primary ol, .col-main .my-account .addresses-additional ol {
