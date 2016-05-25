@@ -1448,7 +1448,7 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 }
 
 .checkout-onepage-index .page-title {
-	padding:10px;
+	padding:20px 10px 10px 10px;
 	max-width:350px;
 }
 
