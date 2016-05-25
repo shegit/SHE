@@ -433,7 +433,7 @@ ul.item-options,.product-details > ul {
 @media only screen and (min-width: 40.063em) /*Applies to MEDIUM AND LARGE*/ {
 	
 	.wrapper {
-		min-width:690px!important;
+		min-width:718px!important;
 	}
 	
 	.medium-left {
@@ -2363,7 +2363,7 @@ table.responsive th span, table.responsive th {
 }
 
 #cat-page-desc-wrapper h2 {
-	padding-bottom:5px;
+	padding-bottom:15px;
 }
 
 #cat-page-desc-wrapper p {
@@ -4108,7 +4108,7 @@ border-bottom:1px solid #cdeff9;
 	color:#756693!important;
 	}
 
-	#cat-page-desc-wrapper h2 {
+	#cat-page-desc-wrapper h2, #cat-page-desc-wrapper h3 {
 	-webkit-column-span:all;
 	column-span:all
 	}
