@@ -48,7 +48,7 @@ cron.php
 cron.sh
 favicon.ico
 get.php
-index.php
+index.php.old
 index.php.sample
 install.php
 LICENSE.html
