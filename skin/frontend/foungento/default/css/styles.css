@@ -4019,6 +4019,16 @@ border-bottom-left-radius: 6px;
 
 .account-create p.form-instructions {
 	text-align:center;
+	font-size: 14px;
+    color: #444;
+}
+
+.account-create p.required {
+	display:none;
+}
+
+.account-create ul.form-list {
+	margin:0 20px 20px 20px;
 }
 
 .mobile-bar {
