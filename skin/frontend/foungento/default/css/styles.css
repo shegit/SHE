@@ -4021,6 +4021,7 @@ border-bottom-left-radius: 6px;
 	text-align:center;
 	font-size: 14px;
     color: #444;
+	margin-top:10px;
 }
 
 .account-create p.required {
@@ -4057,6 +4058,14 @@ border-bottom:1px solid #cdeff9;
 }
 
 	@media only screen and (max-width: 40em) {
+	
+	.customer-account-create .col-main {
+		background:#fff;
+	}
+	
+	.customer-account-create nav.container {
+		background:#fff;
+	}
 		
 	.catalog-product-view .main {
 		background-image:none;
