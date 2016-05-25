@@ -1451,6 +1451,11 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 	padding:10px;
 }
 
+.checkout-onepage-index .page-title h1 {
+	text-decoration:underline;
+}
+
+
 .checkout-onepage-index .minicart-head-container {
 	display:none;
 }
@@ -1520,7 +1525,8 @@ _:-ms-lang(x), #nav ul.level0.dropdown { margin-top:-1px; }
 	border-radius:6px;
 	max-width:340px;
 	/*background-color:#f6fcfe;*/
-	margin:18px auto;
+	margin:0 auto;
+	margin-bottom:18px;
     padding: 20px 20px 0 20px;
 }
 
