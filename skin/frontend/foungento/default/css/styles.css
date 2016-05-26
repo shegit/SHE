@@ -4143,6 +4143,11 @@ border-bottom:1px solid #cdeff9;
 	#cat-page-desc-wrapper h3 {
 		font-size: 20px;
 	}
+	
+	.catalog-category-view h3 {
+		font-size: 20px;
+		margin:0 20px;
+	}
 
 	.list-items span {
 	line-height:17px!important;
