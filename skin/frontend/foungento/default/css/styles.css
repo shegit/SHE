@@ -4139,6 +4139,10 @@ border-bottom:1px solid #cdeff9;
 	-webkit-column-span:all;
 	column-span:all
 	}
+	
+	#cat-page-desc-wrapper h3 {
+		font-size: 22px;
+	}
 
 	.list-items span {
 	line-height:17px!important;
