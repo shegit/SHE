@@ -3295,8 +3295,8 @@ table.responsive th span, table.responsive th {
 
 .sharebox {
 	margin:0;
-	padding:0;
-	position:relative
+	padding:9px 0 0 0;
+	position:relative;
 }
 
 ul.share-buttons {
