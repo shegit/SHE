@@ -4145,8 +4145,7 @@ border-bottom:1px solid #cdeff9;
 		margin:0;
 	}
 	
-	.catalog-category-view h3 {
-		font-size: 20px;
+	.catalog-category-view .category-description h2 {
 		margin:0 20px;
 	}
 
