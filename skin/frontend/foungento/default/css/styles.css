@@ -4146,7 +4146,12 @@ border-bottom:1px solid #cdeff9;
 	}
 	
 	.catalog-category-view .category-description h3 {
-		margin:0 20px;
+		font-size: 20px;
+		margin:0 15px;
+	}
+	
+	.catalog-category-view .category-description h2 {
+		margin:0 15px;
 	}
 
 	.list-items span {
