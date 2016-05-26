@@ -3812,6 +3812,12 @@ ul.share-buttons img {
 @media only screen and (min-width: 40.063em) /*Applies to MEDIUM AND LARGE*/ {
 	
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
+	
+	.catalog-category-view .addthis_sharing_toolbox {
+		margin-top:9px;
+		max-width:230px;
+		float:right;
+	}
 
 	.catbox a.mobile-link-box {
 		display:none;
