@@ -4167,6 +4167,10 @@ border-bottom:1px solid #cdeff9;
 	.list-short-desc {
 	display:none
 	}
+	
+	.col-main-cat .category-title h1 {
+		margin-top:10px;
+	}
 
 	.col-main-cat {
 	/*border-top:none!important;
