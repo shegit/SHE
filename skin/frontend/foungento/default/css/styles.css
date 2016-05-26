@@ -3814,7 +3814,7 @@ ul.share-buttons img {
 /*------------------------- CMS-INDEX-INDEX -------------------------*/
 	
 	.catalog-category-view .addthis_sharing_toolbox {
-		margin-top:9px;
+		margin-top:-15px;
 		max-width:230px;
 		float:right;
 	}
