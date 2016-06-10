@@ -2258,6 +2258,8 @@ table.responsive th span, table.responsive th {
 
 .list-short-desc strong, .list-short-desc p strong, .list-short-desc span strong, .list-short-desc a strong, .list-short-desc ul li strong {
 	font-weight:600!important;
+	padding-top:10px;
+	padding-bottom:10px;
 }
 
 .list-short-desc br {
