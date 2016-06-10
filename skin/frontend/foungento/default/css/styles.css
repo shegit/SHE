@@ -2257,7 +2257,7 @@ table.responsive th span, table.responsive th {
 }
 
 .list-short-desc strong, .list-short-desc p strong, .list-short-desc span strong, .list-short-desc a strong, .list-short-desc ul li strong {
-	font-weight:400;
+	font-weight:600!important;
 }
 
 .list-short-desc br {
