@@ -46,6 +46,8 @@ var/
 api.php
 cron.php
 cron.sh
+cron.php.old
+cron.sh.old
 favicon.ico
 get.php
 index.php.old
